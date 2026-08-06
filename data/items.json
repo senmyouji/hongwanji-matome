@@ -2,6 +2,42 @@
  "updated": "2026-08-06 09:00",
  "items": [
   {
+   "行": 593,
+   "cat": "event",
+   "post_date": "2026-08-04",
+   "pref": "兵庫県",
+   "city": "姫路市",
+   "temple": "善養寺",
+   "title": "読経と瞑想の会",
+   "url": "https://zenyouji-himeji.jp/",
+   "desc": "善養寺で開かれる読経と瞑想の体験会。8月16日に開催予定。",
+   "event_date": "2026-08-16"
+  },
+  {
+   "行": 761,
+   "cat": "event",
+   "post_date": "2026-07-07",
+   "pref": "山口県",
+   "city": "下松市",
+   "temple": "専明寺",
+   "title": "専明寺 継職法要（お稚児さん募集）",
+   "url": "https://senmyouji.or.jp/",
+   "desc": "2026年11月15日に勤修される専明寺の継職法要。法要参列のお稚児さんを募集している。",
+   "event_date": "2026-11-15"
+  },
+  {
+   "行": 761,
+   "cat": "event",
+   "post_date": "2026-08-04",
+   "pref": "山口県",
+   "city": "下松市",
+   "temple": "専明寺",
+   "title": "浄土真宗きほんの『き』勉強会",
+   "url": "https://senmyouji.or.jp/",
+   "desc": "浄土真宗の基礎を分かりやすく学ぶ勉強会。9月7日（月）午後2時から開催予定。",
+   "event_date": "2026-09-07"
+  },
+  {
    "行": 349,
    "cat": "houkoku",
    "post_date": "2026-08-05",
