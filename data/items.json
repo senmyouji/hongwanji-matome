@@ -1,241 +1,381 @@
 {
- "updated": "2026-09-01 00:00",
+ "updated": "2026-09-02 00:00",
  "items": [
   {
-   "行": "1040",
-   "cat": "jihou",
-   "post_date": "2026-08-27",
-   "pref": "福井県",
-   "city": "鯖江市",
-   "temple": "報恩寺",
-   "title": "報恩寺 寺報（お盆号）",
-   "url": "https://www.ho-on-ji.com/newsletters",
-   "desc": "福井県鯖江市・報恩寺がお盆号の寺報をウェブサイトに公開した。"
-  },
-  {
-   "行": "677",
-   "cat": "jihou",
-   "post_date": "2026-08-27",
-   "pref": "広島県",
-   "city": "庄原市",
-   "temple": "勝光寺",
-   "title": "勝光寺寺報 令和8年「お盆号」",
-   "url": "https://syoukouji.com/",
-   "desc": "広島県庄原市・勝光寺の寺報「令和8年お盆号」が発行・掲載された。"
-  },
-  {
-   "行": "661",
-   "cat": "jihou",
-   "post_date": "2026-08-18",
-   "pref": "岡山県",
-   "city": "小田郡矢掛町",
-   "temple": "専教寺",
-   "title": "仏婦だより「2026年号」を発行しました（専教寺）",
-   "url": "https://senkyoji.com/?cat=4",
-   "desc": "岡山県矢掛町・専教寺の仏教婦人会機関紙「仏婦だより」2026年号が発行された。"
-  },
-  {
-   "行": "854",
+   "行": 841,
    "cat": "houkoku",
-   "post_date": "2026-08-25",
+   "post_date": "2026-09-28",
    "pref": "福岡県",
-   "city": "福岡市中央区",
-   "temple": "光明寺",
-   "title": "熊本地震義援金144,201円を寄付（光明寺）",
-   "url": "https://komyoji-fukuoka.org/",
-   "desc": "福岡市中央区・光明寺がお盆法要で呼びかけた令和8年熊本地震への義援金144,201円を全額、浄土真宗本願寺派のたすけあい運動募金に寄付したと報告。"
+   "city": "北九州市",
+   "temple": "善隆寺",
+   "title": "おてら料理教室　À Table(ア ターブル)",
+   "url": "https://zenryuji-kokura.com/",
+   "desc": "善隆寺より。おてら料理教室　À Table(ア ターブル)"
   },
   {
-   "行": "622",
+   "行": 710,
    "cat": "houkoku",
-   "post_date": "2026-08-16",
-   "pref": "鳥取県",
-   "city": "倉吉市",
-   "temple": "妙寂寺",
-   "title": "盆会（令和８年）",
-   "url": "https://myojakuji.com/",
-   "desc": "鳥取県倉吉市・妙寂寺で8月13〜15日の盂蘭盆会が勤まった報告。"
-  },
-  {
-   "行": "512",
-   "cat": "houkoku",
-   "post_date": "2026-08-26",
-   "pref": "奈良県",
-   "city": "香芝市",
-   "temple": "西方寺",
-   "title": "西方寺 燈火会・お盆法要（フルート演奏）",
-   "url": "https://nara-saihouji.net/",
-   "desc": "奈良県香芝市・西方寺で8月14日にお盆法要と燈火会を開催。フルート奏者を招いた演奏とともに燈火の中で先立たれた方を偲んだ報告。"
-  },
-  {
-   "行": "439",
-   "cat": "houkoku",
-   "post_date": "2026-08-17",
-   "pref": "大阪府",
-   "city": "東大阪市",
-   "temple": "大親寺",
-   "title": "令和八年 盂蘭盆会法要を終えて（大親寺）",
-   "url": "https://xn--pssq9dr19d.com/",
-   "desc": "大阪府東大阪市・大親寺で令和8年の盂蘭盆会法要が無事に勤まったとの報告。"
-  },
-  {
-   "行": "423",
-   "cat": "houkoku",
-   "post_date": "2026-08-14",
-   "pref": "大阪府",
-   "city": "高槻市",
-   "temple": "光専寺",
-   "title": "盂蘭盆会法要・合同墓建碑法要を厳修いたしました（光専寺）",
-   "url": "https://kousenji-takatsuki.com/",
-   "desc": "大阪府高槻市・光専寺で8月14日に盂蘭盆会法要と合同墓建碑法要を合わせて厳修したとの報告。"
-  },
-  {
-   "行": "341",
-   "cat": "houkoku",
-   "post_date": "2026-08-14",
-   "pref": "滋賀県",
-   "city": "大津市",
-   "temple": "本福寺",
-   "title": "盂蘭盆会（令和8年）",
-   "url": "http://honpukuji-hamaotsu.net/",
-   "desc": "滋賀県大津市・本福寺で令和8年の盂蘭盆会が厳修された報告。"
-  },
-  {
-   "行": "213",
-   "cat": "houkoku",
-   "post_date": "2026-08-02",
-   "pref": "埼玉県",
-   "city": "新座市",
-   "temple": "教念寺",
-   "title": "盂蘭盆会法要（教念寺）",
-   "url": "https://www.kyonenji.jp/",
-   "desc": "埼玉県新座市・教念寺で令和8年の盂蘭盆会法要が勤修された報告。"
-  },
-  {
-   "行": "168",
-   "cat": "houkoku",
-   "post_date": "2026-08-24",
-   "pref": "千葉県",
-   "city": "千葉市",
-   "temple": "大願寺",
-   "title": "盂蘭盆会合同法要（報告）",
-   "url": "https://daiganji.info/",
-   "desc": "千葉県千葉市・大願寺で令和8年の盂蘭盆会合同法要が勤修された報告。"
-  },
-  {
-   "行": "200",
-   "cat": "houkoku",
-   "post_date": "2026-08-27",
-   "pref": "栃木県",
-   "city": "那須郡那珂川町",
-   "temple": "慈願寺",
-   "title": "お寺の臨海学校（2026年）",
-   "url": "https://jiganji.exblog.jp/",
-   "desc": "栃木県那珂川町・慈願寺恒例の「お寺の臨海学校」が今年も開催され、子ども47名が参加した行事報告。"
-  },
-  {
-   "行": "805",
-   "cat": "event",
-   "post_date": "2026-08-27",
-   "pref": "香川県",
-   "city": "高松市",
-   "temple": "称讃寺",
-   "title": "第18回 心と命のフォーラム（下重暁子・島薗進）",
-   "url": "https://www.syousanji.com/",
-   "desc": "香川県高松市・称讃寺で10月6日（火）「第18回 心と命のフォーラム」を開催。作家・下重暁子氏、宗教学者・島薗進氏、善通寺法主・菅智潤師、称讃寺住職・瑞田信弘師が登壇。",
-   "event_date": "2026-10-06"
-  },
-  {
-   "行": "555",
-   "cat": "event",
-   "post_date": "2026-08-25",
-   "pref": "兵庫県",
-   "city": "神戸市東灘区",
+   "post_date": "2026-09-24",
+   "pref": "広島県",
+   "city": "安芸郡",
    "temple": "西林寺",
-   "title": "9月の法話会（石川知全師）",
-   "url": "https://www.sairinji.net/",
-   "desc": "兵庫県神戸市東灘区・西林寺で9月8日（火）に法話会を開催。ご講師は福山・正圓寺の石川知全師。",
-   "event_date": "2026-09-08"
+   "title": "仏教婦人会役員勉強会",
+   "url": "https://sairinji.or.jp/",
+   "desc": "西林寺より。仏教婦人会役員勉強会"
   },
   {
-   "行": "450",
+   "行": 710,
+   "cat": "houkoku",
+   "post_date": "2026-09-12",
+   "pref": "広島県",
+   "city": "安芸郡",
+   "temple": "西林寺",
+   "title": "よろこびの集い",
+   "url": "https://sairinji.or.jp/",
+   "desc": "西林寺より。よろこびの集い"
+  },
+  {
+   "行": 710,
+   "cat": "houkoku",
+   "post_date": "2026-09-09",
+   "pref": "広島県",
+   "city": "安芸郡",
+   "temple": "西林寺",
+   "title": "安芸北組仏教壮年１日研修会",
+   "url": "https://sairinji.or.jp/",
+   "desc": "西林寺より。安芸北組仏教壮年１日研修会"
+  },
+  {
+   "行": 841,
+   "cat": "houkoku",
+   "post_date": "2026-09-09",
+   "pref": "福岡県",
+   "city": "北九州市",
+   "temple": "善隆寺",
+   "title": "／ 2026年09月30日",
+   "url": "https://zenryuji-kokura.com/",
+   "desc": "善隆寺より。／ 2026年09月30日"
+  },
+  {
+   "行": 710,
+   "cat": "houkoku",
+   "post_date": "2026-09-07",
+   "pref": "広島県",
+   "city": "安芸郡",
+   "temple": "西林寺",
+   "title": "安芸北組仏教婦人研修会",
+   "url": "https://sairinji.or.jp/",
+   "desc": "西林寺より。安芸北組仏教婦人研修会"
+  },
+  {
+   "行": 710,
+   "cat": "houkoku",
+   "post_date": "2026-09-07",
+   "pref": "広島県",
+   "city": "安芸郡",
+   "temple": "西林寺",
+   "title": "仏教壮年会月例会",
+   "url": "https://sairinji.or.jp/",
+   "desc": "西林寺より。仏教壮年会月例会"
+  },
+  {
+   "行": 710,
+   "cat": "houkoku",
+   "post_date": "2026-09-05",
+   "pref": "広島県",
+   "city": "安芸郡",
+   "temple": "西林寺",
+   "title": "仏教婦人会理事",
+   "url": "https://sairinji.or.jp/",
+   "desc": "西林寺より。仏教婦人会理事"
+  },
+  {
+   "行": 1011,
    "cat": "event",
-   "post_date": "2026-08-20",
-   "pref": "大阪府",
-   "city": "八尾市",
-   "temple": "恵光寺",
-   "title": "月例法座（藤丸智雄先生）",
-   "url": "http://www.ecoji.org/",
-   "desc": "大阪府八尾市・恵光寺の月例法座。9月3日（水）、ご講師は藤丸智雄先生。",
-   "event_date": "2026-09-03"
+   "post_date": "2026-09-02",
+   "pref": "鹿児島県",
+   "city": "薩摩川内市",
+   "temple": "真光寺",
+   "title": "のんの会(子供会)",
+   "url": "https://www.ryuonzan-shinkouji.or.jp/event/",
+   "desc": "真光寺の特別行事。法要・行事 | 今月の行事・年間行事 | 龍音山真光寺\n浄土真宗本願寺派 龍音山真光寺\n真光寺の歩み\n真光寺探訪\nかくれ念仏の歴史\n真光寺と有島家\n今月の行事\n年間行事\nお朝事\n定例(女性の会)\n法友"
   },
   {
-   "行": "412",
+   "行": 1022,
+   "cat": "houkoku",
+   "post_date": "2026-09-02",
+   "pref": "鹿児島県",
+   "city": "霧島市",
+   "temple": "照明寺",
+   "title": "令和8年　『秋彼岸法要』",
+   "url": "https://syoumyou-ji.jp/news",
+   "desc": "照明寺より。令和8年　『秋彼岸法要』"
+  },
+  {
+   "行": 1060,
+   "cat": "jihou",
+   "post_date": "2026-09-02",
+   "pref": "富山県",
+   "city": "高岡市",
+   "temple": "廣濟寺",
+   "title": "廣濟寺 寺報 第86号",
+   "url": "https://kosaiji.net/%e5%ba%83%e6%b8%88%e5%af%ba%e5%af%ba%e5%a0%b1/",
+   "desc": "廣濟寺の寺報。浄土真宗本願寺派 福田山 広済寺 » 寺報\nトップ\n歴史\n年中行事\n寺報\n法語\nアクセス\nお問い合わせ\nリンク\nかわら版\n2026年9月\n日\n月\n火\n水\n木\n金\n土\n1\n2\n3\n4\n5\n6\n7\n8\n9"
+  },
+  {
+   "行": 1067,
+   "cat": "houkoku",
+   "post_date": "2026-09-02",
+   "pref": "富山県",
+   "city": "氷見市",
+   "temple": "乗福寺",
+   "title": "地震・雷・火事・地滑り・洪水・・・",
+   "url": "https://joufukuji.jimdofree.com/ブログ/",
+   "desc": "乗福寺より。地震・雷・火事・地滑り・洪水・・・"
+  },
+  {
+   "行": 1075,
+   "cat": "jihou",
+   "post_date": "2026-09-02",
+   "pref": "富山県",
+   "city": "黒部市",
+   "temple": "善巧寺",
+   "title": "善巧寺 寺報（2026年）",
+   "url": "https://www.zengyou.net/%e5%af%ba%e5%a0%b1/",
+   "desc": "善巧寺の寺報。寺報 | 白雪山善巧寺\n年に4回発行している善巧寺の季刊誌です。\nご覧になる寺報の画像をクリックするとPDFファイルが開きます。（PC推奨）\n> 諸先生方の巻頭法話（テキスト）\n> 諸先生方の記念法話"
+  },
+  {
+   "行": 1089,
+   "cat": "jihou",
+   "post_date": "2026-09-02",
+   "pref": "新潟県",
+   "city": "長岡市",
+   "temple": "託念寺",
+   "title": "託念寺 寺報（2026年）",
+   "url": "http://www.maekawahoikuen.com/takunenji/teradayori/",
+   "desc": "託念寺の寺報。浄土真宗本願寺派　託念寺 ｜ 託念てらだより\n浄土真宗本願寺派　託念寺のホームページ\n261号　感話：いってきます　いってらっしゃい　ただいま　お帰りなさい\n[ 令和8年9月2日 ]\n災害の続発\n今朝"
+  },
+  {
+   "行": 1089,
    "cat": "event",
-   "post_date": "2026-08-27",
-   "pref": "大阪府",
-   "city": "茨木市",
-   "temple": "西福寺",
-   "title": "人生講座（文珠四郎琢磨師）",
-   "url": "https://runbini-saifukuji.jimdofree.com/",
-   "desc": "大阪府茨木市・西福寺で9月13日（日）「人生講座」を開催。講師は文珠四郎琢磨師（うつ病経験を経て僧侶になった経歴の持ち主）。",
-   "event_date": "2026-09-13"
+   "post_date": "2026-09-02",
+   "pref": "新潟県",
+   "city": "長岡市",
+   "temple": "託念寺",
+   "title": "２．お琴演奏会　演奏者：小林孝子さん　中静浩子さん",
+   "url": "http://www.maekawahoikuen.com/takunenji/schedule/",
+   "desc": "託念寺の特別行事。１．お勤め：しんじんのうた　調声：恵以真会役員\n２．お琴演奏会　演奏者：小林孝子さん　中静浩子さん\n曲目：　「さくら」　「荒城の月」　「もみじ」　など\n３．みんなで歌いましょう：　「夕焼け小焼け」\n４"
   },
   {
-   "行": "204",
+   "行": 114,
+   "cat": "jihou",
+   "post_date": "2026-09-02",
+   "pref": "東京都",
+   "city": "豊島区",
+   "temple": "誓願寺",
+   "title": "誓願寺 寺報（2026年）",
+   "url": "https://www.seiganji-tokyo.jp/doujin",
+   "desc": "誓願寺の寺報。しんらん同人(誓願寺報) | 誓願寺\nコンテンツへスキップ\nナビゲーションに移動\nしんらん同人(誓願寺報)\n浄土真宗 誓願寺ホームページ\nしんらん同人(誓願寺報)\nこのページでは誓願寺が発行している機"
+  },
+  {
+   "行": 119,
    "cat": "event",
-   "post_date": "2026-08-27",
-   "pref": "栃木県",
-   "city": "さくら市",
-   "temple": "養泉寺",
-   "title": "お寺で紙芝居！（吉弘一秀師による節談説教）",
-   "url": "https://www.yousenji.net/",
-   "desc": "栃木県さくら市・養泉寺で吉弘一秀師による「おてら紙芝居」を11月8日（日）に開催。浄土真宗の節談説教を紙芝居でわかりやすく伝える催し。",
-   "event_date": "2026-11-08"
+   "post_date": "2026-09-02",
+   "pref": "東京都",
+   "city": "練馬区",
+   "temple": "真竜寺",
+   "title": "お勤めの後、写経や子供たちの念珠づくり等々、茶話会も",
+   "url": "https://www.nerimaku-shinryuuji.tokyo/年間行事",
+   "desc": "真竜寺の特別行事。年間行事 | 浄土真宗本願寺派　真龍寺\ntop of page\n最終更新日\n​仏暦2569年\n2026年9月1\n日\n年間行事\n​どなたでも初めてが必ずあります。\nあなたのお寺ですから、心配は無用です。",
+   "event_date": "2026-09-01"
   },
   {
-   "行": "1070",
+   "行": 165,
    "cat": "houwa",
-   "post_date": "2026-08-20",
+   "post_date": "2026-09-02",
+   "pref": "神奈川県",
+   "city": "南足柄市",
+   "temple": "善福寺",
+   "title": "令和8年9月の掲示板",
+   "url": "https://www.zempukuji.or.jp/",
+   "desc": "善福寺より。令和8年9月の掲示板"
+  },
+  {
+   "行": 185,
+   "cat": "jihou",
+   "post_date": "2026-09-02",
+   "pref": "茨城県",
+   "city": "那珂市",
+   "temple": "上宮寺",
+   "title": "上宮寺 寺報（2026年）",
+   "url": "https://jyouguji.org/news.html",
+   "desc": "上宮寺の寺報。上宮寺だより | 上宮寺ー浄土真宗本願寺派\n» 続きを読む\n2026年09月01日\n令和８年９月の掲示板\n2026年08月01日\n令和８年８月の掲示板\n2026年07月13日\n８月の上宮寺子供会のご案"
+  },
+  {
+   "行": 216,
+   "cat": "houwa",
+   "post_date": "2026-09-02",
+   "pref": "埼玉県",
+   "city": "東松山市",
+   "temple": "西照寺",
+   "title": "未来条件付き保管メッセージ④",
+   "url": "http://www.saisyoji.jp/%E8%A5%BF%E7%85%A7%E5%AF%BA%e3%80%80%E6%B3%95%E8%A9%B1%E4%BC%9A/",
+   "desc": "西照寺の法話・記事。未来条件付き保管メッセージ④"
+  },
+  {
+   "行": 310,
+   "cat": "houkoku",
+   "post_date": "2026-09-02",
+   "pref": "岐阜県",
+   "city": "安八郡",
+   "temple": "性顕寺",
+   "title": "永代経は９月１５日(火) 　　　　　　２０日(日) 　　　　　　２３日(水・お中日) 　　　　　　２６日(土)",
+   "url": "https://xn--detz0h097d.jp/%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b/",
+   "desc": "性顕寺より。永代経は９月１５日(火) 　　　　　　２０日(日) 　　　　　　２３日(水・お中日) 　　　　　　２６日(土) 　　　　"
+  },
+  {
+   "行": 362,
+   "cat": "event",
+   "post_date": "2026-09-02",
+   "pref": "大阪府",
+   "city": "大阪市",
+   "temple": "正宣寺",
+   "title": "お彼岸＆能登応援ライブ（予約制）",
+   "url": "https://www.shosenji.or.jp/event/",
+   "desc": "正宣寺の特別行事。行事予定｜浄土真宗本願寺派（西本願寺） 光寿山 正宣寺\nPlease click\nhere\nif you are not redirected within a few seconds.\nEnglis",
+   "event_date": "2026-09-20"
+  },
+  {
+   "行": 375,
+   "cat": "houkoku",
+   "post_date": "2026-09-02",
+   "pref": "大阪府",
+   "city": "大阪市",
+   "temple": "宣光寺",
+   "title": "秋季彼岸会（秋のお彼岸）のお知らせ",
+   "url": "https://senkouji.or.jp/",
+   "desc": "宣光寺より。秋季彼岸会（秋のお彼岸）のお知らせ"
+  },
+  {
+   "行": 375,
+   "cat": "houkoku",
+   "post_date": "2026-09-02",
+   "pref": "大阪府",
+   "city": "大阪市",
+   "temple": "宣光寺",
+   "title": "９月　定例法座（毎月のおつとめ）",
+   "url": "https://senkouji.or.jp/",
+   "desc": "宣光寺より。９月　定例法座（毎月のおつとめ）"
+  },
+  {
+   "行": 405,
+   "cat": "jihou",
+   "post_date": "2026-09-02",
+   "pref": "大阪府",
+   "city": "池田市",
+   "temple": "正福寺",
+   "title": "正福寺 寺報（2026年）",
+   "url": "http://namosquare.org/onstage/onstage.html",
+   "desc": "正福寺の寺報。住職オンステージ　正福寺が発行する『正福寺だより』です。\nこのページでは、正福寺が月に１度発行している『正福寺だより』を掲載します。\n2026年9月号\n水と土と多くのいのちの恩恵に預かって生きている！"
+  },
+  {
+   "行": 476,
+   "cat": "jihou",
+   "post_date": "2026-09-02",
+   "pref": "",
+   "city": "",
+   "temple": "因念寺",
+   "title": "因念寺 寺報 令和8年　光雲9月号",
+   "url": "https://innenji.jp/info",
+   "desc": "因念寺の寺報。～徒然だより～「お知らせ」 - 成就山　因念寺\n072-237-3212\n成就山　因念寺\n虚仮の世界に、ただ一つまことの光\n「必ず救う」の弥陀の呼び声\nお念仏のお寺\nホーム\nお寺の紹介\n令和6年　慶讃"
+  },
+  {
+   "行": 646,
+   "cat": "houkoku",
+   "post_date": "2026-09-02",
+   "pref": "島根県",
+   "city": "江津市",
+   "temple": "光善寺",
+   "title": "「息抜き」は無用か",
+   "url": "https://kouzen-ji.com/",
+   "desc": "光善寺より。「息抜き」は無用か"
+  },
+  {
+   "行": 661,
+   "cat": "jihou",
+   "post_date": "2026-09-02",
+   "pref": "岡山県",
+   "city": "小田郡",
+   "temple": "専教寺",
+   "title": "専教寺 寺報 春号",
+   "url": "https://senkyoji.com/?cat=3",
+   "desc": "専教寺の寺報。専教寺寺報 – 浄土真宗本願寺派　一乘山 専教寺\nコンテンツへスキップ\nメニュー\n閉じる\n投稿公開日:\n2026年4月1日\n投稿カテゴリー:\n専教寺寺報\n続きを読む\n専教寺寺報「2026年春号」を発行"
+  },
+  {
+   "行": 749,
+   "cat": "houkoku",
+   "post_date": "2026-09-02",
+   "pref": "広島県",
+   "city": "広島市",
+   "temple": "順教寺",
+   "title": "寺嫁のゆる精進ごはん ｜ 第1回 ゆる精進、ふだんごはん。家で採れたきゅうりの胡麻味噌和え 旬の野菜を、難しく考えず、お",
+   "url": "https://jyunkyouji.com/news1/",
+   "desc": "順教寺より。寺嫁のゆる精進ごはん ｜ 第1回 ゆる精進、ふだんごはん。家で採れたきゅうりの胡麻味噌和え 旬の野菜を、難しく考えず、お"
+  },
+  {
+   "行": 749,
+   "cat": "houkoku",
+   "post_date": "2026-09-02",
+   "pref": "広島県",
+   "city": "広島市",
+   "temple": "順教寺",
+   "title": "子どもたちの笑顔が集まるお寺に",
+   "url": "https://jyunkyouji.com/news1/",
+   "desc": "順教寺より。子どもたちの笑顔が集まるお寺に"
+  },
+  {
+   "行": 761,
+   "cat": "jihou",
+   "post_date": "2026-09-02",
    "pref": "山口県",
-   "city": "岩国市",
-   "temple": "専徳寺",
-   "title": "緑色緑光（専徳寺）",
-   "url": "https://www.sentokuji.com/",
-   "desc": "山口県岩国市・専徳寺の住職が阿弥陀仏の身体から放たれる光「緑色緑光」を題に浄土の荘厳とお念仏の功徳を語る法話ブログ。"
+   "city": "下松市",
+   "temple": "専明寺",
+   "title": "専明寺 寺報 春号",
+   "url": "https://senmyouji.or.jp/%ef%bc%92%ef%bc%90%ef%bc%92%ef%bc%96%e5%b9%b4%e6%98%a5%e3%80%80%e5%af%ba%e5%a0%b1/",
+   "desc": "専明寺の寺報。２０２６年春　寺報 - 下松市専明寺【浄土真宗】\n新しいお寺のかたち\n明るいお寺 専明寺（下松市）\n0833-41-3667\nHOME\n>\nお寺日記\n>\n２０２６年春　寺報\n2026年4月16日\n20"
   },
   {
-   "行": "1067",
+   "行": 780,
    "cat": "houwa",
-   "post_date": "2026-08-18",
-   "pref": "富山県",
-   "city": "氷見市",
-   "temple": "乗福寺",
-   "title": "和国の教主聖徳皇（乗福寺）",
-   "url": "https://joufukuji.jimdofree.com/ブログ/",
-   "desc": "富山県氷見市・乗福寺の住職が正信偈「和国の教主聖徳皇」の偈文を縁に聖徳太子の絵像と仏法興隆の意義を語る法話ブログ。"
+   "post_date": "2026-09-02",
+   "pref": "山口県",
+   "city": "宇部市",
+   "temple": "寳林寺",
+   "title": "浄土真宗の基礎知識",
+   "url": "https://hourinji.jimdoweb.com/住職法話その2/",
+   "desc": "寳林寺の法話・記事。浄土真宗の基礎知識"
   },
   {
-   "行": "1067",
-   "cat": "houwa",
-   "post_date": "2026-08-22",
-   "pref": "富山県",
-   "city": "氷見市",
-   "temple": "乗福寺",
-   "title": "御本典を味わう（乗福寺）",
-   "url": "https://joufukuji.jimdofree.com/ブログ/",
-   "desc": "富山県氷見市・乗福寺の住職が親鸞聖人の主著「顕浄土真実教行証文類」（御本典）を読み深める法話ブログ。"
+   "行": 780,
+   "cat": "jihou",
+   "post_date": "2026-09-02",
+   "pref": "山口県",
+   "city": "宇部市",
+   "temple": "寳林寺",
+   "title": "寳林寺 寺報（2026年）",
+   "url": "https://hourinji.jimdoweb.com/坊守通信-2026年/",
+   "desc": "寳林寺の寺報。2026年「なんまんだぶつ」 - 浄土真宗本願寺派　清水山宝林寺\nホーム\n本山(西本願寺)関係のお知らせ\n宝林寺の概要\n宝林寺\n2026記録写真\n仏教の基礎知識\n浄土真宗の基礎知識\n私の善知識    "
   },
   {
-   "行": "1067",
-   "cat": "houwa",
-   "post_date": "2026-08-23",
-   "pref": "富山県",
-   "city": "氷見市",
-   "temple": "乗福寺",
-   "title": "誰もが皆一つの船に乗っている（乗福寺）",
-   "url": "https://joufukuji.jimdofree.com/ブログ/",
-   "desc": "富山県氷見市・乗福寺の住職が高僧和讃（龍樹讃）を讃題に「誰もが皆一つの船に乗っている」と題した法話ブログ。阿弥陀仏の本願という大船に自力・他力の人を分けへだてなく乗せる、という視点を語る。"
+   "行": 948,
+   "cat": "jihou",
+   "post_date": "2026-09-02",
+   "pref": "熊本県",
+   "city": "熊本市",
+   "temple": "浄尊寺",
+   "title": "浄尊寺 寺報（2026年）",
+   "url": "https://www.jousonji.com/tayori/",
+   "desc": "浄尊寺の寺報。お寺だより - 至沸山 浄尊寺\nHOME\nお寺だより\nお寺だより\n2026.09.01\n9月のお寺だより\n2026.08.02\n8月のお寺だより\n2026.07.01\n7月のお寺だより\n2026.06"
   },
   {
    "行": "935",
@@ -258,6 +398,426 @@
    "title": "ご命日は お浄土へ 生まれる日（9月の法語・覚照寺）",
    "url": "https://www.kakusho.org/",
    "desc": "曽於市の覚照寺が9月の法語を公開した。「ご命日は お浄土へ 生まれる日」。"
+  },
+  {
+   "行": 1011,
+   "cat": "houkoku",
+   "post_date": "2026-09-01",
+   "pref": "鹿児島県",
+   "city": "薩摩川内市",
+   "temple": "真光寺",
+   "title": "寺トレのお知らせ",
+   "url": "https://www.ryuonzan-shinkouji.or.jp/",
+   "desc": "真光寺より。寺トレのお知らせ"
+  },
+  {
+   "行": 1011,
+   "cat": "houkoku",
+   "post_date": "2026-09-01",
+   "pref": "鹿児島県",
+   "city": "薩摩川内市",
+   "temple": "真光寺",
+   "title": "のんの会（子供会）のお知らせ",
+   "url": "https://www.ryuonzan-shinkouji.or.jp/",
+   "desc": "真光寺より。のんの会（子供会）のお知らせ"
+  },
+  {
+   "行": 1011,
+   "cat": "houkoku",
+   "post_date": "2026-09-01",
+   "pref": "鹿児島県",
+   "city": "薩摩川内市",
+   "temple": "真光寺",
+   "title": "お抹茶の会のお知らせ",
+   "url": "https://www.ryuonzan-shinkouji.or.jp/",
+   "desc": "真光寺より。お抹茶の会のお知らせ"
+  },
+  {
+   "行": 1022,
+   "cat": "event",
+   "post_date": "2026-09-01",
+   "pref": "鹿児島県",
+   "city": "霧島市",
+   "temple": "照明寺",
+   "title": "＼ 9/7(月) 開催！ ／ 「こどもの…",
+   "url": "https://syoumyou-ji.jp/news",
+   "desc": "照明寺の行事。＼ 9/7(月) 開催！ ／ 「こどもの…",
+   "event_date": "2026-09-07"
+  },
+  {
+   "行": 1048,
+   "cat": "houkoku",
+   "post_date": "2026-09-01",
+   "pref": "福島県",
+   "city": "郡山市",
+   "temple": "円寿寺",
+   "title": "門信徒会研修会を開催しました",
+   "url": "https://enjuji.jp/",
+   "desc": "円寿寺より。門信徒会研修会を開催しました"
+  },
+  {
+   "行": 1067,
+   "cat": "houkoku",
+   "post_date": "2026-09-01",
+   "pref": "富山県",
+   "city": "氷見市",
+   "temple": "乗福寺",
+   "title": "すべてのものにさとりを開かせる至極最上の教えであり",
+   "url": "https://joufukuji.jimdofree.com/ブログ/",
+   "desc": "乗福寺より。すべてのものにさとりを開かせる至極最上の教えであり"
+  },
+  {
+   "行": 1110,
+   "cat": "houkoku",
+   "post_date": "2026-09-01",
+   "pref": "福島県",
+   "city": "郡山市",
+   "temple": "円壽寺",
+   "title": "門信徒会研修会を開催しました",
+   "url": "https://enjuji.jp/",
+   "desc": "円壽寺より。門信徒会研修会を開催しました"
+  },
+  {
+   "行": 137,
+   "cat": "houwa",
+   "post_date": "2026-09-01",
+   "pref": "東京都",
+   "city": "西東京市",
+   "temple": "心光寺",
+   "title": "音御堂 at 築地本願寺 にて仏教讃歌を歌ってきました",
+   "url": "https://sinkoji.net/2026/06/30/hougo_202607/",
+   "desc": "心光寺の法話・記事。音御堂 at 築地本願寺 にて仏教讃歌を歌ってきました"
+  },
+  {
+   "行": 137,
+   "cat": "houwa",
+   "post_date": "2026-09-01",
+   "pref": "東京都",
+   "city": "西東京市",
+   "temple": "心光寺",
+   "title": "今月のことば：「お寺の掲示板」（心光寺）",
+   "url": "https://sinkoji.net/2026/06/30/hougo_202607/",
+   "desc": "心光寺の掲示板・今月の言葉。「お寺の掲示板」"
+  },
+  {
+   "行": 140,
+   "cat": "houkoku",
+   "post_date": "2026-09-01",
+   "pref": "神奈川県",
+   "city": "川崎市",
+   "temple": "正樂寺",
+   "title": "正楽寺日誌を更新しました",
+   "url": "https://www.shorakuji.com/top",
+   "desc": "正樂寺より。正楽寺日誌を更新しました"
+  },
+  {
+   "行": 140,
+   "cat": "houkoku",
+   "post_date": "2026-09-01",
+   "pref": "神奈川県",
+   "city": "川崎市",
+   "temple": "正樂寺",
+   "title": "私一人のための",
+   "url": "https://www.shorakuji.com/top",
+   "desc": "正樂寺より。私一人のための"
+  },
+  {
+   "行": 185,
+   "cat": "houwa",
+   "post_date": "2026-09-01",
+   "pref": "茨城県",
+   "city": "那珂市",
+   "temple": "上宮寺",
+   "title": "令和８年９月の掲示板",
+   "url": "https://jyouguji.org/blog.html",
+   "desc": "上宮寺より。令和８年９月の掲示板"
+  },
+  {
+   "行": 195,
+   "cat": "houkoku",
+   "post_date": "2026-09-01",
+   "pref": "栃木県宇都",
+   "city": "宮市",
+   "temple": "恵光寺",
+   "title": "9月行事予定",
+   "url": "http://www.ekouji.org/news",
+   "desc": "恵光寺より。9月行事予定"
+  },
+  {
+   "行": 216,
+   "cat": "houwa",
+   "post_date": "2026-09-01",
+   "pref": "埼玉県",
+   "city": "東松山市",
+   "temple": "西照寺",
+   "title": "８月も最終日",
+   "url": "http://www.saisyoji.jp/%E8%A5%BF%E7%85%A7%E5%AF%BA%e3%80%80%E6%B3%95%E8%A9%B1%E4%BC%9A/",
+   "desc": "西照寺の法話・記事。８月も最終日"
+  },
+  {
+   "行": 310,
+   "cat": "houkoku",
+   "post_date": "2026-09-01",
+   "pref": "岐阜県",
+   "city": "安八郡",
+   "temple": "性顕寺",
+   "title": "８月の終わり、 ８月２８日(準備)・２９日(当日)毎年恒例 仏教婦人会行事「女性のつどい」が開催されました 前日は境内や",
+   "url": "https://xn--detz0h097d.jp/%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b/",
+   "desc": "性顕寺より。８月の終わり、 ８月２８日(準備)・２９日(当日)毎年恒例 仏教婦人会行事「女性のつどい」が開催されました 前日は境内や"
+  },
+  {
+   "行": 324,
+   "cat": "houkoku",
+   "post_date": "2026-09-01",
+   "pref": "三重県",
+   "city": "員弁郡",
+   "temple": "欣浄寺",
+   "title": "秋の永代経法要",
+   "url": "https://gonjouji.org/",
+   "desc": "欣浄寺より。秋の永代経法要"
+  },
+  {
+   "行": 332,
+   "cat": "houkoku",
+   "post_date": "2026-09-01",
+   "pref": "三重県",
+   "city": "津市",
+   "temple": "西方寺",
+   "title": "第4回『大悲の名告り』  「仏、かねてしろしめして」――ありのままの私を包む阿弥陀さまのお慈悲 ―",
+   "url": "https://saihouji.jp/news/",
+   "desc": "西方寺より。第4回『大悲の名告り』  「仏、かねてしろしめして」――ありのままの私を包む阿弥陀さまのお慈悲 ―"
+  },
+  {
+   "行": 386,
+   "cat": "houkoku",
+   "post_date": "2026-09-01",
+   "pref": "大阪府",
+   "city": "大阪市",
+   "temple": "円満寺",
+   "title": "令和８年９月の行事予定",
+   "url": "https://fukusima-enmanji.org/?cat=2",
+   "desc": "円満寺より。令和８年９月の行事予定"
+  },
+  {
+   "行": 386,
+   "cat": "houwa",
+   "post_date": "2026-09-01",
+   "pref": "大阪府",
+   "city": "大阪市",
+   "temple": "円満寺",
+   "title": "9月の掲示板",
+   "url": "https://fukusima-enmanji.org/",
+   "desc": "円満寺より。9月の掲示板"
+  },
+  {
+   "行": 39,
+   "cat": "houwa",
+   "post_date": "2026-09-01",
+   "pref": "北海道",
+   "city": "美唄市",
+   "temple": "正教寺",
+   "title": "お寺の掲示板／2026年9月",
+   "url": "https://shokyoji.jp/",
+   "desc": "正教寺より。お寺の掲示板／2026年9月"
+  },
+  {
+   "行": 449,
+   "cat": "houkoku",
+   "post_date": "2026-09-01",
+   "pref": "大阪府",
+   "city": "八尾市",
+   "temple": "顕證寺",
+   "title": "住職の大谷本廟守真長就任と平日のお晨朝について",
+   "url": "https://xn--det798hl3i.jp/",
+   "desc": "顕證寺より。住職の大谷本廟守真長就任と平日のお晨朝について"
+  },
+  {
+   "行": 451,
+   "cat": "houwa",
+   "post_date": "2026-09-01",
+   "pref": "大阪府",
+   "city": "柏原市",
+   "temple": "西法寺",
+   "title": "今月のことば：「今月の法語は、京都女子大学の教授・学長をされていた瓜生津隆真先生（1932～20」（西法寺）",
+   "url": "http://saihou-ji.com/houwa_new.html",
+   "desc": "西法寺の掲示板・今月の言葉。「今月の法語は、京都女子大学の教授・学長をされていた瓜生津隆真先生（1932～2015年）の言葉で、『みんなの法話１』（本願寺出版社刊）の文中に出されているそうで」"
+  },
+  {
+   "行": 628,
+   "cat": "houwa",
+   "post_date": "2026-09-01",
+   "pref": "島根県",
+   "city": "松江市",
+   "temple": "西宗寺",
+   "title": "2026(令和8)年８月の法語",
+   "url": "https://saisyuji.net/%e4%bd%8f%e8%81%b7%e3%83%8e%e3%83%bc%e3%83%88/%e4%bb%8a%e6%9c%88%e3%81%ae%e6%b3%95%e8%aa%9e/%e5%b9%b3%e6%88%9031%e5%b9%b4%e5%b9%b4%e9%a0%ad%e3%81%ae%e6%b3%95%e8%aa%9e/",
+   "desc": "西宗寺の法話・記事。2026(令和8)年８月の法語"
+  },
+  {
+   "行": 62,
+   "cat": "houwa",
+   "post_date": "2026-09-01",
+   "pref": "東京都",
+   "city": "港区",
+   "temple": "安楽寺",
+   "title": "9月の法話：迷ったことのない者に 覚めるということはない（伊藤 元）（安楽寺）",
+   "url": "https://anraku-ji.org/keijiban/",
+   "desc": "安楽寺の9月の法話。2026年8月"
+  },
+  {
+   "行": 646,
+   "cat": "houkoku",
+   "post_date": "2026-09-01",
+   "pref": "島根県",
+   "city": "江津市",
+   "temple": "光善寺",
+   "title": "米寿の生き方",
+   "url": "https://kouzen-ji.com/",
+   "desc": "光善寺より。米寿の生き方"
+  },
+  {
+   "行": 704,
+   "cat": "houkoku",
+   "post_date": "2026-09-01",
+   "pref": "広島県",
+   "city": "広島市",
+   "temple": "妙法寺",
+   "title": "夏法座のご案内",
+   "url": "https://myo-ho-ji.com/news",
+   "desc": "妙法寺より。夏法座のご案内"
+  },
+  {
+   "行": 704,
+   "cat": "houkoku",
+   "post_date": "2026-09-01",
+   "pref": "広島県",
+   "city": "広島市",
+   "temple": "妙法寺",
+   "title": "秋季永代経・報恩講法要のご案内",
+   "url": "https://myo-ho-ji.com/",
+   "desc": "妙法寺より。秋季永代経・報恩講法要のご案内"
+  },
+  {
+   "行": 707,
+   "cat": "jihou",
+   "post_date": "2026-09-01",
+   "pref": "",
+   "city": "",
+   "temple": "浄宗寺",
+   "title": "浄宗寺だより",
+   "url": "https://www.joushuji.net/",
+   "desc": "浄宗寺より。浄宗寺だより"
+  },
+  {
+   "行": 707,
+   "cat": "jihou",
+   "post_date": "2026-09-01",
+   "pref": "",
+   "city": "",
+   "temple": "浄宗寺",
+   "title": "浄宗寺だより　令和8年9月号を発行しました。 令和8年熊本地震により被災された皆様に衷心よりお見舞い申し上げます 秋彼岸",
+   "url": "https://www.joushuji.net/",
+   "desc": "浄宗寺より。浄宗寺だより　令和8年9月号を発行しました。 令和8年熊本地震により被災された皆様に衷心よりお見舞い申し上げます 秋彼岸"
+  },
+  {
+   "行": 710,
+   "cat": "jihou",
+   "post_date": "2026-09-01",
+   "pref": "広島県",
+   "city": "安芸郡",
+   "temple": "西林寺",
+   "title": "寺報編集会議",
+   "url": "https://sairinji.or.jp/",
+   "desc": "西林寺より。寺報編集会議"
+  },
+  {
+   "行": 712,
+   "cat": "houwa",
+   "post_date": "2026-09-01",
+   "pref": "",
+   "city": "",
+   "temple": "正光寺",
+   "title": "9月の法話：（正光寺）",
+   "url": "https://nakaso.info/blog/category/%e4%bb%8a%e6%9c%88%e3%81%ae%e6%b3%95%e8%a9%b1/",
+   "desc": "正光寺の9月の法話。2026年7月"
+  },
+  {
+   "行": 780,
+   "cat": "houwa",
+   "post_date": "2026-09-01",
+   "pref": "山口県",
+   "city": "宇部市",
+   "temple": "寳林寺",
+   "title": "仏教の基礎知識",
+   "url": "https://hourinji.jimdoweb.com/住職法話その2/",
+   "desc": "寳林寺の法話・記事。仏教の基礎知識"
+  },
+  {
+   "行": 841,
+   "cat": "houkoku",
+   "post_date": "2026-09-01",
+   "pref": "福岡県",
+   "city": "北九州市",
+   "temple": "善隆寺",
+   "title": "2026年9月のお寺の行事を更新しました。",
+   "url": "https://zenryuji-kokura.com/",
+   "desc": "善隆寺より。2026年9月のお寺の行事を更新しました。"
+  },
+  {
+   "行": 848,
+   "cat": "houkoku",
+   "post_date": "2026-09-01",
+   "pref": "福岡県",
+   "city": "北九州市",
+   "temple": "正覚寺",
+   "title": "２０２６年度　９月門徒例会のご案内",
+   "url": "https://www.shokakuji.or.jp/",
+   "desc": "正覚寺より。２０２６年度　９月門徒例会のご案内"
+  },
+  {
+   "行": 889,
+   "cat": "houkoku",
+   "post_date": "2026-09-01",
+   "pref": "福岡県",
+   "city": "糸島市",
+   "temple": "妙休寺",
+   "title": "令和八年　永代経法要のお知らせ",
+   "url": "https://myoukyuji.or.jp/category/news/",
+   "desc": "妙休寺より。令和八年　永代経法要のお知らせ"
+  },
+  {
+   "行": 941,
+   "cat": "houkoku",
+   "post_date": "2026-09-01",
+   "pref": "福岡県",
+   "city": "福岡市",
+   "temple": "西林寺",
+   "title": "9月9日（水）神戸別院にて。",
+   "url": "https://sairinji.org/",
+   "desc": "西林寺より。9月9日（水）神戸別院にて。"
+  },
+  {
+   "行": 941,
+   "cat": "event",
+   "post_date": "2026-09-01",
+   "pref": "福岡県",
+   "city": "福岡市",
+   "temple": "西林寺",
+   "title": "【 CANDLE NIGHT LIVE 2026 】詳細は９月10日",
+   "url": "https://sairinji.org/",
+   "desc": "西林寺より。【 CANDLE NIGHT LIVE 2026 】詳細は９月10日",
+   "event_date": "2026-09-12"
+  },
+  {
+   "行": 948,
+   "cat": "houwa",
+   "post_date": "2026-09-01",
+   "pref": "熊本県",
+   "city": "熊本市",
+   "temple": "浄尊寺",
+   "title": "今月のことば：「今月の言葉」（浄尊寺）",
+   "url": "https://www.jousonji.com/message/",
+   "desc": "浄尊寺の掲示板・今月の言葉。「今月の言葉」"
   },
   {
    "行": "973",
@@ -335,6 +895,105 @@
    "title": "掲示板の言葉　9月（願生寺）",
    "url": "https://www.gwanshoji.com/",
    "desc": "薩摩川内市の願生寺が9月の掲示板の言葉を更新した。"
+  },
+  {
+   "行": 1067,
+   "cat": "houkoku",
+   "post_date": "2026-08-31",
+   "pref": "富山県",
+   "city": "氷見市",
+   "temple": "乗福寺",
+   "title": "鐘の音を聞くのは　〇〇だけじゃない",
+   "url": "https://joufukuji.jimdofree.com/ブログ/",
+   "desc": "乗福寺より。鐘の音を聞くのは　〇〇だけじゃない"
+  },
+  {
+   "行": 114,
+   "cat": "houkoku",
+   "post_date": "2026-08-31",
+   "pref": "東京都",
+   "city": "豊島区",
+   "temple": "誓願寺",
+   "title": "行事のご案内",
+   "url": "https://www.seiganji-tokyo.jp/report/",
+   "desc": "誓願寺より。行事のご案内"
+  },
+  {
+   "行": 216,
+   "cat": "houwa",
+   "post_date": "2026-08-31",
+   "pref": "埼玉県",
+   "city": "東松山市",
+   "temple": "西照寺",
+   "title": "未来条件付き保管メッセージ③",
+   "url": "http://www.saisyoji.jp/%E8%A5%BF%E7%85%A7%E5%AF%BA%e3%80%80%E6%B3%95%E8%A9%B1%E4%BC%9A/",
+   "desc": "西照寺の法話・記事。未来条件付き保管メッセージ③"
+  },
+  {
+   "行": 253,
+   "cat": "houkoku",
+   "post_date": "2026-08-31",
+   "pref": "静岡県",
+   "city": "静岡市",
+   "temple": "教覚寺",
+   "title": "全国真宗青年の集い 本山大会",
+   "url": "https://kyogakuji.jp/",
+   "desc": "教覚寺より。全国真宗青年の集い 本山大会"
+  },
+  {
+   "行": 449,
+   "cat": "houkoku",
+   "post_date": "2026-08-31",
+   "pref": "大阪府",
+   "city": "八尾市",
+   "temple": "顕證寺",
+   "title": "9月11日 蓮淳忌法要のご案内",
+   "url": "https://xn--det798hl3i.jp/",
+   "desc": "顕證寺より。9月11日 蓮淳忌法要のご案内"
+  },
+  {
+   "行": 451,
+   "cat": "houkoku",
+   "post_date": "2026-08-31",
+   "pref": "大阪府",
+   "city": "柏原市",
+   "temple": "西法寺",
+   "title": "本堂前の寄せ植えです。トルコキキョウとニチニチソウ色々です。",
+   "url": "http://saihou-ji.com/",
+   "desc": "西法寺より。本堂前の寄せ植えです。トルコキキョウとニチニチソウ色々です。"
+  },
+  {
+   "行": 451,
+   "cat": "houwa",
+   "post_date": "2026-08-31",
+   "pref": "大阪府",
+   "city": "柏原市",
+   "temple": "西法寺",
+   "title": "今月の法話を更新しました。",
+   "url": "http://saihou-ji.com/",
+   "desc": "西法寺より。今月の法話を更新しました。"
+  },
+  {
+   "行": 451,
+   "cat": "houkoku",
+   "post_date": "2026-08-31",
+   "pref": "大阪府",
+   "city": "柏原市",
+   "temple": "西法寺",
+   "title": "土曜学校を更新しました。",
+   "url": "http://saihou-ji.com/",
+   "desc": "西法寺より。土曜学校を更新しました。"
+  },
+  {
+   "行": 694,
+   "cat": "houkoku",
+   "post_date": "2026-08-31",
+   "pref": "",
+   "city": "",
+   "temple": "光円寺",
+   "title": "サイトのリニューアル",
+   "url": "https://www.kouenji.org/",
+   "desc": "光円寺より。サイトのリニューアル"
   },
   {
    "行": 973,
@@ -461,6 +1120,94 @@
    "event_date": "2026-09-12"
   },
   {
+   "行": 1067,
+   "cat": "houkoku",
+   "post_date": "2026-08-30",
+   "pref": "富山県",
+   "city": "氷見市",
+   "temple": "乗福寺",
+   "title": "頑張って生活しているような自覚",
+   "url": "https://joufukuji.jimdofree.com/ブログ/",
+   "desc": "乗福寺より。頑張って生活しているような自覚"
+  },
+  {
+   "行": 1075,
+   "cat": "houkoku",
+   "post_date": "2026-08-30",
+   "pref": "富山県",
+   "city": "黒部市",
+   "temple": "善巧寺",
+   "title": "1970年代、日本国有鉄道（現在のJR）が展開した大型観光キャンペーン…",
+   "url": "https://www.zengyou.net/",
+   "desc": "善巧寺より。1970年代、日本国有鉄道（現在のJR）が展開した大型観光キャンペーン…"
+  },
+  {
+   "行": 216,
+   "cat": "houwa",
+   "post_date": "2026-08-30",
+   "pref": "埼玉県",
+   "city": "東松山市",
+   "temple": "西照寺",
+   "title": "鍛えられているのかも？！",
+   "url": "http://www.saisyoji.jp/%E8%A5%BF%E7%85%A7%E5%AF%BA%e3%80%80%E6%B3%95%E8%A9%B1%E4%BC%9A/",
+   "desc": "西照寺の法話・記事。鍛えられているのかも？！"
+  },
+  {
+   "行": 357,
+   "cat": "houkoku",
+   "post_date": "2026-08-30",
+   "pref": "滋賀県",
+   "city": "草津市",
+   "temple": "浄教寺",
+   "title": "8月26日　昼と夜の内陣の様子",
+   "url": "https://jyoukyoutemple.com/hondoukenchiku-houkoku-sotomawari/",
+   "desc": "浄教寺より。8月26日　昼と夜の内陣の様子"
+  },
+  {
+   "行": 357,
+   "cat": "houkoku",
+   "post_date": "2026-08-30",
+   "pref": "滋賀県",
+   "city": "草津市",
+   "temple": "浄教寺",
+   "title": "8月16日 建築報告　内陣の一部と本堂内のフローリングの状況",
+   "url": "https://jyoukyoutemple.com/hondoukenchiku-houkoku-sotomawari/",
+   "desc": "浄教寺より。8月16日 建築報告　内陣の一部と本堂内のフローリングの状況"
+  },
+  {
+   "行": 438,
+   "cat": "houkoku",
+   "post_date": "2026-08-30",
+   "pref": "大阪府",
+   "city": "東大阪市",
+   "temple": "正善寺",
+   "title": "シャカシャカかき氷を開催しました",
+   "url": "https://sho-zenji.jp/report/",
+   "desc": "正善寺より。シャカシャカかき氷を開催しました"
+  },
+  {
+   "行": 646,
+   "cat": "houkoku",
+   "post_date": "2026-08-30",
+   "pref": "島根県",
+   "city": "江津市",
+   "temple": "光善寺",
+   "title": "今日は永代経法座",
+   "url": "https://kouzen-ji.com/",
+   "desc": "光善寺より。今日は永代経法座"
+  },
+  {
+   "行": 877,
+   "cat": "houwa",
+   "post_date": "2026-08-30",
+   "pref": "福岡県",
+   "city": "福岡市",
+   "temple": "養行寺",
+   "title": "9月の掲示板",
+   "url": "https://yogyoji.com/",
+   "desc": "養行寺より。9月の掲示板"
+  },
+  {
    "行": 973,
    "cat": "houwa",
    "post_date": "2026-08-29",
@@ -539,6 +1286,50 @@
    "event_date": "2026-11-27"
   },
   {
+   "行": 1067,
+   "cat": "houkoku",
+   "post_date": "2026-08-29",
+   "pref": "富山県",
+   "city": "氷見市",
+   "temple": "乗福寺",
+   "title": "豪雨の中で　浮かぶ笑顔",
+   "url": "https://joufukuji.jimdofree.com/ブログ/",
+   "desc": "乗福寺より。豪雨の中で　浮かぶ笑顔"
+  },
+  {
+   "行": 1067,
+   "cat": "houkoku",
+   "post_date": "2026-08-29",
+   "pref": "富山県",
+   "city": "氷見市",
+   "temple": "乗福寺",
+   "title": "「季刊・地産地消文化情報誌『能登』」に掲載され",
+   "url": "https://joufukuji.jimdofree.com/ブログ/",
+   "desc": "乗福寺より。「季刊・地産地消文化情報誌『能登』」に掲載され"
+  },
+  {
+   "行": 335,
+   "cat": "houkoku",
+   "post_date": "2026-08-29",
+   "pref": "滋賀県",
+   "city": "大津市",
+   "temple": "永順寺",
+   "title": "［歴史］親鸞聖人の生涯⑨",
+   "url": "https://konanzan-eijunji.com/news",
+   "desc": "永順寺より。［歴史］親鸞聖人の生涯⑨"
+  },
+  {
+   "行": 449,
+   "cat": "houkoku",
+   "post_date": "2026-08-29",
+   "pref": "大阪府",
+   "city": "八尾市",
+   "temple": "顕證寺",
+   "title": "東長屋の漆喰剥離箇所の修復工事を行っています",
+   "url": "https://xn--det798hl3i.jp/",
+   "desc": "顕證寺より。東長屋の漆喰剥離箇所の修復工事を行っています"
+  },
+  {
    "行": 982,
    "cat": "event",
    "post_date": "2026-08-28",
@@ -571,6 +1362,108 @@
    "title": "はなび大会を開催",
    "url": "https://gonjouji.org/",
    "desc": "欣浄寺の境内ではなび大会を開催。地域の方々が集い、花火とともに夏の思い出を共有した。"
+  },
+  {
+   "行": 1056,
+   "cat": "houwa",
+   "post_date": "2026-08-28",
+   "pref": "富山県",
+   "city": "小矢部市",
+   "temple": "光顔寺",
+   "title": "（午前）あなた一人の『御文章』⑧",
+   "url": "https://kougwanji.net/houwakai02",
+   "desc": "光顔寺の法話・記事。（午前）あなた一人の『御文章』⑧"
+  },
+  {
+   "行": 1067,
+   "cat": "houkoku",
+   "post_date": "2026-08-28",
+   "pref": "富山県",
+   "city": "氷見市",
+   "temple": "乗福寺",
+   "title": "法に遇い　法友に遇う",
+   "url": "https://joufukuji.jimdofree.com/ブログ/",
+   "desc": "乗福寺より。法に遇い　法友に遇う"
+  },
+  {
+   "行": 941,
+   "cat": "houkoku",
+   "post_date": "2026-08-28",
+   "pref": "福岡県",
+   "city": "福岡市",
+   "temple": "西林寺",
+   "title": "【 西林寺 秋季彼岸法要 】ご案内",
+   "url": "https://sairinji.org/",
+   "desc": "西林寺より。【 西林寺 秋季彼岸法要 】ご案内"
+  },
+  {
+   "行": "1040",
+   "cat": "jihou",
+   "post_date": "2026-08-27",
+   "pref": "福井県",
+   "city": "鯖江市",
+   "temple": "報恩寺",
+   "title": "報恩寺 寺報（お盆号）",
+   "url": "https://www.ho-on-ji.com/newsletters",
+   "desc": "福井県鯖江市・報恩寺がお盆号の寺報をウェブサイトに公開した。"
+  },
+  {
+   "行": "677",
+   "cat": "jihou",
+   "post_date": "2026-08-27",
+   "pref": "広島県",
+   "city": "庄原市",
+   "temple": "勝光寺",
+   "title": "勝光寺寺報 令和8年「お盆号」",
+   "url": "https://syoukouji.com/",
+   "desc": "広島県庄原市・勝光寺の寺報「令和8年お盆号」が発行・掲載された。"
+  },
+  {
+   "行": "200",
+   "cat": "houkoku",
+   "post_date": "2026-08-27",
+   "pref": "栃木県",
+   "city": "那須郡那珂川町",
+   "temple": "慈願寺",
+   "title": "お寺の臨海学校（2026年）",
+   "url": "https://jiganji.exblog.jp/",
+   "desc": "栃木県那珂川町・慈願寺恒例の「お寺の臨海学校」が今年も開催され、子ども47名が参加した行事報告。"
+  },
+  {
+   "行": "805",
+   "cat": "event",
+   "post_date": "2026-08-27",
+   "pref": "香川県",
+   "city": "高松市",
+   "temple": "称讃寺",
+   "title": "第18回 心と命のフォーラム（下重暁子・島薗進）",
+   "url": "https://www.syousanji.com/",
+   "desc": "香川県高松市・称讃寺で10月6日（火）「第18回 心と命のフォーラム」を開催。作家・下重暁子氏、宗教学者・島薗進氏、善通寺法主・菅智潤師、称讃寺住職・瑞田信弘師が登壇。",
+   "event_date": "2026-10-06"
+  },
+  {
+   "行": "412",
+   "cat": "event",
+   "post_date": "2026-08-27",
+   "pref": "大阪府",
+   "city": "茨木市",
+   "temple": "西福寺",
+   "title": "人生講座（文珠四郎琢磨師）",
+   "url": "https://runbini-saifukuji.jimdofree.com/",
+   "desc": "大阪府茨木市・西福寺で9月13日（日）「人生講座」を開催。講師は文珠四郎琢磨師（うつ病経験を経て僧侶になった経歴の持ち主）。",
+   "event_date": "2026-09-13"
+  },
+  {
+   "行": "204",
+   "cat": "event",
+   "post_date": "2026-08-27",
+   "pref": "栃木県",
+   "city": "さくら市",
+   "temple": "養泉寺",
+   "title": "お寺で紙芝居！（吉弘一秀師による節談説教）",
+   "url": "https://www.yousenji.net/",
+   "desc": "栃木県さくら市・養泉寺で吉弘一秀師による「おてら紙芝居」を11月8日（日）に開催。浄土真宗の節談説教を紙芝居でわかりやすく伝える催し。",
+   "event_date": "2026-11-08"
   },
   {
    "行": 982,
@@ -629,6 +1522,72 @@
    "event_date": "2026-10-24"
   },
   {
+   "行": 1056,
+   "cat": "houwa",
+   "post_date": "2026-08-27",
+   "pref": "富山県",
+   "city": "小矢部市",
+   "temple": "光顔寺",
+   "title": "【仏教ブログ】墓参りは誰に向かって？",
+   "url": "https://kougwanji.net/houwakai02",
+   "desc": "光顔寺の法話・記事。【仏教ブログ】墓参りは誰に向かって？"
+  },
+  {
+   "行": 1067,
+   "cat": "houkoku",
+   "post_date": "2026-08-27",
+   "pref": "富山県",
+   "city": "氷見市",
+   "temple": "乗福寺",
+   "title": "強い日照りと　溢れるほどの大雨と",
+   "url": "https://joufukuji.jimdofree.com/ブログ/",
+   "desc": "乗福寺より。強い日照りと　溢れるほどの大雨と"
+  },
+  {
+   "行": 324,
+   "cat": "event",
+   "post_date": "2026-08-27",
+   "pref": "三重県",
+   "city": "員弁郡",
+   "temple": "欣浄寺",
+   "title": "はなび大会　開催決定",
+   "url": "https://gonjouji.org/",
+   "desc": "欣浄寺より。はなび大会　開催決定"
+  },
+  {
+   "行": 386,
+   "cat": "houkoku",
+   "post_date": "2026-08-27",
+   "pref": "大阪府",
+   "city": "大阪市",
+   "temple": "円満寺",
+   "title": "ほッとけ米プロジェクト２６’８月のご報告",
+   "url": "https://fukusima-enmanji.org/?cat=2",
+   "desc": "円満寺より。ほッとけ米プロジェクト２６’８月のご報告"
+  },
+  {
+   "行": 941,
+   "cat": "event",
+   "post_date": "2026-08-27",
+   "pref": "福岡県",
+   "city": "福岡市",
+   "temple": "西林寺",
+   "title": "9月テラYOGA",
+   "url": "https://sairinji.org/",
+   "desc": "西林寺より。9月テラYOGA"
+  },
+  {
+   "行": "512",
+   "cat": "houkoku",
+   "post_date": "2026-08-26",
+   "pref": "奈良県",
+   "city": "香芝市",
+   "temple": "西方寺",
+   "title": "西方寺 燈火会・お盆法要（フルート演奏）",
+   "url": "https://nara-saihouji.net/",
+   "desc": "奈良県香芝市・西方寺で8月14日にお盆法要と燈火会を開催。フルート奏者を招いた演奏とともに燈火の中で先立たれた方を偲んだ報告。"
+  },
+  {
    "行": "973",
    "cat": "houwa",
    "post_date": "2026-08-26",
@@ -649,6 +1608,62 @@
    "title": "新本堂建築報告：昼と夜の内陣の様子（8月26日）",
    "url": "https://jyoukyoutemple.com/",
    "desc": "草津市・浄教寺の新本堂建築工事報告。8月26日時点の昼と夜の内陣の様子を写真で公開。"
+  },
+  {
+   "行": 1067,
+   "cat": "houkoku",
+   "post_date": "2026-08-26",
+   "pref": "富山県",
+   "city": "氷見市",
+   "temple": "乗福寺",
+   "title": "ナツズイセンよ　お前は！",
+   "url": "https://joufukuji.jimdofree.com/ブログ/",
+   "desc": "乗福寺より。ナツズイセンよ　お前は！"
+  },
+  {
+   "行": 1067,
+   "cat": "houkoku",
+   "post_date": "2026-08-26",
+   "pref": "富山県",
+   "city": "氷見市",
+   "temple": "乗福寺",
+   "title": "「喚鐘～～」「は～～い～～」",
+   "url": "https://joufukuji.jimdofree.com/ブログ/",
+   "desc": "乗福寺より。「喚鐘～～」「は～～い～～」"
+  },
+  {
+   "行": 253,
+   "cat": "houkoku",
+   "post_date": "2026-08-26",
+   "pref": "静岡県",
+   "city": "静岡市",
+   "temple": "教覚寺",
+   "title": "第一連区布教使研修会",
+   "url": "https://kyogakuji.jp/",
+   "desc": "教覚寺より。第一連区布教使研修会"
+  },
+  {
+   "行": "854",
+   "cat": "houkoku",
+   "post_date": "2026-08-25",
+   "pref": "福岡県",
+   "city": "福岡市中央区",
+   "temple": "光明寺",
+   "title": "熊本地震義援金144,201円を寄付（光明寺）",
+   "url": "https://komyoji-fukuoka.org/",
+   "desc": "福岡市中央区・光明寺がお盆法要で呼びかけた令和8年熊本地震への義援金144,201円を全額、浄土真宗本願寺派のたすけあい運動募金に寄付したと報告。"
+  },
+  {
+   "行": "555",
+   "cat": "event",
+   "post_date": "2026-08-25",
+   "pref": "兵庫県",
+   "city": "神戸市東灘区",
+   "temple": "西林寺",
+   "title": "9月の法話会（石川知全師）",
+   "url": "https://www.sairinji.net/",
+   "desc": "兵庫県神戸市東灘区・西林寺で9月8日（火）に法話会を開催。ご講師は福山・正圓寺の石川知全師。",
+   "event_date": "2026-09-08"
   },
   {
    "行": 973,
@@ -684,18 +1699,6 @@
    "desc": "被災地への義援金寄付活動の報告。"
   },
   {
-   "行": 386,
-   "cat": "event",
-   "post_date": "2026-08-25",
-   "pref": "大阪府",
-   "city": "大阪市",
-   "temple": "円満寺",
-   "title": "えんまんじcafe２６'９月のご案内",
-   "url": "https://fukusima-enmanji.org/",
-   "desc": "圓満寺のカフェイベント「えんまんじcafe」9月開催のご案内。",
-   "event_date": "2026-09-01"
-  },
-  {
    "行": 208,
    "cat": "event",
    "post_date": "2026-08-25",
@@ -728,6 +1731,94 @@
    "title": "「令和8年熊本地震」発生から現在までの対応【妙行寺】（8月25日現在）",
    "url": "https://myogyoji.com/",
    "desc": "令和8年熊本地震発生後の妙行寺の対応状況を8月25日時点でまとめた報告。支援活動の経緯を詳細に公開。"
+  },
+  {
+   "行": 386,
+   "cat": "houkoku",
+   "post_date": "2026-08-25",
+   "pref": "大阪府",
+   "city": "大阪市",
+   "temple": "円満寺",
+   "title": "えんまんじcafe２６’９月のご案内",
+   "url": "https://fukusima-enmanji.org/?cat=2",
+   "desc": "円満寺より。えんまんじcafe２６’９月のご案内"
+  },
+  {
+   "行": 449,
+   "cat": "houkoku",
+   "post_date": "2026-08-25",
+   "pref": "大阪府",
+   "city": "八尾市",
+   "temple": "顕證寺",
+   "title": "現代版？ 仏さまを前に、手が合わさる？",
+   "url": "https://xn--det798hl3i.jp/",
+   "desc": "顕證寺より。現代版？ 仏さまを前に、手が合わさる？"
+  },
+  {
+   "行": 555,
+   "cat": "houkoku",
+   "post_date": "2026-08-25",
+   "pref": "兵庫県",
+   "city": "神戸市",
+   "temple": "西林寺",
+   "title": "夜明けも少しずつ遅くなり、夏好きな住職は、夏の終わりに少しさみしさを感じています🥹 振り返れば、今年の夏も西林寺には、た",
+   "url": "https://www.sairinji.net/blog",
+   "desc": "西林寺より。夜明けも少しずつ遅くなり、夏好きな住職は、夏の終わりに少しさみしさを感じています🥹 振り返れば、今年の夏も西林寺には、た"
+  },
+  {
+   "行": 555,
+   "cat": "houwa",
+   "post_date": "2026-08-25",
+   "pref": "兵庫県",
+   "city": "神戸市",
+   "temple": "西林寺",
+   "title": "お盆が過ぎ残暑が厳しいですが朝晩少し気温の変化を感じます🍂 いかがお過ごしでしょうか。   〈9月の法話会のご案内〉 9",
+   "url": "https://www.sairinji.net/blog",
+   "desc": "西林寺より。お盆が過ぎ残暑が厳しいですが朝晩少し気温の変化を感じます🍂 いかがお過ごしでしょうか。   〈9月の法話会のご案内〉 9"
+  },
+  {
+   "行": 555,
+   "cat": "houwa",
+   "post_date": "2026-08-25",
+   "pref": "兵庫県",
+   "city": "神戸市",
+   "temple": "西林寺",
+   "title": "🍂9月の法話会🍂",
+   "url": "https://www.sairinji.net/blog",
+   "desc": "西林寺より。🍂9月の法話会🍂"
+  },
+  {
+   "行": 555,
+   "cat": "houkoku",
+   "post_date": "2026-08-25",
+   "pref": "兵庫県",
+   "city": "神戸市",
+   "temple": "西林寺",
+   "title": "令和８年🎐盂蘭盆会法要🎐",
+   "url": "https://www.sairinji.net/blog",
+   "desc": "西林寺より。令和８年🎐盂蘭盆会法要🎐"
+  },
+  {
+   "行": 854,
+   "cat": "houkoku",
+   "post_date": "2026-08-25",
+   "pref": "",
+   "city": "",
+   "temple": "光明寺",
+   "title": "厳しい残暑が続いています。熱中症にお気を付けください。 さて…",
+   "url": "https://komyoji-fukuoka.org/category/%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b/",
+   "desc": "光明寺より。厳しい残暑が続いています。熱中症にお気を付けください。 さて…"
+  },
+  {
+   "行": "168",
+   "cat": "houkoku",
+   "post_date": "2026-08-24",
+   "pref": "千葉県",
+   "city": "千葉市",
+   "temple": "大願寺",
+   "title": "盂蘭盆会合同法要（報告）",
+   "url": "https://daiganji.info/",
+   "desc": "千葉県千葉市・大願寺で令和8年の盂蘭盆会合同法要が勤修された報告。"
   },
   {
    "行": "973",
@@ -832,6 +1923,61 @@
    "desc": "北海道最北のお寺・西光寺が、盂蘭盆会法要の様子を「モクレンとお母さん」連載形式で公開。参拝者と法要の縁を温かく伝える。"
   },
   {
+   "行": 60,
+   "cat": "houkoku",
+   "post_date": "2026-08-24",
+   "pref": "北海道",
+   "city": "稚内市",
+   "temple": "西光寺",
+   "title": "モクレンさんとお母さん➀～盂蘭盆会法要～",
+   "url": "https://www.saikouji-wakkanai.jp/",
+   "desc": "西光寺より。モクレンさんとお母さん➀～盂蘭盆会法要～"
+  },
+  {
+   "行": 749,
+   "cat": "houkoku",
+   "post_date": "2026-08-24",
+   "pref": "広島県",
+   "city": "広島市",
+   "temple": "順教寺",
+   "title": "8月１７日。 お盆も終わり、夏休みもいよいよ後半に入ったこの日、私たちの代になって初めてとなる、子どもたちを対象とした夏",
+   "url": "https://jyunkyouji.com/news1/",
+   "desc": "順教寺より。8月１７日。 お盆も終わり、夏休みもいよいよ後半に入ったこの日、私たちの代になって初めてとなる、子どもたちを対象とした夏"
+  },
+  {
+   "行": 749,
+   "cat": "houkoku",
+   "post_date": "2026-08-24",
+   "pref": "広島県",
+   "city": "広島市",
+   "temple": "順教寺",
+   "title": "夏の目標は、友達と仲良くいっぱい遊ぶ",
+   "url": "https://jyunkyouji.com/news1/",
+   "desc": "順教寺より。夏の目標は、友達と仲良くいっぱい遊ぶ"
+  },
+  {
+   "行": 848,
+   "cat": "houkoku",
+   "post_date": "2026-08-24",
+   "pref": "福岡県",
+   "city": "北九州市",
+   "temple": "正覚寺",
+   "title": "第３７期　第６回　日曜学校のご案内",
+   "url": "https://www.shokakuji.or.jp/",
+   "desc": "正覚寺より。第３７期　第６回　日曜学校のご案内"
+  },
+  {
+   "行": "1067",
+   "cat": "houwa",
+   "post_date": "2026-08-23",
+   "pref": "富山県",
+   "city": "氷見市",
+   "temple": "乗福寺",
+   "title": "誰もが皆一つの船に乗っている（乗福寺）",
+   "url": "https://joufukuji.jimdofree.com/ブログ/",
+   "desc": "富山県氷見市・乗福寺の住職が高僧和讃（龍樹讃）を讃題に「誰もが皆一つの船に乗っている」と題した法話ブログ。阿弥陀仏の本願という大船に自力・他力の人を分けへだてなく乗せる、という視点を語る。"
+  },
+  {
    "行": 973,
    "cat": "houwa",
    "post_date": "2026-08-23",
@@ -865,6 +2011,28 @@
    "desc": "8月12日、猛暑のなか明光寺の令和8年度合同盆会法要に50人以上がご参拝。ともに亡き方を偲び、いのちの意味を見つめた。"
   },
   {
+   "行": 497,
+   "cat": "houkoku",
+   "post_date": "2026-08-23",
+   "pref": "奈良県",
+   "city": "奈良市",
+   "temple": "明光寺",
+   "title": "全国的に厳しい暑さが続くなか８月１２日、今年も明光寺合同盆会法要をお勤め致しました。今回は５０人以上のご参拝があり、皆さ",
+   "url": "https://ryuuka-myoukou.or.jp/",
+   "desc": "明光寺より。全国的に厳しい暑さが続くなか８月１２日、今年も明光寺合同盆会法要をお勤め致しました。今回は５０人以上のご参拝があり、皆さ"
+  },
+  {
+   "行": "1067",
+   "cat": "houwa",
+   "post_date": "2026-08-22",
+   "pref": "富山県",
+   "city": "氷見市",
+   "temple": "乗福寺",
+   "title": "御本典を味わう（乗福寺）",
+   "url": "https://joufukuji.jimdofree.com/ブログ/",
+   "desc": "富山県氷見市・乗福寺の住職が親鸞聖人の主著「顕浄土真実教行証文類」（御本典）を読み深める法話ブログ。"
+  },
+  {
    "行": 973,
    "cat": "houwa",
    "post_date": "2026-08-22",
@@ -874,6 +2042,61 @@
    "title": "負けて始まる",
    "url": "https://j-enkouji.jp/pages/20?detail=1&b_id=75&r_id=6071#block75-6071",
    "desc": "日々の生活法話。"
+  },
+  {
+   "行": 676,
+   "cat": "event",
+   "post_date": "2026-08-22",
+   "pref": "広島県",
+   "city": "三原市",
+   "temple": "浄念寺",
+   "title": "キッズサンガ",
+   "url": "https://jyounenji.net/topics.php",
+   "desc": "浄念寺より。キッズサンガ"
+  },
+  {
+   "行": 749,
+   "cat": "houkoku",
+   "post_date": "2026-08-22",
+   "pref": "広島県",
+   "city": "広島市",
+   "temple": "順教寺",
+   "title": "7月に入り、いよいよ夏休みが始まりました。 夏休みの始まりに、子どもと二人で「この夏、どんなことをしたい？」と話をしまし",
+   "url": "https://jyunkyouji.com/news1/",
+   "desc": "順教寺より。7月に入り、いよいよ夏休みが始まりました。 夏休みの始まりに、子どもと二人で「この夏、どんなことをしたい？」と話をしまし"
+  },
+  {
+   "行": 749,
+   "cat": "houkoku",
+   "post_date": "2026-08-22",
+   "pref": "広島県",
+   "city": "広島市",
+   "temple": "順教寺",
+   "title": "【開催報告】夏季永代経法座「ハスワークで味わう仏さまの教え」を開催しました",
+   "url": "https://jyunkyouji.com/news1/",
+   "desc": "順教寺より。【開催報告】夏季永代経法座「ハスワークで味わう仏さまの教え」を開催しました"
+  },
+  {
+   "行": 816,
+   "cat": "houkoku",
+   "post_date": "2026-08-22",
+   "pref": "高知県",
+   "city": "高知市",
+   "temple": "高法寺",
+   "title": "小さな家族葬「おむすび」",
+   "url": "https://kohoji.com/category/activities/",
+   "desc": "高法寺より。小さな家族葬「おむすび」"
+  },
+  {
+   "行": 816,
+   "cat": "houkoku",
+   "post_date": "2026-08-22",
+   "pref": "高知県",
+   "city": "高知市",
+   "temple": "高法寺",
+   "title": "8月永代供養廟合同回忌法要",
+   "url": "https://kohoji.com/",
+   "desc": "高法寺より。8月永代供養廟合同回忌法要"
   },
   {
    "行": 983,
@@ -898,6 +2121,62 @@
    "desc": "日々の生活法話。"
   },
   {
+   "行": 451,
+   "cat": "event",
+   "post_date": "2026-08-21",
+   "pref": "大阪府",
+   "city": "柏原市",
+   "temple": "西法寺",
+   "title": "今年の「お盆フェスタ」は8月21日16時～開催しました。国分中学吹奏楽部のコンサートや楽しいゲームなどで、",
+   "url": "http://saihou-ji.com/",
+   "desc": "西法寺より。今年の「お盆フェスタ」は8月21日16時～開催しました。国分中学吹奏楽部のコンサートや楽しいゲームなどで、"
+  },
+  {
+   "行": 941,
+   "cat": "houkoku",
+   "post_date": "2026-08-21",
+   "pref": "福岡県",
+   "city": "福岡市",
+   "temple": "西林寺",
+   "title": "(金)、福岡高等学校放送部の学生さんが取材に来られました。 高校放送部のコンテスト・テレビドキュメント部門(学校生活や社",
+   "url": "https://sairinji.org/blog/",
+   "desc": "西林寺より。(金)、福岡高等学校放送部の学生さんが取材に来られました。 高校放送部のコンテスト・テレビドキュメント部門(学校生活や社"
+  },
+  {
+   "行": 941,
+   "cat": "houkoku",
+   "post_date": "2026-08-21",
+   "pref": "福岡県",
+   "city": "福岡市",
+   "temple": "西林寺",
+   "title": "福岡高校放送部の学生さんがご来院。",
+   "url": "https://sairinji.org/",
+   "desc": "西林寺より。福岡高校放送部の学生さんがご来院。"
+  },
+  {
+   "行": "450",
+   "cat": "event",
+   "post_date": "2026-08-20",
+   "pref": "大阪府",
+   "city": "八尾市",
+   "temple": "恵光寺",
+   "title": "月例法座（藤丸智雄先生）",
+   "url": "http://www.ecoji.org/",
+   "desc": "大阪府八尾市・恵光寺の月例法座。9月3日（水）、ご講師は藤丸智雄先生。",
+   "event_date": "2026-09-03"
+  },
+  {
+   "行": "1070",
+   "cat": "houwa",
+   "post_date": "2026-08-20",
+   "pref": "山口県",
+   "city": "岩国市",
+   "temple": "専徳寺",
+   "title": "緑色緑光（専徳寺）",
+   "url": "https://www.sentokuji.com/",
+   "desc": "山口県岩国市・専徳寺の住職が阿弥陀仏の身体から放たれる光「緑色緑光」を題に浄土の荘厳とお念仏の功徳を語る法話ブログ。"
+  },
+  {
    "行": 60,
    "cat": "houwa",
    "post_date": "2026-08-20",
@@ -920,16 +2199,37 @@
    "desc": "高校野球をテーマに仏法を語る8月の法話。"
   },
   {
-   "行": 131,
-   "cat": "event",
+   "行": 137,
+   "cat": "houwa",
    "post_date": "2026-08-20",
    "pref": "東京都",
-   "city": "小平市",
-   "temple": "照恩寺",
-   "title": "SHOUONJI ART PROJECT シーズン64「争いは廻る〜黒木コレクション展〜」",
-   "url": "https://www.shouonji.jp/blog/",
-   "desc": "照恩寺アートプロジェクト第64弾として9月1日より黒木コレクション展がスタート。境内でアート展示を継続的に行うお寺の取り組み。",
-   "event_date": "2026-09-01"
+   "city": "西東京市",
+   "temple": "心光寺",
+   "title": "お寺の掲示板　今月のことば　2026年8月",
+   "url": "https://sinkoji.net/2026/06/30/hougo_202607/",
+   "desc": "心光寺の法話・記事。お寺の掲示板　今月のことば　2026年8月"
+  },
+  {
+   "行": 449,
+   "cat": "houkoku",
+   "post_date": "2026-08-20",
+   "pref": "大阪府",
+   "city": "八尾市",
+   "temple": "顕證寺",
+   "title": "お仏事を追善供養と思っていませんか？",
+   "url": "https://xn--det798hl3i.jp/",
+   "desc": "顕證寺より。お仏事を追善供養と思っていませんか？"
+  },
+  {
+   "行": 60,
+   "cat": "houkoku",
+   "post_date": "2026-08-20",
+   "pref": "北海道",
+   "city": "稚内市",
+   "temple": "西光寺",
+   "title": "～納骨堂のご相談承り中～",
+   "url": "https://www.saikouji-wakkanai.jp/",
+   "desc": "西光寺より。～納骨堂のご相談承り中～"
   },
   {
    "行": 477,
@@ -954,6 +2254,83 @@
    "desc": "「信じる」心は私たちが起こすものではなく、仏様から頂戴するものだと説く8月の門前掲示板の法語。赤ん坊が母親の腕で眠る喩えで「信心（まことの心）」の本質を語る。"
   },
   {
+   "行": 164,
+   "cat": "houkoku",
+   "post_date": "2026-08-19",
+   "pref": "神奈川県",
+   "city": "横浜市",
+   "temple": "善了寺",
+   "title": "令和８年８月 新盆法要及び定例法話会を開催しました。",
+   "url": "https://zenryouji.jp/",
+   "desc": "善了寺より。令和８年８月 新盆法要及び定例法話会を開催しました。"
+  },
+  {
+   "行": 578,
+   "cat": "houkoku",
+   "post_date": "2026-08-19",
+   "pref": "兵庫県",
+   "city": "宝塚市",
+   "temple": "願勝寺",
+   "title": "2026.08.19",
+   "url": "https://ganshouji.jp/",
+   "desc": "願勝寺より。2026.08.19"
+  },
+  {
+   "行": 941,
+   "cat": "houkoku",
+   "post_date": "2026-08-19",
+   "pref": "福岡県",
+   "city": "福岡市",
+   "temple": "西林寺",
+   "title": "（木）、宇土市、宇城市から八代へ。 車で向かう道すがら、多くの町で倒壊・全壊している家屋、寺社仏閣をみかけました。 被害",
+   "url": "https://sairinji.org/blog/",
+   "desc": "西林寺より。（木）、宇土市、宇城市から八代へ。 車で向かう道すがら、多くの町で倒壊・全壊している家屋、寺社仏閣をみかけました。 被害"
+  },
+  {
+   "行": 941,
+   "cat": "houkoku",
+   "post_date": "2026-08-19",
+   "pref": "福岡県",
+   "city": "福岡市",
+   "temple": "西林寺",
+   "title": "(木)、宇城市小川町へ。 小川町は今回の地震によって、家屋の倒壊、道路の損壊に加え、特に地盤そのものが大きく変容したした",
+   "url": "https://sairinji.org/blog/",
+   "desc": "西林寺より。(木)、宇城市小川町へ。 小川町は今回の地震によって、家屋の倒壊、道路の損壊に加え、特に地盤そのものが大きく変容したした"
+  },
+  {
+   "行": 941,
+   "cat": "houkoku",
+   "post_date": "2026-08-19",
+   "pref": "福岡県",
+   "city": "福岡市",
+   "temple": "西林寺",
+   "title": "（水）、思い立って、友人のお見舞いを兼ね、今度は家族で再び熊本へ。 宇土市から宇城市、そして八代へと足を運んだ。 最初に",
+   "url": "https://sairinji.org/blog/",
+   "desc": "西林寺より。（水）、思い立って、友人のお見舞いを兼ね、今度は家族で再び熊本へ。 宇土市から宇城市、そして八代へと足を運んだ。 最初に"
+  },
+  {
+   "行": "661",
+   "cat": "jihou",
+   "post_date": "2026-08-18",
+   "pref": "岡山県",
+   "city": "小田郡矢掛町",
+   "temple": "専教寺",
+   "title": "仏婦だより「2026年号」を発行しました（専教寺）",
+   "url": "https://senkyoji.com/?cat=4",
+   "desc": "岡山県矢掛町・専教寺の仏教婦人会機関紙「仏婦だより」2026年号が発行された。"
+  },
+  {
+   "行": "1067",
+   "cat": "houwa",
+   "post_date": "2026-08-18",
+   "pref": "富山県",
+   "city": "氷見市",
+   "temple": "乗福寺",
+   "title": "和国の教主聖徳皇（乗福寺）",
+   "url": "https://joufukuji.jimdofree.com/ブログ/",
+   "desc": "富山県氷見市・乗福寺の住職が正信偈「和国の教主聖徳皇」の偈文を縁に聖徳太子の絵像と仏法興隆の意義を語る法話ブログ。"
+  },
+  {
    "行": 357,
    "cat": "houkoku",
    "post_date": "2026-08-18",
@@ -963,6 +2340,28 @@
    "title": "新本堂建築報告（内陣・フローリングの状況 8月16日）",
    "url": "https://jyoukyoutemple.com/hondoukenchiku-houkoku-sotomawari/",
    "desc": "浄教寺の新本堂建築工事の進捗報告。内陣の一部とフローリング施工が完了し、完成に向けて着実に工事が進む様子を伝えている。"
+  },
+  {
+   "行": 438,
+   "cat": "houkoku",
+   "post_date": "2026-08-18",
+   "pref": "大阪府",
+   "city": "東大阪市",
+   "temple": "正善寺",
+   "title": "お盆法要（歓喜会）のご案内",
+   "url": "https://sho-zenji.jp/",
+   "desc": "正善寺より。お盆法要（歓喜会）のご案内"
+  },
+  {
+   "行": "439",
+   "cat": "houkoku",
+   "post_date": "2026-08-17",
+   "pref": "大阪府",
+   "city": "東大阪市",
+   "temple": "大親寺",
+   "title": "令和八年 盂蘭盆会法要を終えて（大親寺）",
+   "url": "https://xn--pssq9dr19d.com/",
+   "desc": "大阪府東大阪市・大親寺で令和8年の盂蘭盆会法要が無事に勤まったとの報告。"
   },
   {
    "行": "752",
@@ -1054,6 +2453,28 @@
    "desc": "妙行寺が熊本地震の義援金送付と支援物資のお届けを実施したことを報告。"
   },
   {
+   "行": 941,
+   "cat": "houkoku",
+   "post_date": "2026-08-17",
+   "pref": "福岡県",
+   "city": "福岡市",
+   "temple": "西林寺",
+   "title": "(月)、息子がホームステイでお世話になったご門徒ご家族がイギリス・ボーンマスからお盆参りに。 オースティンくん大きくなっ",
+   "url": "https://sairinji.org/blog/",
+   "desc": "西林寺より。(月)、息子がホームステイでお世話になったご門徒ご家族がイギリス・ボーンマスからお盆参りに。 オースティンくん大きくなっ"
+  },
+  {
+   "行": "622",
+   "cat": "houkoku",
+   "post_date": "2026-08-16",
+   "pref": "鳥取県",
+   "city": "倉吉市",
+   "temple": "妙寂寺",
+   "title": "盆会（令和８年）",
+   "url": "https://myojakuji.com/",
+   "desc": "鳥取県倉吉市・妙寂寺で8月13〜15日の盂蘭盆会が勤まった報告。"
+  },
+  {
    "行": 694,
    "cat": "event",
    "post_date": "2026-08-16",
@@ -1143,6 +2564,39 @@
    "desc": "「仏像の顔の前に華鬘が吊り下げられているのはなぜか」というご門徒の問いから、仏堂荘厳の意味と仏との出遇いについて語る法話。"
   },
   {
+   "行": 1048,
+   "cat": "houkoku",
+   "post_date": "2026-08-16",
+   "pref": "福島県",
+   "city": "郡山市",
+   "temple": "円寿寺",
+   "title": "盂蘭盆（お盆の法要）をおつとめしました",
+   "url": "https://enjuji.jp/",
+   "desc": "円寿寺より。盂蘭盆（お盆の法要）をおつとめしました"
+  },
+  {
+   "行": 1110,
+   "cat": "houkoku",
+   "post_date": "2026-08-16",
+   "pref": "福島県",
+   "city": "郡山市",
+   "temple": "円壽寺",
+   "title": "盂蘭盆（お盆の法要）をおつとめしました",
+   "url": "https://enjuji.jp/",
+   "desc": "円壽寺より。盂蘭盆（お盆の法要）をおつとめしました"
+  },
+  {
+   "行": 165,
+   "cat": "houkoku",
+   "post_date": "2026-08-16",
+   "pref": "神奈川県",
+   "city": "南足柄市",
+   "temple": "善福寺",
+   "title": "お盆によせて",
+   "url": "https://www.zempukuji.or.jp/",
+   "desc": "善福寺より。お盆によせて"
+  },
+  {
    "行": "401",
    "cat": "houkoku",
    "post_date": "2026-08-15",
@@ -1176,6 +2630,61 @@
    "desc": "祠堂経法要・魂迎会で「恩徳讃」を讃題に、如来の大悲の恩徳に報いることの難しさと尊さを坊守とともに語り合う。"
   },
   {
+   "行": 335,
+   "cat": "houkoku",
+   "post_date": "2026-08-15",
+   "pref": "滋賀県",
+   "city": "大津市",
+   "temple": "永順寺",
+   "title": "［歴史］親鸞聖人の生涯〔前史⑧〕",
+   "url": "https://konanzan-eijunji.com/news",
+   "desc": "永順寺より。［歴史］親鸞聖人の生涯〔前史⑧〕"
+  },
+  {
+   "行": 449,
+   "cat": "houkoku",
+   "post_date": "2026-08-15",
+   "pref": "大阪府",
+   "city": "八尾市",
+   "temple": "顕證寺",
+   "title": "顕証寺からのお知らせ",
+   "url": "https://xn--det798hl3i.jp/news",
+   "desc": "顕證寺より。顕証寺からのお知らせ"
+  },
+  {
+   "行": 449,
+   "cat": "event",
+   "post_date": "2026-08-15",
+   "pref": "大阪府",
+   "city": "八尾市",
+   "temple": "顕證寺",
+   "title": "敬老の日 フィドルコンサート開催のお知らせ",
+   "url": "https://xn--det798hl3i.jp/",
+   "desc": "顕證寺より。敬老の日 フィドルコンサート開催のお知らせ"
+  },
+  {
+   "行": "423",
+   "cat": "houkoku",
+   "post_date": "2026-08-14",
+   "pref": "大阪府",
+   "city": "高槻市",
+   "temple": "光専寺",
+   "title": "盂蘭盆会法要・合同墓建碑法要を厳修いたしました（光専寺）",
+   "url": "https://kousenji-takatsuki.com/",
+   "desc": "大阪府高槻市・光専寺で8月14日に盂蘭盆会法要と合同墓建碑法要を合わせて厳修したとの報告。"
+  },
+  {
+   "行": "341",
+   "cat": "houkoku",
+   "post_date": "2026-08-14",
+   "pref": "滋賀県",
+   "city": "大津市",
+   "temple": "本福寺",
+   "title": "盂蘭盆会（令和8年）",
+   "url": "http://honpukuji-hamaotsu.net/",
+   "desc": "滋賀県大津市・本福寺で令和8年の盂蘭盆会が厳修された報告。"
+  },
+  {
    "行": 164,
    "cat": "houkoku",
    "post_date": "2026-08-14",
@@ -1185,6 +2694,17 @@
    "title": "「戦後80年 今こそ平和を」濱住治郎氏 講演会 8月14日開催報告",
    "url": "https://zenryouji.jp/",
    "desc": "善了寺が「戦後80年 今こそ平和を」と題した濱住治郎氏の講演会を8月14日に開催。平和への願いをともに考えた。"
+  },
+  {
+   "行": 332,
+   "cat": "houkoku",
+   "post_date": "2026-08-14",
+   "pref": "三重県",
+   "city": "津市",
+   "temple": "西方寺",
+   "title": "第3回『大悲の名告り』  私たちは、どこへ向かって生きているのでしょう。 ― 此岸から彼岸へ――阿弥陀さまが示してくださ",
+   "url": "https://saihouji.jp/news/",
+   "desc": "西方寺より。第3回『大悲の名告り』  私たちは、どこへ向かって生きているのでしょう。 ― 此岸から彼岸へ――阿弥陀さまが示してくださ"
   },
   {
    "行": 982,
@@ -1267,6 +2787,50 @@
    "desc": "光顔寺の仏教ブログ。お盆のお参りを縁に、亡き人をご縁として自らのいのちを見つめる浄土真宗の教えを綴る。"
   },
   {
+   "行": 1056,
+   "cat": "houwa",
+   "post_date": "2026-08-13",
+   "pref": "富山県",
+   "city": "小矢部市",
+   "temple": "光顔寺",
+   "title": "【仏教ブログ】地震から見る本当に帰すべきものについて",
+   "url": "https://kougwanji.net/houwakai02",
+   "desc": "光顔寺の法話・記事。【仏教ブログ】地震から見る本当に帰すべきものについて"
+  },
+  {
+   "行": 185,
+   "cat": "houkoku",
+   "post_date": "2026-08-13",
+   "pref": "茨城県",
+   "city": "那珂市",
+   "temple": "上宮寺",
+   "title": "８月定例法座について",
+   "url": "https://jyouguji.org/",
+   "desc": "上宮寺より。８月定例法座について"
+  },
+  {
+   "行": 449,
+   "cat": "houkoku",
+   "post_date": "2026-08-13",
+   "pref": "大阪府",
+   "city": "八尾市",
+   "temple": "顕證寺",
+   "title": "彼岸讃仏会のご案内｜9月22日・23日・24日",
+   "url": "https://xn--det798hl3i.jp/",
+   "desc": "顕證寺より。彼岸讃仏会のご案内｜9月22日・23日・24日"
+  },
+  {
+   "行": 60,
+   "cat": "houkoku",
+   "post_date": "2026-08-13",
+   "pref": "北海道",
+   "city": "稚内市",
+   "temple": "西光寺",
+   "title": "西光寺・お盆限定フリーマーケット😁",
+   "url": "https://www.saikouji-wakkanai.jp/",
+   "desc": "西光寺より。西光寺・お盆限定フリーマーケット😁"
+  },
+  {
    "行": 997,
    "cat": "houkoku",
    "post_date": "2026-08-12",
@@ -1344,6 +2908,28 @@
    "desc": "大阪府羽曳野市・明教寺住職の今月の言葉と法話。仏法を聞くことの意味と、日常の中に根付かせることの大切さを伝える。"
   },
   {
+   "行": 854,
+   "cat": "houkoku",
+   "post_date": "2026-08-12",
+   "pref": "",
+   "city": "",
+   "temple": "光明寺",
+   "title": "猛暑が続いていますが、皆様お元気でお過ごしでしょうか。 恒例…",
+   "url": "https://komyoji-fukuoka.org/category/%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b/",
+   "desc": "光明寺より。猛暑が続いていますが、皆様お元気でお過ごしでしょうか。 恒例…"
+  },
+  {
+   "行": 780,
+   "cat": "houwa",
+   "post_date": "2026-08-11",
+   "pref": "山口県",
+   "city": "宇部市",
+   "temple": "寳林寺",
+   "title": "住職エッセイ",
+   "url": "https://hourinji.jimdoweb.com/住職法話その2/",
+   "desc": "寳林寺の法話・記事。住職エッセイ"
+  },
+  {
    "行": 973,
    "cat": "houwa",
    "post_date": "2026-08-10",
@@ -1399,6 +2985,94 @@
    "desc": "東京都豊島区・誓願寺が発行する機関紙「しんらん同人」の最新号（No.593 2026年7・8月号）が掲載された。"
   },
   {
+   "行": 114,
+   "cat": "houkoku",
+   "post_date": "2026-08-10",
+   "pref": "東京都",
+   "city": "豊島区",
+   "temple": "誓願寺",
+   "title": "7月26日の定例法座・祥月命日合同法要には米田順昭師に広島からお越しいただきました。 ありがとうございました。",
+   "url": "https://www.seiganji-tokyo.jp/report/",
+   "desc": "誓願寺より。7月26日の定例法座・祥月命日合同法要には米田順昭師に広島からお越しいただきました。 ありがとうございました。"
+  },
+  {
+   "行": 114,
+   "cat": "houkoku",
+   "post_date": "2026-08-10",
+   "pref": "東京都",
+   "city": "豊島区",
+   "temple": "誓願寺",
+   "title": "7月12日の盂蘭盆会にはご講師として栁父一道師に広島よりお越しいただきました。 ありがとうございました。   とてもたく",
+   "url": "https://www.seiganji-tokyo.jp/report/",
+   "desc": "誓願寺より。7月12日の盂蘭盆会にはご講師として栁父一道師に広島よりお越しいただきました。 ありがとうございました。   とてもたく"
+  },
+  {
+   "行": 114,
+   "cat": "houkoku",
+   "post_date": "2026-08-10",
+   "pref": "東京都",
+   "city": "豊島区",
+   "temple": "誓願寺",
+   "title": "2026年7月26日 定例法座・祥月命日合同法要",
+   "url": "https://www.seiganji-tokyo.jp/report/",
+   "desc": "誓願寺より。2026年7月26日 定例法座・祥月命日合同法要"
+  },
+  {
+   "行": 114,
+   "cat": "houkoku",
+   "post_date": "2026-08-10",
+   "pref": "東京都",
+   "city": "豊島区",
+   "temple": "誓願寺",
+   "title": "2026年7月12日 盂蘭盆会",
+   "url": "https://www.seiganji-tokyo.jp/report/",
+   "desc": "誓願寺より。2026年7月12日 盂蘭盆会"
+  },
+  {
+   "行": 164,
+   "cat": "houkoku",
+   "post_date": "2026-08-10",
+   "pref": "神奈川県",
+   "city": "横浜市",
+   "temple": "善了寺",
+   "title": "令和８年７月定例法話会をお勤めしました",
+   "url": "https://zenryouji.jp/",
+   "desc": "善了寺より。令和８年７月定例法話会をお勤めしました"
+  },
+  {
+   "行": 780,
+   "cat": "houwa",
+   "post_date": "2026-08-10",
+   "pref": "山口県",
+   "city": "宇部市",
+   "temple": "寳林寺",
+   "title": "本山（西本願寺）",
+   "url": "https://hourinji.jimdoweb.com/住職法話その2/",
+   "desc": "寳林寺の法話・記事。本山（西本願寺）"
+  },
+  {
+   "行": 816,
+   "cat": "houkoku",
+   "post_date": "2026-08-10",
+   "pref": "高知県",
+   "city": "高知市",
+   "temple": "高法寺",
+   "title": "盂蘭盆会法要・７月永代供養廟合同法要",
+   "url": "https://kohoji.com/category/activities/",
+   "desc": "高法寺より。盂蘭盆会法要・７月永代供養廟合同法要"
+  },
+  {
+   "行": 848,
+   "cat": "houkoku",
+   "post_date": "2026-08-10",
+   "pref": "福岡県",
+   "city": "北九州市",
+   "temple": "正覚寺",
+   "title": "２０２６年度　８月門徒例会のご案内",
+   "url": "https://www.shokakuji.or.jp/",
+   "desc": "正覚寺より。２０２６年度　８月門徒例会のご案内"
+  },
+  {
    "行": 386,
    "cat": "houkoku",
    "post_date": "2026-08-09",
@@ -1408,6 +3082,61 @@
    "title": "えんまんじcafe２６'８月〜落語会〜のご報告",
    "url": "https://fukusima-enmanji.org/",
    "desc": "8月のえんまんじcafeで開催した落語会の実施報告。"
+  },
+  {
+   "行": 137,
+   "cat": "houwa",
+   "post_date": "2026-08-09",
+   "pref": "東京都",
+   "city": "西東京市",
+   "temple": "心光寺",
+   "title": "盂蘭盆会のお知らせ",
+   "url": "https://sinkoji.net/2026/06/30/hougo_202607/",
+   "desc": "心光寺の法話・記事。盂蘭盆会のお知らせ"
+  },
+  {
+   "行": 137,
+   "cat": "houwa",
+   "post_date": "2026-08-09",
+   "pref": "東京都",
+   "city": "西東京市",
+   "temple": "心光寺",
+   "title": "心光寺の日々",
+   "url": "https://sinkoji.net/2026/06/30/hougo_202607/",
+   "desc": "心光寺の法話・記事。心光寺の日々"
+  },
+  {
+   "行": 310,
+   "cat": "houkoku",
+   "post_date": "2026-08-09",
+   "pref": "岐阜県",
+   "city": "安八郡",
+   "temple": "性顕寺",
+   "title": "８月８日から残暑お見舞い申し上げます、と暦ではそういう時期ですが まだまだすっごく暑いです( ;∀;)終わりそうにない～",
+   "url": "https://xn--detz0h097d.jp/%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b/",
+   "desc": "性顕寺より。８月８日から残暑お見舞い申し上げます、と暦ではそういう時期ですが まだまだすっごく暑いです( ;∀;)終わりそうにない～"
+  },
+  {
+   "行": 386,
+   "cat": "houkoku",
+   "post_date": "2026-08-09",
+   "pref": "大阪府",
+   "city": "大阪市",
+   "temple": "円満寺",
+   "title": "えんまんじcafe２６’８～落語会～のご報告",
+   "url": "https://fukusima-enmanji.org/?cat=2",
+   "desc": "円満寺より。えんまんじcafe２６’８～落語会～のご報告"
+  },
+  {
+   "行": 60,
+   "cat": "houkoku",
+   "post_date": "2026-08-09",
+   "pref": "北海道",
+   "city": "稚内市",
+   "temple": "西光寺",
+   "title": "浄土真宗 本願寺派 浄心山 西光寺",
+   "url": "https://www.saikouji-wakkanai.jp/",
+   "desc": "西光寺より。浄土真宗 本願寺派 浄心山 西光寺"
   },
   {
    "行": 1077,
@@ -1420,6 +3149,17 @@
    "url": "https://zenkoji.or.jp/",
    "desc": "クラムボンの原田郁子とタブラ奏者ユザーンを招いた本堂コンサート。前売5,000円。",
    "event_date": "2026-10-24"
+  },
+  {
+   "行": 780,
+   "cat": "houwa",
+   "post_date": "2026-08-08",
+   "pref": "山口県",
+   "city": "宇部市",
+   "temple": "寳林寺",
+   "title": "住職法話その２",
+   "url": "https://hourinji.jimdoweb.com/住職法話その2/",
+   "desc": "寳林寺の法話・記事。住職法話その２"
   },
   {
    "行": 454,
@@ -1444,6 +3184,39 @@
    "desc": "第2回目の夕食会開催報告。地域コミュニティの取り組み。"
   },
   {
+   "行": 332,
+   "cat": "houkoku",
+   "post_date": "2026-08-07",
+   "pref": "三重県",
+   "city": "津市",
+   "temple": "西方寺",
+   "title": "第2回『大悲の名告り』 簡単だからこそ、尊い。",
+   "url": "https://saihouji.jp/news/",
+   "desc": "西方寺より。第2回『大悲の名告り』 簡単だからこそ、尊い。"
+  },
+  {
+   "行": 39,
+   "cat": "houkoku",
+   "post_date": "2026-08-07",
+   "pref": "北海道",
+   "city": "美唄市",
+   "temple": "正教寺",
+   "title": "お盆の参拝について",
+   "url": "https://shokyoji.jp/",
+   "desc": "正教寺より。お盆の参拝について"
+  },
+  {
+   "行": 854,
+   "cat": "houkoku",
+   "post_date": "2026-08-07",
+   "pref": "",
+   "city": "",
+   "temple": "光明寺",
+   "title": "先月28日の熊本地震に被災された皆様におかれましては、心より…",
+   "url": "https://komyoji-fukuoka.org/category/%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b/",
+   "desc": "光明寺より。先月28日の熊本地震に被災された皆様におかれましては、心より…"
+  },
+  {
    "行": 773,
    "cat": "houkoku",
    "post_date": "2026-08-06",
@@ -1453,6 +3226,39 @@
    "title": "坊守が得度習礼を修了しました",
    "url": "https://www.kyounji.com/お知らせ",
    "desc": "暁雲寺の坊守が西本願寺にて得度を受式し僧籍を取得したことを報告。"
+  },
+  {
+   "行": 39,
+   "cat": "houwa",
+   "post_date": "2026-08-06",
+   "pref": "北海道",
+   "city": "美唄市",
+   "temple": "正教寺",
+   "title": "お寺の掲示板／2026年8月",
+   "url": "https://shokyoji.jp/",
+   "desc": "正教寺より。お寺の掲示板／2026年8月"
+  },
+  {
+   "行": 780,
+   "cat": "houwa",
+   "post_date": "2026-08-06",
+   "pref": "山口県",
+   "city": "宇部市",
+   "temple": "寳林寺",
+   "title": "くらしの仏教語",
+   "url": "https://hourinji.jimdoweb.com/住職法話その2/",
+   "desc": "寳林寺の法話・記事。くらしの仏教語"
+  },
+  {
+   "行": 841,
+   "cat": "houkoku",
+   "post_date": "2026-08-06",
+   "pref": "福岡県",
+   "city": "北九州市",
+   "temple": "善隆寺",
+   "title": "2026年8月のお寺の行事を更新しました。",
+   "url": "https://zenryuji-kokura.com/",
+   "desc": "善隆寺より。2026年8月のお寺の行事を更新しました。"
   },
   {
    "行": 973,
@@ -1521,6 +3327,50 @@
    "desc": "2026年8月の月例掲示板。"
   },
   {
+   "行": 438,
+   "cat": "houkoku",
+   "post_date": "2026-08-05",
+   "pref": "大阪府",
+   "city": "東大阪市",
+   "temple": "正善寺",
+   "title": "シャカシャカかき氷のおふるまい＆本堂で夏休みの宿題",
+   "url": "https://sho-zenji.jp/",
+   "desc": "正善寺より。シャカシャカかき氷のおふるまい＆本堂で夏休みの宿題"
+  },
+  {
+   "行": 555,
+   "cat": "houkoku",
+   "post_date": "2026-08-05",
+   "pref": "兵庫県",
+   "city": "神戸市",
+   "temple": "西林寺",
+   "title": "〈盂蘭盆会法要ご案内〉 日時：令和８年 ８月１３日（木） ８月１４日（金） 両日とも 午前９時　１１時 午後１３時　１５",
+   "url": "https://www.sairinji.net/blog",
+   "desc": "西林寺より。〈盂蘭盆会法要ご案内〉 日時：令和８年 ８月１３日（木） ８月１４日（金） 両日とも 午前９時　１１時 午後１３時　１５"
+  },
+  {
+   "行": 555,
+   "cat": "houkoku",
+   "post_date": "2026-08-05",
+   "pref": "兵庫県",
+   "city": "神戸市",
+   "temple": "西林寺",
+   "title": "神戸新聞に子ども会が掲載されました🌱",
+   "url": "https://www.sairinji.net/blog",
+   "desc": "西林寺より。神戸新聞に子ども会が掲載されました🌱"
+  },
+  {
+   "行": 555,
+   "cat": "houwa",
+   "post_date": "2026-08-05",
+   "pref": "兵庫県",
+   "city": "神戸市",
+   "temple": "西林寺",
+   "title": "🌻7月の法話会🌻",
+   "url": "https://www.sairinji.net/",
+   "desc": "西林寺より。🌻7月の法話会🌻"
+  },
+  {
    "行": 773,
    "cat": "houkoku",
    "post_date": "2026-08-04",
@@ -1565,6 +3415,17 @@
    "title": "令和8年熊本地震義援金を送金しました",
    "url": "https://sites.google.com/view/enkyoji-okazaki/",
    "desc": "8月1日から3日の合同お盆参りで総額11万円の義援金が集まり、3日に送金したとの報告。被災地の一日も早い復興を念じると結ぶ。"
+  },
+  {
+   "行": 780,
+   "cat": "houwa",
+   "post_date": "2026-08-04",
+   "pref": "山口県",
+   "city": "宇部市",
+   "temple": "寳林寺",
+   "title": "私の善知識　岡亮二先生",
+   "url": "https://hourinji.jimdoweb.com/住職法話その2/",
+   "desc": "寳林寺の法話・記事。私の善知識　岡亮二先生"
   },
   {
    "行": 839,
@@ -1622,15 +3483,15 @@
    "desc": "夏休みで学校給食のなくなる子どもたちへお菓子を届ける「おてらおやつクラブ」の発送会を宝林寺で開催した。"
   },
   {
-   "行": 973,
-   "cat": "houwa",
-   "post_date": "2026-08-02",
-   "pref": "大分県",
-   "city": "大分市",
-   "temple": "円光寺",
-   "title": "「ありがとう」が先",
-   "url": "https://j-enkouji.jp/pages/20?detail=1&b_id=75&r_id=6045#block75-6045",
-   "desc": "何かを頼む前に、してもらったこと・していただくことへの「ありがとう」を先に伝えることを勧める短い言葉の法話。"
+   "行": 200,
+   "cat": "houkoku",
+   "post_date": "2026-08-03",
+   "pref": "栃木県",
+   "city": "那須郡",
+   "temple": "慈願寺",
+   "title": "８月２日（日）午前７時より、お盆を迎えるにあたって、慈願寺佛教壮年会によ...",
+   "url": "http://jiganji.exblog.jp/i9/",
+   "desc": "慈願寺より。８月２日（日）午前７時より、お盆を迎えるにあたって、慈願寺佛教壮年会によ..."
   },
   {
    "行": 948,
@@ -1644,39 +3505,6 @@
    "desc": "浄尊寺の月刊寺報「お寺だより」8月号が公開された。"
   },
   {
-   "行": 773,
-   "cat": "houkoku",
-   "post_date": "2026-08-02",
-   "pref": "山口県",
-   "city": "下関市",
-   "temple": "暁雲寺",
-   "title": "夏の奉仕作業がありました",
-   "url": "https://www.kyounji.com/お知らせ",
-   "desc": "8月2日朝、総代・世話人・仏教婦人会・門徒推進員ら多数の参加で境内地の整備や竹やぶの手入れなど夏の奉仕作業が行われた。"
-  },
-  {
-   "行": 628,
-   "cat": "houwa",
-   "post_date": "2026-08-02",
-   "pref": "島根県",
-   "city": "松江市",
-   "temple": "西宗寺",
-   "title": "2026(令和8）年８月前半の法語",
-   "url": "https://saisyuji.net/",
-   "desc": "連日の猛暑の中、暑さを愚痴る我が身を省み、熊本の震災に遭われた方々を思いお見舞いの心を寄せる8月前半の法語。"
-  },
-  {
-   "行": 616,
-   "cat": "houkoku",
-   "post_date": "2026-08-02",
-   "pref": "兵庫県",
-   "city": "たつの市",
-   "temple": "西福寺",
-   "title": "第十八世住職　円融院釋了以が往生の素懐を遂げました",
-   "url": "https://saifuku-ji.com/category/new/",
-   "desc": "西福寺第十八世住職・円融院釋了以が7月15日に95歳で往生し、7月18日に通夜、19日に葬儀が執り行われた。"
-  },
-  {
    "行": 534,
    "cat": "jihou",
    "post_date": "2026-08-02",
@@ -1686,17 +3514,6 @@
    "title": "正光寺だより93",
    "url": "https://www.shokoji-kobe.com/",
    "desc": "令和8年8月のお知らせとともに寺報「正光寺だより」第93号が掲載された。盂蘭盆会法要や仏具お磨きの報告などが案内されている。"
-  },
-  {
-   "行": 493,
-   "cat": "houwa",
-   "post_date": "2026-08-02",
-   "pref": "京都府",
-   "city": "福知山市",
-   "temple": "成満寺",
-   "title": "2026年8月の言葉",
-   "url": "https://jomanji.net/",
-   "desc": "成満寺が毎月更新する「今月の言葉」の8月分。毎月初旬に仏教の教えを込めた言葉を掲示・発信している。"
   },
   {
    "行": 461,
@@ -2083,17 +3900,6 @@
    "title": "正光寺だより92（7月号）",
    "url": "https://www.shokoji-kobe.com/_src/1312/obj20260705044826366251.docx",
    "desc": "正光寺の月刊寺報「正光寺だより」7月号（第92号）。境内の銀杏の伐採についての報告など、寺の近況が紹介されている。"
-  },
-  {
-   "行": 93,
-   "cat": "jihou",
-   "post_date": "2026-07-03",
-   "pref": "東京都",
-   "city": "大田区",
-   "temple": "善永寺",
-   "title": "善永寺寺報 令和8年7月号",
-   "url": "https://www.zeneiji.jp/",
-   "desc": "寺報令和8年7月号を掲載。法語カレンダーの言葉の紹介や7月の行事案内、絵本読み聞かせ「おはなし会」復活の告知などを載せる。"
   }
  ]
 }
