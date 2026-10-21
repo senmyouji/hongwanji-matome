@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T03:30:00+09:00",
+  "updated": "2026-10-22T03:45:25+09:00",
   "items": [
     {
       "id": "19b6d5bdc833",
@@ -3381,17 +3381,6 @@
       "desc": "奈良県・無量寺が阪神タイガース元選手・現コーチの今岡真訪氏とコラボ企画を実施。スポーツとお寺をつなぐ注目の取り組み。"
     },
     {
-      "行": "386",
-      "cat": "houkoku",
-      "post_date": "2026-09-21",
-      "pref": "大阪府",
-      "city": "大阪市福島区",
-      "temple": "円満寺",
-      "title": "追悼法要２６のご報告",
-      "url": "https://fukusima-enmanji.org/",
-      "desc": "円満寺より。追悼法要２６のご報告"
-    },
-    {
       "行": 1092,
       "cat": "jihou",
       "post_date": "2026-09-20",
@@ -4273,6 +4262,261 @@
       "title": "永代経法要並びに秋法座が行われました",
       "url": "https://www.kyounji.com/お知らせ#76e5a528",
       "desc": "18日（日）、永代経法要並びに秋法座が執り行われ、多くの方にお参りいただいた。"
+    },
+    {
+      "行": "1048",
+      "cat": "houwa",
+      "post_date": "2026-10-21",
+      "pref": "福島県",
+      "city": "郡山市",
+      "temple": "円寿寺",
+      "title": "新着情報一覧 – 浄土真宗本願寺派 円寿寺 – Enjuji on-line",
+      "url": "https://enjuji.jp/news/",
+      "desc": "新着情報一覧 – 浄土真宗本願寺派 円寿寺 – Enjuji on-line"
+    },
+    {
+      "行": "1110",
+      "cat": "houwa",
+      "post_date": "2026-10-21",
+      "pref": "福島県",
+      "city": "郡山市",
+      "temple": "円壽寺",
+      "title": "新着情報一覧 – 浄土真宗本願寺派 円寿寺 – Enjuji on-line",
+      "url": "https://enjuji.jp/news/",
+      "desc": "新着情報一覧 – 浄土真宗本願寺派 円寿寺 – Enjuji on-line"
+    },
+    {
+      "行": "140",
+      "cat": "houwa",
+      "post_date": "2026-10-22",
+      "pref": "神奈川県",
+      "city": "川崎市",
+      "temple": "正樂寺",
+      "title": "正楽寺日誌｜浄土真宗本願寺派 正楽寺",
+      "url": "https://www.shorakuji.com/blog",
+      "desc": "まだ学校給食が今のように普及していないころ、私は、子どもたちに"
+    },
+    {
+      "行": "140",
+      "cat": "houwa",
+      "post_date": "2026-10-01",
+      "pref": "神奈川県",
+      "city": "川崎市",
+      "temple": "正樂寺",
+      "title": "2026-10の掲示板",
+      "url": "https://www.shorakuji.com/top",
+      "desc": "2026.10.01"
+    },
+    {
+      "行": "141",
+      "cat": "houwa",
+      "post_date": "2026-10-22",
+      "pref": "神奈川県",
+      "city": "川崎市",
+      "temple": "高元寺",
+      "title": "お知らせ | 高願寺",
+      "url": "https://www.koganji.net/news",
+      "desc": "令和8年　報恩講法要/ランチタイムコンサート　　　のお知らせ"
+    },
+    {
+      "行": "218",
+      "cat": "event",
+      "post_date": "2026-10-22",
+      "pref": "埼玉県",
+      "city": "所沢市",
+      "temple": "昌平寺",
+      "title": "春まつり　落語　春風亭柳橋一門・フリーマーケット・大抽せん会",
+      "url": "https://shouheiji.or.jp/schedule",
+      "desc": "春まつり　落語　春風亭柳橋一門・フリーマーケット・大抽せん会",
+      "event_date": "2027-03-21"
+    },
+    {
+      "行": "435",
+      "cat": "houwa",
+      "post_date": "2026-10-21",
+      "pref": "大阪府",
+      "city": "枚方市",
+      "temple": "勝円寺",
+      "title": "仏事・参拝・住職コラム（法話） - 日應山　勝圓寺",
+      "url": "https://jyoudoshinshu-syouenji.jp/menu",
+      "desc": "大阪府枚方市長尾にある浄土真宗本願寺派（通称：西本願寺派）の寺院です"
+    },
+    {
+      "行": "435",
+      "cat": "houwa",
+      "post_date": "2026-10-21",
+      "pref": "大阪府",
+      "city": "枚方市",
+      "temple": "勝円寺",
+      "title": "「なもの部屋」（住職法話動画配信YouTubeチャンネル） - 日應山　勝圓寺",
+      "url": "https://jyoudoshinshu-syouenji.jp/free/namonoheya",
+      "desc": "大阪府枚方市長尾にある浄土真宗本願寺派（通称：西本願寺派）の寺院です"
+    },
+    {
+      "行": "465",
+      "cat": "houwa",
+      "post_date": "2026-10-22",
+      "pref": "東京都",
+      "city": "港区",
+      "temple": "正源寺",
+      "title": "義父の法話 – 正源寺",
+      "url": "https://www.shogenji.com/%e7%be%a9%e7%88%b6%e3%81%ae%e6%b3%95%e8%a9%b1/",
+      "desc": "彼岸会法要にて　筆頭総代による朗読の後　義父による法話を聴聞致しました。"
+    },
+    {
+      "行": "476",
+      "cat": "houwa",
+      "post_date": "2026-10-21",
+      "pref": "",
+      "city": "堺市",
+      "temple": "因念寺",
+      "title": "Web法話のご案内 - 成就山　因念寺",
+      "url": "https://innenji.jp/free/rinku99784473961155506305",
+      "desc": "【奉告参拝】初参式・七五三・遺影写真のご案内"
+    },
+    {
+      "行": "476",
+      "cat": "houkoku",
+      "post_date": "2026-10-21",
+      "pref": "",
+      "city": "堺市",
+      "temple": "因念寺",
+      "title": "Counter",
+      "url": "https://innenji.jp/diary",
+      "desc": "Counter"
+    },
+    {
+      "行": "487",
+      "cat": "houkoku",
+      "post_date": "2026-10-22",
+      "pref": "",
+      "city": "京都市",
+      "temple": "文相寺",
+      "title": "以前、味覚障害になりました。味がしないことはこんなに辛いことかと驚きました。特に、食べる前にイメージしていた味とことごとく違うため、そのギャップがとても辛かった",
+      "url": "https://monsouji.amebaownd.com/pages/5049968/blog",
+      "desc": "以前、味覚障害になりました。味がしないことはこんなに辛いことかと驚きました。特に、食べる前にイメージしていた味とことごとく違うため、そのギャップがとても辛かった"
+    },
+    {
+      "行": "511",
+      "cat": "houwa",
+      "post_date": "2026-10-22",
+      "pref": "奈良県",
+      "city": "香芝市",
+      "temple": "無量寺",
+      "title": "響流会無量寺祭り打ち上げ | 奈良香芝 無量寺のブログ | 奈良県香芝市のお寺 浄土真宗本願寺派 正徳山 無量寺",
+      "url": "http://muryo-ji.jp/blog/%e9%9f%bf%e6%b5%81%e4%bc%9a%e7%84%a1%e9%87%8f%e5%af%ba%e7%a5%ad%e3%82%8a%e6%89%93%e3%81%a1%e4%b8%8a%e3%81%92-4999.html",
+      "desc": "２０２６年５月２日に開催されました無量寺まつり、親子連れを含むたくさんの方々にご参加いただくことができました。この日、お祭りを手伝ってくださったみなさまと打ち上げの食事会と癩編へ向けての意見交換の会を行いました。"
+    },
+    {
+      "行": "56",
+      "cat": "houwa",
+      "post_date": "2026-10-01",
+      "pref": "北海道",
+      "city": "中川郡",
+      "temple": "顕勝寺",
+      "title": "2026-10の掲示板",
+      "url": "https://www.kenshoji.net/",
+      "desc": "】2026年10月"
+    },
+    {
+      "行": "75",
+      "cat": "houwa",
+      "post_date": "2026-09-23",
+      "pref": "東京都",
+      "city": "文京区",
+      "temple": "称名寺",
+      "title": "浄土真宗の教章",
+      "url": "http://www.smj.or.jp/posts/dharma75.html",
+      "desc": "廣國山 一心院 稱名寺（東京都文京区小日向）"
+    },
+    {
+      "行": "75",
+      "cat": "houwa",
+      "post_date": "2026-09-23",
+      "pref": "東京都",
+      "city": "文京区",
+      "temple": "称名寺",
+      "title": "年回法要の意義⑤（本願力回向）",
+      "url": "http://www.smj.or.jp/posts/dharma80.html",
+      "desc": "廣國山 一心院 稱名寺（東京都文京区小日向）"
+    },
+    {
+      "行": "75",
+      "cat": "houkoku",
+      "post_date": "2026-10-22",
+      "pref": "東京都",
+      "city": "文京区",
+      "temple": "称名寺",
+      "title": "宗教と利益",
+      "url": "http://www.smj.or.jp/blog.html",
+      "desc": "宗教と利益"
+    },
+    {
+      "行": "75",
+      "cat": "houwa",
+      "post_date": "2026-10-01",
+      "pref": "東京都",
+      "city": "文京区",
+      "temple": "称名寺",
+      "title": "2026-10の掲示板",
+      "url": "http://www.smj.or.jp/",
+      "desc": "2026/09/23・・・"
+    },
+    {
+      "行": "892",
+      "cat": "houwa",
+      "post_date": "2026-10-22",
+      "pref": "福岡県",
+      "city": "飯塚市",
+      "temple": "光隆寺",
+      "title": "5月の法語（2022年）",
+      "url": "https://kouryuji-namazuta.com/5%e6%9c%88%e3%81%ae%e6%b3%95%e8%aa%9e%ef%bc%882022%e5%b9%b4%ef%bc%89/",
+      "desc": "メールアドレスが公開されることはありません。"
+    },
+    {
+      "行": "905",
+      "cat": "houwa",
+      "post_date": "2026-10-22",
+      "pref": "福岡県",
+      "city": "行橋市",
+      "temple": "両徳寺",
+      "title": "法話 | 大乗山 両徳寺（福岡県行橋市のお寺・納骨堂）",
+      "url": "https://www.ryotokuji.com/category/talk/",
+      "desc": "僕は自然が大好きです。普段が人の中での仕事だからか、人を離れた世界が好きなのかもしれません。その自然の中で行うスポーツが好きです。だからトライアスロンなんぞしてしまいます。その自然にチャレンジするのがまた楽しいんですね。近年は少し幅を広げてトレイルランなんかもいい…"
+    },
+    {
+      "行": "905",
+      "cat": "event",
+      "post_date": "2026-10-22",
+      "pref": "福岡県",
+      "city": "行橋市",
+      "temple": "両徳寺",
+      "title": "※おとなてらこや～落雁づくりワークショップ～",
+      "url": "https://www.ryotokuji.com/category/event/",
+      "desc": "※おとなてらこや～落雁づくりワークショップ～",
+      "event_date": "2026-10-01"
+    },
+    {
+      "行": "905",
+      "cat": "houwa",
+      "post_date": "2026-10-22",
+      "pref": "福岡県",
+      "city": "行橋市",
+      "temple": "両徳寺",
+      "title": "ご報告 | 大乗山 両徳寺（福岡県行橋市のお寺・納骨堂）",
+      "url": "https://www.ryotokuji.com/category/report/",
+      "desc": "２０２５年７月末より両徳寺第２納骨堂の募集を開始いたしました。"
+    },
+    {
+      "行": "994",
+      "cat": "houkoku",
+      "post_date": "2026-10-21",
+      "pref": "宮崎県",
+      "city": "串間市",
+      "temple": "正國寺",
+      "title": "Counter",
+      "url": "https://shokokuji.net/info",
+      "desc": "Counter"
     }
   ]
 }
