@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T19:00:54Z",
+  "updated": "2026-10-27T03:43:46",
   "items": [
     {
       "id": "19b6d5bdc833",
@@ -174,18 +174,6 @@
       "title": "令和８年１０月法話会",
       "url": "https://monjyoji.com/news/",
       "desc": ""
-    },
-    {
-      "行": 350,
-      "cat": "event",
-      "post_date": "2026-10-14",
-      "event_date": "2026-10-26",
-      "pref": "滋賀県",
-      "city": "東近江市",
-      "temple": "發願寺",
-      "title": "ヨガ教室（お寺でヨガ）",
-      "url": "https://hotsugwanji.com/calendar/g",
-      "desc": "發願寺（滋賀県東近江市）でヨガ教室を開催。10月26日（日）13:00〜14:30。講師：原口菜生さん（竜王町）。老若男女大歓迎。"
     },
     {
       "行": 1039,
@@ -1724,19 +1712,6 @@
       "title": "掲示板伝道2026年10月「今日という日は残りの人生の最初の日である」",
       "url": "https://anraku-ji.org/keijiban/",
       "desc": "チャールズ・ディードリッヒの言葉「今日という日は残りの人生の最初の日である」を今月の言葉として掲げ、定例法話会でのお話に用いている。"
-    },
-    {
-      "id": "4412580d",
-      "行": 208,
-      "cat": "event",
-      "post_date": "2026-10-02",
-      "pref": "埼玉県",
-      "city": "さいたま市",
-      "temple": "浄源寺",
-      "title": "安穏朝市（10月25日）〜庵木瓜（茜屋珈琲）も営業",
-      "url": "https://jyougenji.jp/",
-      "desc": "毎月開催のお寺の朝市「安穏朝市」。10月25日(日)9時〜13時、境内にて開催。庵木瓜（茜屋珈琲）も出店予定。",
-      "event_date": "2026-10-25"
     },
     {
       "行": 5,
@@ -4212,6 +4187,161 @@
       "title": "10月のことば",
       "url": "https://muryo-ji.jp/",
       "desc": "10月の言葉。"
+    },
+    {
+      "id": "16d05d5401a3",
+      "cat": "jihou",
+      "temple": "廣濟寺",
+      "pref": "富山県",
+      "city": "高岡市",
+      "title": "行事の様子や、お寺の日々のひとこまをお届けします。",
+      "url": "https://kosaiji.net/%e5%ba%83%e6%b8%88%e5%af%ba%e3%81%8b%e3%82%8f%e3%82%89%e7%89%88/",
+      "published_date": "2026-10-26",
+      "description": "行事の様子や、お寺の日々のひとこまをお届けします。。10月26日、『広済寺寺報』第87号を発行しました。。"
+    },
+    {
+      "id": "43032fb54fc2",
+      "cat": "houkoku",
+      "temple": "極樂寺",
+      "pref": "新潟県",
+      "city": "小千谷市",
+      "title": "お知らせ | 浄土真宗本願寺派 青木山 極楽寺",
+      "url": "https://gokurakuji.info/category/news/",
+      "published_date": "2026-10-26",
+      "description": "お知らせ | 浄土真宗本願寺派 青木山 極楽寺\n9/10・12 極楽音楽堂〜夜のお寺で音楽を楽しむ〜\nお盆参りについて\n7/26清掃奉仕・生ビール大会のお知らせ\nお知らせ/ 会員（ご門徒）連絡/ イベ"
+    },
+    {
+      "id": "3e0d75452c3b",
+      "cat": "houwa",
+      "temple": "清浄寺",
+      "pref": "埼玉県",
+      "city": "吉川市",
+      "title": "定例法話会 一覧｜楠井山清浄寺｜埼玉県吉川市の浄土真宗本願寺派寺院",
+      "url": "https://shojoji.jp/category/news/seminar/",
+      "published_date": "2026-10-01",
+      "description": "定例法話会 一覧｜楠井山清浄寺｜埼玉県吉川市の浄土真宗本願寺派寺院\n10月の報恩講・定例法話会の中止について\nCopyright © 浄土真宗本願寺派 清浄寺. All Rights Reserved"
+    },
+    {
+      "id": "c7707a14b76c",
+      "cat": "jihou",
+      "temple": "清浄寺",
+      "pref": "埼玉県",
+      "city": "吉川市",
+      "title": "秋の便りと今年も実った花梨のこと🍋｜楠井山清浄寺｜埼玉県吉川市の浄土真宗本願寺派寺院",
+      "url": "https://shojoji.jp/news/%e7%a7%8b%e3%81%ae%e4%be%bf%e3%82%8a%e3%81%a8%e4%bb%8a%e5%b9%b4%e3%82%82%e5%ae%9f%e3%81%a3%e3%81%9f%e8%8a%b1%e6%a2%a8%e3%81%ae%e3%81%93%e3%81%a8%f0%9f%8d%8b/",
+      "published_date": "2026-10-01",
+      "description": "境内の空気がすっかり秋色に染まりました。。清浄寺の庭で大切に育っている“花梨の木”も、今年は立派な実をたくさんつけてくれました。。"
+    },
+    {
+      "id": "77af01699353",
+      "cat": "jihou",
+      "temple": "清浄寺",
+      "pref": "埼玉県",
+      "city": "吉川市",
+      "title": "吉川市木売地区の子どもたちと/新聞紙スリッパ作りをしました！｜楠井山清浄寺｜埼玉県吉川市の浄土真宗本願寺派寺院",
+      "url": "https://shojoji.jp/news/%e9%98%b2%e7%81%bd%e6%96%b0%e8%81%9e%e7%b4%99%e3%82%b9%e3%83%aa%e3%83%83%e3%83%91%e4%bd%9c%e3%82%8a%e3%82%92%e3%81%97%e3%81%be%e3%81%97%e3%81%9f%ef%bc%81/",
+      "published_date": "2026-10-01",
+      "description": "今回は、災害時にも役立つ「新聞紙スリッパ」づくりに挑戦。。防災クイズもあり、私自身もとても勉強になる時間でした。。"
+    },
+    {
+      "id": "aff011401880",
+      "cat": "houkoku",
+      "temple": "清浄寺",
+      "pref": "埼玉県",
+      "city": "吉川市",
+      "title": "活動報告 一覧｜楠井山清浄寺｜埼玉県吉川市の浄土真宗本願寺派寺院",
+      "url": "https://shojoji.jp/category/report/",
+      "published_date": "2026-10-01",
+      "description": "活動報告 一覧｜楠井山清浄寺｜埼玉県吉川市の浄土真宗本願寺派寺院\n子ども食堂「〇△□(まるさんかくしかく)」のプレオープンのようす\nCopyright © 浄土真宗本願寺派 清浄寺. All Righ"
+    },
+    {
+      "id": "d7317ab06848",
+      "cat": "houkoku",
+      "temple": "大念寺",
+      "pref": "北海道",
+      "city": "札幌市西区",
+      "title": "お知らせ – 浄土真宗本願寺派 信行山 大念寺",
+      "url": "https://dainenji.org//news",
+      "published_date": "2026-10-26",
+      "description": "いつもお世話になっております。。来る10月27日（火）午後6時より念仏会をお勤めいたします。。"
+    },
+    {
+      "id": "7993854a0d6c",
+      "cat": "houkoku",
+      "temple": "善超寺",
+      "pref": "岐阜県",
+      "city": "岐阜市清本町",
+      "title": "「お知らせ」の記事一覧 | 河野 善超寺",
+      "url": "https://zenchoji.jp/category/info",
+      "published_date": "2026-10-01",
+      "description": "お経を習う会には、「習う」以外にも大切な時間があります。。  それは、夜のお寺で遊ぶ時間です。。"
+    },
+    {
+      "id": "e85ac2ef4879",
+      "cat": "houkoku",
+      "temple": "光蓮寺",
+      "pref": "",
+      "city": "津市上浜町",
+      "title": "お知らせ - 浄土真宗本願寺派 八葉山  光蓮寺",
+      "url": "https://kourenji.jp/info",
+      "published_date": "2026-10-26",
+      "description": "光蓮寺は上浜の地に建立されて500年を有する浄土真宗本願寺派の寺院です。。樹齢500年の松の木からは、建立当時の歴史を感じることができます。。"
+    },
+    {
+      "id": "c90d06dd6b2b",
+      "cat": "houkoku",
+      "temple": "真樂寺",
+      "pref": "大阪府",
+      "city": "守口市金田町",
+      "title": "お知らせ | 真樂寺｜大阪府守口市にある冠婚葬祭と終活の宗教法人のお寺",
+      "url": "https://shinrakuji.or.jp/blog/",
+      "published_date": "2026-10-01",
+      "description": "令和8年度からスタートしました。。令和7年度に新たに2資格を取得いたしました。。"
+    },
+    {
+      "id": "7273a2cf7ba7",
+      "cat": "houkoku",
+      "temple": "専宗寺",
+      "pref": "大阪府",
+      "city": "東大阪市五条町",
+      "title": "専宗寺は浄土真宗本願寺派の寺院です。毎月本堂で法要を行っています。",
+      "url": "http://senshuji-gojocho.com/info",
+      "published_date": "2026-10-26",
+      "description": "専宗寺は浄土真宗本願寺派の寺院です。。毎月本堂で法要を行っています。。"
+    },
+    {
+      "id": "6aeb315aa4a1",
+      "cat": "event",
+      "temple": "暁善寺",
+      "pref": "北海道",
+      "city": "厚岸郡厚岸町",
+      "title": "ビハーラ講座のお知らせ　（１１月７日in暁善寺本堂）",
+      "url": "https://kyouzenji-koukyouji.com/event/",
+      "published_date": "2026-10-26",
+      "description": "暁善寺にて開催。",
+      "event_date": "2026-11-07"
+    },
+    {
+      "id": "3dc53f17ce88",
+      "cat": "houwa",
+      "temple": "暁善寺",
+      "pref": "北海道",
+      "city": "厚岸郡厚岸町",
+      "title": "2026年10月の今月の掲示板",
+      "url": "https://kyouzenji-koukyouji.com/",
+      "published_date": "2026-10-26",
+      "description": "星を投げる人～令和８年熊本地震～\n今月の掲示板～7月・暁善寺、光暁寺～\nビハーラ講座のお知らせ　（１１月７日in暁善寺本堂）\n慈光山　暁善寺　令和八年度　宗祖親鸞聖人報恩講法要（１０月３１日・１１月１日）のお知らせ\n顕真山　光暁寺　令和八年度宗祖親鸞聖人報恩講法要（１０月２８日・２９日）　のお知らせ\n当寺について\n北海道厚岸町にある暁善寺・光暁寺\n北海道厚岸町にある暁善寺・光暁寺は、地域に根ざした"
+    },
+    {
+      "id": "bfe46efd1ef9",
+      "cat": "houkoku",
+      "temple": "明泉寺",
+      "pref": "島根県",
+      "city": "鹿足郡吉賀町",
+      "title": "ブログ | 島根県で永代供養・墓じまい・納骨堂なら明泉寺｜安心の葬儀・法事対応",
+      "url": "https://www.shimane-myosenji.com/blog/",
+      "published_date": "2026-10-26",
+      "description": "（４・５月）僧侶派遣業者様より周南市にて３件の御法縁をいただきました。。月１更新を心がけていたのに、気が付いたら最終更新から２ヵ月が経っていた。。"
     }
   ]
 }
