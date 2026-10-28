@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28",
+  "updated": "2026-10-29T03:43:56",
   "items": [
     {
       "id": "19b6d5bdc833",
@@ -2383,49 +2383,6 @@
       "desc": "続きを読む"
     },
     {
-      "行": 841,
-      "cat": "houkoku",
-      "post_date": "2026-09-28",
-      "pref": "福岡県",
-      "city": "北九州市",
-      "temple": "善隆寺",
-      "title": "おてら料理教室　À Table(ア ターブル)",
-      "url": "https://zenryuji-kokura.com/",
-      "desc": "善隆寺より。おてら料理教室　À Table(ア ターブル)"
-    },
-    {
-      "cat": "houwa",
-      "post_date": "2026-09-28",
-      "pref": "神奈川県",
-      "city": "横浜市",
-      "temple": "善了寺",
-      "title": "令和８年９月定例法話会を開催いたしました",
-      "url": "https://zenryouji.jp/topics/",
-      "desc": "イベント情報 | 茶堂"
-    },
-    {
-      "行": 164,
-      "cat": "houwa",
-      "post_date": "2026-09-28",
-      "pref": "神奈川県",
-      "city": "横浜市",
-      "temple": "善了寺",
-      "title": "イベント情報 | 茶堂",
-      "url": "https://zenryouji.jp/",
-      "desc": "令和８年９月定例法話会を開催いたしました イベント情報 | 茶堂"
-    },
-    {
-      "行": 164,
-      "cat": "houwa",
-      "post_date": "2026-09-28",
-      "pref": "神奈川県",
-      "city": "横浜市",
-      "temple": "善了寺",
-      "title": "住職のつぶやき",
-      "url": "https://zenryouji.jp/",
-      "desc": "新年初法話会及び能登半島地震追悼法要をおつとめしました 住職のつぶやき"
-    },
-    {
       "行": 171,
       "cat": "event",
       "post_date": "2026-10-16",
@@ -3613,6 +3570,138 @@
       "title": "如来寺門信徒バスツアー（令和8年）に行って来ました！",
       "url": "https://nyoraiji.or.jp/",
       "desc": "令和8年の門信徒バスツアーを実施。参拝・交流を通じて門信徒の絆を深める。"
+    },
+    {
+      "行": 114,
+      "cat": "houkoku",
+      "post_date": "2026-09-30",
+      "pref": "東京都",
+      "city": "豊島区",
+      "temple": "誓願寺",
+      "title": "誓願寺 | 【誓願寺公式ホームページ】東京都豊島区にある浄土真宗のお寺",
+      "url": "https://www.seiganji-tokyo.jp/",
+      "desc": "コンテンツへスキップ\nナビゲーションに移動\n行事のご案内・お知らせ"
+    },
+    {
+      "行": 200,
+      "cat": "houkoku",
+      "post_date": "2026-10-28",
+      "pref": "栃木県",
+      "city": "那須郡",
+      "temple": "慈願寺",
+      "title": "慈願寺",
+      "url": "https://jiganji.exblog.jp/",
+      "desc": "人気ブログランキング\n|\n話題のタグを見る"
+    },
+    {
+      "行": 439,
+      "cat": "houwa",
+      "post_date": "2026-10-29",
+      "pref": "大阪府",
+      "city": "東大阪市",
+      "temple": "大親寺",
+      "title": "法座に関する記事一覧",
+      "url": "https://xn--pssq9dr19d.com/category/dharma-seat/",
+      "desc": "法座\n2026\n08"
+    },
+    {
+      "行": 444,
+      "cat": "houkoku",
+      "post_date": "2026-10-27",
+      "pref": "大阪府",
+      "city": "東大阪市",
+      "temple": "専宗寺",
+      "title": "浄土真宗本願寺派専宗寺 東大阪市　納骨堂　墓地　法事　永代",
+      "url": "http://senshuji-gojocho.com/",
+      "desc": "浄土真宗本願寺派専宗寺のホームページ\nTel / 072-981-3298\n浄土真宗本願寺派専宗寺"
+    },
+    {
+      "行": 44,
+      "cat": "houwa",
+      "post_date": "2026-10-29",
+      "pref": "北海道",
+      "city": "芦別市",
+      "temple": "淨徳寺",
+      "title": "法話を考える",
+      "url": "https://www.jyoutokuji.co/post/2016/05/30/法話を考える",
+      "desc": "top of page\n検索\n今、お通夜のご法話について考えています。"
+    },
+    {
+      "行": 477,
+      "cat": "houwa",
+      "post_date": "2026-10-29",
+      "pref": "京都府",
+      "city": "京都市",
+      "temple": "明覚寺",
+      "title": "今月の法語 | 浄土真宗本願寺派 明覺寺",
+      "url": "https://www.meikakuji.com/%e4%bb%8a%e6%9c%88%e3%81%ae%e6%b3%95%e8%aa%9e-3/",
+      "desc": "お問い合わせ\nアクセス\nお知らせ"
+    },
+    {
+      "行": 599,
+      "cat": "houwa",
+      "post_date": "2026-10-29",
+      "pref": "兵庫県",
+      "city": "姫路市",
+      "temple": "本柳寺",
+      "title": "法座に関する記事一覧",
+      "url": "https://honryuji-aboshi.com/category/dharma-seat/",
+      "desc": "法座\n2025\n10"
+    },
+    {
+      "行": 710,
+      "cat": "houkoku",
+      "post_date": "2026-10-28",
+      "pref": "広島県",
+      "city": "安芸郡",
+      "temple": "西林寺",
+      "title": "西林寺 | 浄土真宗本願寺派　広島　坂町",
+      "url": "https://sairinji.or.jp/",
+      "desc": "コンテンツへスキップ\nナビゲーションに移動\n〒731-4313 広島県安芸郡坂町坂東３丁目14-17"
+    },
+    {
+      "行": 845,
+      "cat": "houkoku",
+      "post_date": "2026-10-31",
+      "pref": "福岡県",
+      "city": "北九州市",
+      "temple": "永明寺",
+      "title": "浄土真宗本願寺派 永明寺",
+      "url": "https://eimyouji.jp/",
+      "desc": "永明寺について\nごあいさつ\nお寺での過ごし方"
+    },
+    {
+      "行": 892,
+      "cat": "houwa",
+      "post_date": "2026-10-29",
+      "pref": "福岡県",
+      "city": "飯塚市",
+      "temple": "光隆寺",
+      "title": "6月の法語（2022年）",
+      "url": "https://kouryuji-namazuta.com/6%e6%9c%88%e3%81%ae%e6%b3%95%e8%aa%9e%ef%bc%882022%e5%b9%b4%ef%bc%89/",
+      "desc": "関連記事\n今月の法語\n4月の法語（2022年）"
+    },
+    {
+      "行": 973,
+      "cat": "houwa",
+      "post_date": "2026-10-29",
+      "pref": "大分県",
+      "city": "大分市",
+      "temple": "円光寺",
+      "title": "お念仏申す生活法話",
+      "url": "https://j-enkouji.jp/files/rss/block75.xml?1785337868",
+      "desc": "https://j-enkouji.jp/\n2026-10-28T10:00:27+09:00\ntext/html"
+    },
+    {
+      "行": 991,
+      "cat": "houkoku",
+      "post_date": "2026-10-06",
+      "pref": "宮崎県",
+      "city": "都城市",
+      "temple": "摂護寺",
+      "title": "天竜山攝護寺｜宮崎県都城市にある浄土真宗本願寺派のお寺",
+      "url": "https://syogoji.jp/",
+      "desc": "令和2年新本堂落成\nお知らせ\n2026年10月6日"
     }
   ]
 }
