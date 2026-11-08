@@ -3,7 +3,7 @@
 # 失敗すると、GitHub からこのファイルを最後に変えた人（senmyouji）にメールが届く。
 # 巡回の PC が再起動でサインアウトしたまま・publish が毎朝止まっている、など PC の中の見張り（watch）が
 # 書けない・気づけない止まり方を拾う。
-# 外部のアクションは actions/checkout だけ（版をコミットの番号で固定）。
+# 外部のアクションは使わない（公開の items.json を Python の標準機能で直接読む）。
 name: freshness
 
 on:
@@ -19,18 +19,24 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
-        with:
-          persist-credentials: false
       - name: items.json の updated が48時間以内か
         run: |
           python3 - <<'EOF'
-          import datetime as dt, json, sys
+          import datetime as dt, json, sys, time, urllib.request
           LIMIT_HOURS = 48
           JST = dt.timezone(dt.timedelta(hours=9))
+          URL = "https://raw.githubusercontent.com/senmyouji/hongwanji-matome/main/data/items.json"
+          def fetch():
+              for i in range(3):
+                  try:
+                      with urllib.request.urlopen(URL, timeout=30) as r:
+                          return r.read().decode("utf-8-sig")
+                  except Exception:
+                      if i == 2:
+                          raise
+                      time.sleep(20)
           try:
-              with open("data/items.json", encoding="utf-8-sig") as f:
-                  data = json.load(f)
+              data = json.loads(fetch())
               raw = str(data["updated"]).strip()
               u = dt.datetime.fromisoformat(raw.replace("Z", "+00:00"))
           except Exception as e:
