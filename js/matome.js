@@ -5,7 +5,7 @@ var DEFAULT_DATA_URL='https://raw.githubusercontent.com/senmyouji/hongwanji-mato
 var MEIKAN_URL='https://senmyouji.or.jp/shinshu-hp/';
 var CONTACT_URL='https://senmyouji.or.jp/contact/';
 var TOP_PER_CAT=3;               /* トップの各欄の件数（1寺1件） */
-var NO_TEMPLE_PREFS=['秋田県','山形県','沖縄県']; /* 名鑑に県見出しが無い（寺が無い）県 */
+var NO_TEMPLE_PREFS=['秋田県','山形県']; /* 名鑑に県見出しが無い（寺が無い）県 */
 /* ?data= で差し替えてよい取得元（同じオリジンと、以下のもの） */
 var DATA_ALLOW=[
   {origin:'https://raw.githubusercontent.com',path:'/senmyouji/'},
