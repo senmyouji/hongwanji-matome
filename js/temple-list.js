@@ -216,6 +216,15 @@
 
     root.innerHTML = h;
     bind(root);
+    jumpToHash();
+  }
+
+  // 一覧は取得後に描画されるため、#hpj-pNN 付きで開かれてもブラウザは見出しへ移動できない。描画後に移動する。
+  function jumpToHash() {
+    var id = (location.hash || '').slice(1);
+    if (!/^hpj-p\d\d$/.test(id)) return;
+    var el = document.getElementById(id);
+    if (el && el.scrollIntoView) el.scrollIntoView();
   }
 
   function bind(root) {
