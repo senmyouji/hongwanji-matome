@@ -1,0 +1,48 @@
+# PC の外の見張り（V3 ⑤1）。
+# 毎日 UTC 0:00（日本時間 9:00）ごろに data/items.json の "updated" を見て、48時間より古ければ失敗する。
+# 失敗すると、GitHub からこのファイルを最後に変えた人（senmyouji）にメールが届く。
+# 巡回の PC が再起動でサインアウトしたまま・publish が毎朝止まっている、など PC の中の見張り（watch）が
+# 書けない・気づけない止まり方を拾う。
+# 外部のアクションは actions/checkout だけ（版をコミットの番号で固定）。
+name: freshness
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          persist-credentials: false
+      - name: items.json の updated が48時間以内か
+        run: |
+          python3 - <<'EOF'
+          import datetime as dt, json, sys
+          LIMIT_HOURS = 48
+          JST = dt.timezone(dt.timedelta(hours=9))
+          try:
+              with open("data/items.json", encoding="utf-8-sig") as f:
+                  data = json.load(f)
+              raw = str(data["updated"]).strip()
+              u = dt.datetime.fromisoformat(raw.replace("Z", "+00:00"))
+          except Exception as e:
+              print(f"::error::data/items.json の updated が読めません: {type(e).__name__}: {e}")
+              sys.exit(1)
+          if u.tzinfo is None:
+              u = u.replace(tzinfo=JST)   # publish は日本時間で書く
+          now = dt.datetime.now(dt.timezone.utc)
+          age_h = (now - u).total_seconds() / 3600
+          print(f"updated={raw}  経過 {age_h:.1f} 時間  件数 {len(data.get('items', []))}")
+          if age_h > LIMIT_HOURS:
+              print(f"::error::サイトの掲載データが {age_h:.0f} 時間更新されていません（最終 {u.astimezone(JST):%Y-%m-%d %H:%M} 日本時間）。"
+                    "毎朝のパソコン（DESKTOP-MA3MM5A）がサインインしているか、報告.log と RUNBOOK 3章を見てください。")
+              sys.exit(1)
+          EOF
