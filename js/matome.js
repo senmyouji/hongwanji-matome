@@ -111,6 +111,24 @@ function dedupSameTitle(arr){
   return out;
 }
 function eventEnd(it){return it.event_until||it.event_date||'';}
+/* 並べ替えの鍵。始まっている長い会期（8日以上。「11月の行事予定」など）は終わりの日で並べ、
+   ひと月のあいだ先頭に居座らないようにする。短い会期中の行事は今日の扱い（2026-11-09） */
+function eventSortKey(it,ts){
+  var d=it.event_date;if(!d)return '';
+  if(d<ts&&it.event_until&&daysBetween(d,it.event_until)>=7)return it.event_until;
+  return d<ts?ts:d;
+}
+function daysBetween(a,b){return Math.round((new Date(b+'T00:00:00')-new Date(a+'T00:00:00'))/86400000);}
+/* 開催の表示: 会期中なら「開催中（11月30日(月)まで）」、複数日なら「11月1日(日)〜11月3日(火) 開催」 */
+function whenText(it){
+  if(it.event_label)return it.event_label+' 開催';
+  var d=it.event_date,u=it.event_until;
+  if(u&&u!==d){
+    if(d<todayStr())return '開催中（'+jpDate(u)+'まで）';
+    return jpDate(d)+'〜'+jpDate(u)+' 開催';
+  }
+  return jpDate(d)+' 開催';
+}
 /* リンク先は http(s) だけ。それ以外（javascript: など）は '#' */
 function safeUrl(u){var s=String(u==null?'':u).replace(/^[\s\x00-\x1f]+/,'');return /^https?:\/\//i.test(s)?s:'#';}
 
@@ -121,7 +139,7 @@ function itemHTML(it,opts){
   if(isNew(it.post_date))h+='<span class="hmi-new">NEW</span>';
   if(!blank(it.pref)||!blank(it.city))h+='<span class="hmi-area">'+esc(it.pref)+' '+esc(it.city)+'</span>';
   h+='<span class="hmi-temple">'+esc(it.temple)+'</span>';
-  if(opts.when&&(it.event_label||it.event_date))h+='<span class="hmi-when">&#128197; '+esc(it.event_label||jpDate(it.event_date))+' 開催</span>';
+  if(opts.when&&(it.event_label||it.event_date))h+='<span class="hmi-when">&#128197; '+esc(whenText(it))+'</span>';
   h+='</div><h3><a href="'+esc(safeUrl(it.url))+'" target="_blank" rel="noopener">'+esc(it.title)+'</a></h3>';
   if(!blank(it.desc))h+='<p class="hmi-desc">'+esc(it.desc)+'</p>';
   return h+'</div>';
@@ -222,8 +240,8 @@ function eventsForPref(items,pref){
     if(i.event_date&&eventEnd(i)<ts)return false;
     return true;
   }).sort(function(a,b){
-    var da=a.event_date||('9999-'+a.post_date.slice(5));
-    var db=b.event_date||('9999-'+b.post_date.slice(5));
+    var da=eventSortKey(a,ts)||('9999-'+a.post_date.slice(5));
+    var db=eventSortKey(b,ts)||('9999-'+b.post_date.slice(5));
     return da<db?-1:(da>db?1:0);
   });
 }
@@ -373,7 +391,7 @@ if(typeof module==='object'&&module&&module.exports){
     buildEventsDate:buildEventsDate,eventsForPref:eventsForPref,ereaListHTML:ereaListHTML,
     prefHref:prefHref,unofficialHTML:unofficialHTML,regionNavHTML:regionNavHTML,
     resolveDataUrl:resolveDataUrl,DEFAULT_DATA_URL:DEFAULT_DATA_URL,ALL_PREFS:ALL_PREFS,
-    REGIONS:REGIONS,NO_TEMPLE_PREFS:NO_TEMPLE_PREFS
+    REGIONS:REGIONS,NO_TEMPLE_PREFS:NO_TEMPLE_PREFS,whenText:whenText,eventSortKey:eventSortKey
   };
 }
 if(typeof document!=='undefined'){
