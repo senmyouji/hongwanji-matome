@@ -1,6 +1,148 @@
 {
- "updated": "2026-11-09T04:00:09",
+ "updated": "2026-11-10T04:00:22",
  "items": [
+  {
+   "行": 660,
+   "cat": "event",
+   "post_date": "2026-11-08",
+   "pref": "岡山県",
+   "city": "笠岡市",
+   "temple": "浄心寺",
+   "title": "新春のつどい",
+   "url": "https://joshinji.suki-ari.net/",
+   "desc": "1月22日開催の恒例新年の集い。食事や出し物などで楽しむ内容で、今回が最後の開催。",
+   "event_date": "2027-01-22",
+   "tid": "660"
+  },
+  {
+   "行": 660,
+   "cat": "event",
+   "post_date": "2026-11-08",
+   "pref": "岡山県",
+   "city": "笠岡市",
+   "temple": "浄心寺",
+   "title": "やさしい仏教講座(第40回)",
+   "url": "https://joshinji.suki-ari.net/",
+   "desc": "初心者向け仏教講座の第40回。仏教の基礎から丁寧に解説するシリーズ講座。",
+   "event_date": "2026-12-18",
+   "tid": "660"
+  },
+  {
+   "行": 763,
+   "cat": "event",
+   "post_date": "2026-11-08",
+   "pref": "山口県",
+   "city": "下松市",
+   "temple": "浄蓮寺",
+   "title": "〔12月の主な行事〕",
+   "url": "https://jyorenji.jp/",
+   "desc": "12月の主な行事一覧。報恩講法要と門信徒作品展を含む予定を案内。",
+   "event_date": "2026-12-11",
+   "event_until": "2026-12-31",
+   "tid": "763"
+  },
+  {
+   "行": 1027,
+   "cat": "event",
+   "post_date": "2026-11-08",
+   "pref": "福井県",
+   "city": "福井市",
+   "temple": "千福寺",
+   "title": "りんどう うたの会",
+   "url": "https://senpukuji.net/",
+   "desc": "りんどうグループによる歌の会。仏教讃歌や季節の歌を共に歌い、交流を深める。",
+   "event_date": "2026-11-25",
+   "tid": "1027"
+  },
+  {
+   "行": 763,
+   "cat": "event",
+   "post_date": "2026-11-08",
+   "pref": "山口県",
+   "city": "下松市",
+   "temple": "浄蓮寺",
+   "title": "〔11月の主な行事〕",
+   "url": "https://jyorenji.jp/",
+   "desc": "11月の主な行事一覧。お寺deミニコンサート等を含む予定を案内。",
+   "event_date": "2026-11-23",
+   "event_until": "2026-11-30",
+   "tid": "763"
+  },
+  {
+   "行": 1027,
+   "cat": "event",
+   "post_date": "2026-11-08",
+   "pref": "福井県",
+   "city": "福井市",
+   "temple": "千福寺",
+   "title": "真宗教室",
+   "url": "https://senpukuji.net/",
+   "desc": "浄土真宗の教えを学ぶ教室。真宗の基本的な教義や実践について学ぶ機会。",
+   "event_date": "2026-11-16",
+   "tid": "1027"
+  },
+  {
+   "行": 654,
+   "cat": "event",
+   "post_date": "2026-11-08",
+   "pref": "岡山県",
+   "city": "岡山市南区",
+   "temple": "教徳寺",
+   "title": "おしえて住職～仏事作法の会～",
+   "url": "https://kyoutokuji.jimdofree.com/",
+   "desc": "住職が仏事の作法について分かりやすく解説するイベント。法要の意味や参拝の仕方など基礎から学べる。",
+   "event_date": "2026-11-15",
+   "tid": "654"
+  },
+  {
+   "行": 1027,
+   "cat": "event",
+   "post_date": "2026-11-08",
+   "pref": "福井県",
+   "city": "福井市",
+   "temple": "千福寺",
+   "title": "書いて味わうお経の会",
+   "url": "https://senpukuji.net/",
+   "desc": "お経を書き写しながらその意味を味わう写経の会。初心者も参加可能。",
+   "event_date": "2026-11-12",
+   "tid": "1027"
+  },
+  {
+   "行": 866,
+   "cat": "houkoku",
+   "post_date": "2026-11-08",
+   "pref": "福岡県",
+   "city": "福岡市南区",
+   "temple": "浄福寺",
+   "title": "本堂屋根 8",
+   "url": "https://jyoufukuji.com/",
+   "desc": "本堂建て替え工事の経過報告。屋根工事が大詰めを迎え、今年中の完成を見込む。",
+   "tid": "866"
+  },
+  {
+   "行": 216,
+   "cat": "houwa",
+   "post_date": "2026-11-08",
+   "pref": "埼玉県",
+   "city": "東松山市",
+   "temple": "西照寺",
+   "title": "痕跡制度⑦",
+   "url": "http://www.saisyoji.jp/%E8%A5%BF%E7%85%A7%E5%AF%BA%e3%80%80%E6%B3%95%E8%A9%B1%E4%BC%9A/",
+   "desc": "痕跡制度についての連載法話の第7回。阿弥陀如来の願いの跡をたどりながら、念仏の道を考察。",
+   "tid": "216"
+  },
+  {
+   "行": 1067,
+   "cat": "houwa",
+   "post_date": "2026-11-08",
+   "pref": "富山県",
+   "city": "氷見市",
+   "temple": "乗福寺",
+   "title": "声を聞き 道を歩んだ 人有りて",
+   "url": "https://joufukuji.jimdofree.com/ブログ/",
+   "desc": "法語カレンダー11月の言葉を題材にした法話。如来の声を聞き念仏の道を歩んだ先人の姿を語る。",
+   "tid": "1067"
+  },
   {
    "行": 666,
    "cat": "event",
@@ -13,6 +155,18 @@
    "desc": "女性会が毎月第2水曜日に開いている講座で、11月は11日午前に行う。講座で作った品は女性会のバザーにも並ぶ。",
    "event_date": "2026-11-11",
    "tid": "666"
+  },
+  {
+   "行": 349,
+   "cat": "houkoku",
+   "post_date": "2026-11-07",
+   "pref": "滋賀県",
+   "city": "甲賀市",
+   "temple": "嚴浄寺",
+   "title": "圓徳寺（栗東市）の報恩講法要に出講",
+   "url": "https://www.gonjohji.com/",
+   "desc": "栗東市の圓徳寺にて報恩講法要への出講報告。法話の内容と参拝者との交流について記載。",
+   "tid": "349"
   },
   {
    "行": 1070,
@@ -47,7 +201,7 @@
    "city": "黒部市",
    "temple": "善巧寺",
    "title": "銀杏ライトアップ",
-   "url": "https://zenkojiblackbelt.com/",
+   "url": "https://www.zengyou.net/%e5%a4%a7%e3%82%a4%e3%83%81%e3%83%a7%e3%82%a6-%e3%83%a9%e3%82%a4%e3%83%88%e3%82%a2%e3%83%83%e3%83%97%ef%bc%86%e5%a4%9c%e3%82%ab%e3%83%95%e3%82%a7/",
    "desc": "",
    "event_date": "2026-11-28",
    "tid": "1075"
@@ -213,6 +367,18 @@
    "tid": "332"
   },
   {
+   "行": 973,
+   "cat": "houwa",
+   "post_date": "2026-11-02",
+   "pref": "大分県",
+   "city": "大分市",
+   "temple": "円光寺",
+   "title": "「本願に遇い 念仏のひとに会う 楽しみ」",
+   "url": "https://j-enkouji.jp/pages/20?url=pages%2F20%2F",
+   "desc": "阿弥陀如来の本願に遇い、共に念仏を称える人々と出会う喜びを伝える法話。",
+   "tid": "973"
+  },
+  {
    "行": 405,
    "cat": "jihou",
    "post_date": "2026-11-02",
@@ -223,6 +389,18 @@
    "url": "http://namosquare.org/onstage/onstage.html",
    "desc": "寺報11月号。老いによる体の不調を嘆く日々のなかに、老いることの有り難さを見いだしていく随想を載せる。",
    "tid": "405"
+  },
+  {
+   "行": 272,
+   "cat": "houwa",
+   "post_date": "2026-11-02",
+   "pref": "",
+   "city": "名古屋市中区",
+   "temple": "宗圓寺",
+   "title": "如来というのは 形ではないのです 声なのです",
+   "url": "https://soenji.blogspot.com/",
+   "desc": "",
+   "tid": "272"
   },
   {
    "行": 1067,
@@ -277,6 +455,30 @@
    "tid": "386"
   },
   {
+   "行": 661,
+   "cat": "jihou",
+   "post_date": "2026-11-01",
+   "pref": "岡山県",
+   "city": "小田郡矢掛町",
+   "temple": "専教寺",
+   "title": "専教寺寺報「2026年秋号」",
+   "url": "https://senkyoji.com/?cat=6",
+   "desc": "専教寺の2026年秋号寺報。秋の行事報告と今後の法要案内、住職からの法話を収録。",
+   "tid": "661"
+  },
+  {
+   "行": 660,
+   "cat": "jihou",
+   "post_date": "2026-11-01",
+   "pref": "岡山県",
+   "city": "笠岡市",
+   "temple": "浄心寺",
+   "title": "2026年11月秋季号",
+   "url": "https://joshinji.suki-ari.net/",
+   "desc": "2026年秋季号の寺報。秋の法要のご案内や境内の様子、住職からのメッセージを掲載。",
+   "tid": "660"
+  },
+  {
    "行": 476,
    "cat": "jihou",
    "post_date": "2026-11-01",
@@ -301,6 +503,18 @@
    "tid": "449"
   },
   {
+   "行": 41,
+   "cat": "houwa",
+   "post_date": "2026-11-01",
+   "pref": "北海道",
+   "city": "深川市",
+   "temple": "教證寺",
+   "title": "令和8年11月法話 『馬の耳に念仏・私の耳にも念仏』",
+   "url": "http://kyoushouji.world.coocan.jp/sub4.htm",
+   "desc": "11月の法話。「馬の耳に念仏」ということわざを題材に、自らの耳にも念仏が届いていないことを問い直す内容。",
+   "tid": "41"
+  },
+  {
    "行": 341,
    "cat": "houkoku",
    "post_date": "2026-11-01",
@@ -311,6 +525,18 @@
    "url": "http://honpukuji-hamaotsu.net/",
    "desc": "",
    "tid": "341"
+  },
+  {
+   "行": 185,
+   "cat": "jihou",
+   "post_date": "2026-11-01",
+   "pref": "茨城県",
+   "city": "那珂市",
+   "temple": "上宮寺",
+   "title": "令和8年11月の上宮寺だより",
+   "url": "https://jyouguji.org/news.html",
+   "desc": "11月号の寺報だより。境内の秋の様子や法要のお知らせなどを掲載。",
+   "tid": "185"
   },
   {
    "行": 140,
@@ -375,6 +601,18 @@
    "tid": "749"
   },
   {
+   "行": 337,
+   "cat": "houkoku",
+   "post_date": "2026-10-31",
+   "pref": "滋賀県",
+   "city": "大津市",
+   "temple": "淨宗寺",
+   "title": "盂蘭盆の法座",
+   "url": "http://joshuji.jp/category/blog",
+   "desc": "8月15日に行われた盂蘭盆の法座の報告。参加者と共にお参りし念仏を称えた様子を記録。",
+   "tid": "337"
+  },
+  {
    "行": 1067,
    "cat": "houwa",
    "post_date": "2026-10-31",
@@ -385,6 +623,33 @@
    "url": "https://joufukuji.jimdofree.com/ブログ/",
    "desc": "年を取れば我慢が大切という講師の言葉に、自分は辛抱したことがない、周りが我慢してくれているのだと応じた逸話を紹介する。",
    "tid": "1067"
+  },
+  {
+   "行": 374,
+   "cat": "event",
+   "post_date": "2026-10-30",
+   "pref": "大阪府",
+   "city": "大阪市生野区",
+   "temple": "幸教寺",
+   "title": "フェスティバルホール雅楽公演会",
+   "url": "https://koukyouji.online/blog/",
+   "desc": "フェスティバルホールでの雅楽公演会のご案内。伝統的な雅楽の演奏を間近で鑑賞できる機会。",
+   "event_date": "2026-11-24",
+   "tid": "374"
+  },
+  {
+   "行": 374,
+   "cat": "event",
+   "post_date": "2026-10-30",
+   "pref": "大阪府",
+   "city": "大阪市生野区",
+   "temple": "幸教寺",
+   "title": "11月の行事日程について",
+   "url": "https://koukyouji.online/blog/",
+   "desc": "11月に予定されている行事の日程一覧。各法要・行事の日時と内容をまとめて案内。",
+   "event_date": "2026-11-01",
+   "event_until": "2026-11-30",
+   "tid": "374"
   },
   {
    "行": 973,
@@ -439,19 +704,6 @@
    "tid": "1067"
   },
   {
-   "行": 973,
-   "cat": "houwa",
-   "post_date": "2026-10-29",
-   "pref": "大分",
-   "city": "市",
-   "temple": "円光寺",
-   "title": "ゆっくりボチボチ",
-   "url": "https://j-enkouji.jp/pages/20?url=pages%2F20%2F",
-   "desc": "久しぶりに会った同級生と病の話を交わしたことから、思うようにならない今の身を受け入れ、できることをする心持ちを語る。",
-   "id": "ac33152d",
-   "tid": "973"
-  },
-  {
    "行": 310,
    "cat": "houkoku",
    "post_date": "2026-10-29",
@@ -500,18 +752,6 @@
    "url": "https://sinkoji.net/blog/",
    "desc": "おてらおやつクラブの食料等の発送作業を行いました。",
    "tid": "137"
-  },
-  {
-   "行": 1067,
-   "cat": "houwa",
-   "post_date": "2026-10-29",
-   "pref": "富山県",
-   "city": "氷見市",
-   "temple": "乗福寺",
-   "title": "《信心一つ》と云い　《名号一つ》とも言い",
-   "url": "https://joufukuji.jimdofree.com/ブログ/#2026-10-29",
-   "desc": "この世のモノは置いて行き、コトは持って往くという対比を入り口に、信心と名号について述べる法話。",
-   "tid": "1067"
   },
   {
    "行": 829,
@@ -627,6 +867,18 @@
    "tid": "423"
   },
   {
+   "行": 374,
+   "cat": "houkoku",
+   "post_date": "2026-10-23",
+   "pref": "大阪府",
+   "city": "大阪市生野区",
+   "temple": "幸教寺",
+   "title": "四天王寺の経供養に出仕しました",
+   "url": "https://koukyouji.online/blog/",
+   "desc": "四天王寺にて行われた経供養への出仕報告。厳粛な法要の様子と参加の感想を記録。",
+   "tid": "374"
+  },
+  {
    "行": 1075,
    "cat": "houkoku",
    "post_date": "2026-10-23",
@@ -634,9 +886,22 @@
    "city": "黒部市",
    "temple": "善巧寺",
    "title": "親鸞聖人像「愚禿」ブロンズ化計画",
-   "url": "https://zenkojiblackbelt.com/",
+   "url": "https://www.zengyou.net/gutoku-bronze/",
    "desc": "",
    "tid": "1075"
+  },
+  {
+   "行": 272,
+   "cat": "event",
+   "post_date": "2026-10-20",
+   "pref": "",
+   "city": "名古屋市中区",
+   "temple": "宗圓寺",
+   "title": "谷村武彦 solo ギター コンサート",
+   "url": "https://soenji.blogspot.com/search/label/%E8%A1%8C%E4%BA%8B",
+   "desc": "ギタリスト・谷村武彦によるソロコンサート。宗圓寺ホールにて、12月5日午後2時開演。",
+   "event_date": "2026-12-05",
+   "tid": "272"
   },
   {
    "行": 213,
@@ -649,18 +914,6 @@
    "url": "https://www.kyonenji.jp/event_report",
    "desc": "令和8年10月18日に行われた教念寺の仏具おみがき奉仕の報告。",
    "tid": "213"
-  },
-  {
-   "行": 171,
-   "cat": "houwa",
-   "post_date": "2026-10-18",
-   "pref": "千葉県",
-   "city": "松戸市",
-   "temple": "天真寺",
-   "title": "お西さんの法話",
-   "url": "https://tenshin.or.jp/",
-   "desc": "",
-   "tid": "171"
   },
   {
    "行": 153,
