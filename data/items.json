@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T04:00:22",
+ "updated": "2026-11-11T04:00:19",
  "items": [
   {
    "行": 660,
@@ -652,19 +652,6 @@
    "tid": "374"
   },
   {
-   "行": 973,
-   "cat": "houwa",
-   "post_date": "2026-10-30",
-   "pref": "大分",
-   "city": "市",
-   "temple": "円光寺",
-   "title": "お坊さんのたもとはエコバック",
-   "url": "https://j-enkouji.jp/pages/20?url=pages%2F20%2F",
-   "desc": "月参り先で出されたお菓子を衣のたもとに入れて持ち帰る話から、門徒の心づかいをいただき念仏申す日々を語る。",
-   "id": "f4e10132",
-   "tid": "973"
-  },
-  {
    "行": 60,
    "cat": "houkoku",
    "post_date": "2026-10-30",
@@ -689,19 +676,6 @@
    "desc": "",
    "id": "ca492453",
    "tid": "165"
-  },
-  {
-   "行": 1067,
-   "cat": "houwa",
-   "post_date": "2026-10-30",
-   "pref": "富山",
-   "city": "氷見市",
-   "temple": "乗福寺",
-   "title": "今　この時を　ミゾソバと供に",
-   "url": "https://joufukuji.jimdofree.com/ブログ/",
-   "desc": "",
-   "id": "457fc4b4",
-   "tid": "1067"
   },
   {
    "行": 310,
@@ -1002,18 +976,6 @@
    "url": "https://www.kakuouji.com/",
    "desc": "",
    "tid": "1"
-  },
-  {
-   "行": 352,
-   "cat": "houkoku",
-   "post_date": "2026-10-11",
-   "pref": "滋賀県",
-   "city": "彦根市",
-   "temple": "松原寺",
-   "title": "子供プレ報恩講",
-   "url": "http://www.shogenji-hikone.com/",
-   "desc": "",
-   "tid": "352"
   },
   {
    "行": 62,
