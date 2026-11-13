@@ -1,6 +1,191 @@
 {
- "updated": "2026-11-13T04:00:20",
+ "updated": "2026-11-14T04:00:23",
  "items": [
+  {
+   "行": 991,
+   "cat": "event",
+   "post_date": "2026-11-13",
+   "pref": "宮崎県",
+   "city": "都城市",
+   "temple": "摂護寺",
+   "title": "境内プロジェクションマッピング",
+   "url": "https://syogoji.jp/",
+   "desc": "",
+   "event_date": "2026-11-14",
+   "event_until": "2026-11-16",
+   "tid": "991"
+  },
+  {
+   "行": 1056,
+   "cat": "event",
+   "post_date": "2026-11-13",
+   "pref": "富山県",
+   "city": "小矢部市",
+   "temple": "光顔寺",
+   "title": "「仏前身だしなみプロジェクト」始動",
+   "url": "https://kougwanji.net/",
+   "desc": "仏前の装いを整えるため、良質ネクタイを無償で授与するアップサイクル企画を3拠点で始める",
+   "event_date": "2026-11-14",
+   "tid": "1056"
+  },
+  {
+   "行": 885,
+   "cat": "houwa",
+   "post_date": "2026-11-13",
+   "pref": "福岡県",
+   "city": "筑紫野市",
+   "temple": "真光寺",
+   "title": "手と手を合わせて",
+   "url": "https://sinkoji.com/houwa.html",
+   "desc": "仏壇の前でお念仏を申し、手を合わせる日々の在り方を食事のことばとともに語る法話",
+   "tid": "885"
+  },
+  {
+   "行": 854,
+   "cat": "houkoku",
+   "post_date": "2026-11-13",
+   "pref": "福岡県",
+   "city": "福岡市中央区",
+   "temple": "光明寺",
+   "title": "秋季彼岸法要",
+   "url": "https://komyoji-fukuoka.org/category/%e5%b9%b4%e9%96%93%e8%a1%8c%e4%ba%8b/",
+   "desc": "朝晩の冷え込む季節に秋季彼岸法要を勤めた様子を伝える記事",
+   "tid": "854"
+  },
+  {
+   "行": 216,
+   "cat": "houwa",
+   "post_date": "2026-11-13",
+   "pref": "埼玉県",
+   "city": "東松山市",
+   "temple": "西照寺",
+   "title": "元気が一番",
+   "url": "http://www.saisyoji.jp/%E8%A5%BF%E7%85%A7%E5%AF%BA%e3%80%80%E6%B3%95%E8%A9%B1%E4%BC%9A/",
+   "desc": "",
+   "tid": "216"
+  },
+  {
+   "行": 200,
+   "cat": "houkoku",
+   "post_date": "2026-11-13",
+   "pref": "栃木県",
+   "city": "那須郡那珂川町",
+   "temple": "慈願寺",
+   "title": "中西直樹編『仏教新聞雑誌 総目次シリーズ③ 『本山月報』『京都新報』総目次』発行",
+   "url": "http://jiganji.exblog.jp/i3/",
+   "desc": "",
+   "tid": "200"
+  },
+  {
+   "行": 1076,
+   "cat": "houkoku",
+   "post_date": "2026-11-13",
+   "pref": "富山県",
+   "city": "富山市",
+   "temple": "照蓮寺",
+   "title": "正信偈講座",
+   "url": "https://www.syourenji.com/activity",
+   "desc": "正信偈の講座を開いたことと参加者への感謝を短く伝える報告",
+   "tid": "1076"
+  },
+  {
+   "行": 168,
+   "cat": "event",
+   "post_date": "2026-11-12",
+   "pref": "千葉県",
+   "city": "千葉市中央区",
+   "temple": "大願寺",
+   "title": "2027（令和9）年 大願寺年間行事予定",
+   "url": "https://daiganji.info/event/",
+   "desc": "令和9年（2027年）の大願寺年間行事予定が公開された",
+   "event_date": "2026-11-15",
+   "event_until": "2027-05-02",
+   "tid": "168"
+  },
+  {
+   "行": 581,
+   "cat": "houwa",
+   "post_date": "2026-11-12",
+   "pref": "兵庫県",
+   "city": "川西市",
+   "temple": "浄福寺",
+   "title": "＃029 査定で6000円と言われた車～比べる心と仏さまのまなざし〜",
+   "url": "https://jofukuji.net/",
+   "desc": "査定で6000円と言われた車を機縁に比べる心と仏さまの眼差しを語る住職コラム第29回",
+   "tid": "581"
+  },
+  {
+   "行": 480,
+   "cat": "houwa",
+   "post_date": "2026-11-12",
+   "pref": "京都府",
+   "city": "京都市下京区",
+   "temple": "光隆寺",
+   "title": "紅葉は寒気にあいて色を増し",
+   "url": "https://sinsyu-kouryuji.com/",
+   "desc": "11月の掲示板「月のことば」として掲げられた仏教的な二句一対の言葉",
+   "tid": "480"
+  },
+  {
+   "行": 465,
+   "cat": "houwa",
+   "post_date": "2026-11-12",
+   "pref": "大阪府",
+   "city": "岸和田市",
+   "temple": "正源寺",
+   "title": "シャボン玉",
+   "url": "https://www.shogenji.com/%e7%be%a9%e7%88%b6%e3%81%ae%e6%b3%95%e8%a9%b1/",
+   "desc": "",
+   "tid": "465"
+  },
+  {
+   "行": 36,
+   "cat": "houwa",
+   "post_date": "2026-11-12",
+   "pref": "鹿児島県",
+   "city": "肝属郡肝付町",
+   "temple": "西方寺",
+   "title": "記憶を忘れていく、このいのちの途中で 〜果てしない孤独を包むお念仏〜",
+   "url": "https://k-saihouji.or.jp/news/",
+   "desc": "記憶を失っていく命の途中の孤独を、お念仏がどう包むかを語る法話",
+   "tid": "36"
+  },
+  {
+   "行": 216,
+   "cat": "houwa",
+   "post_date": "2026-11-12",
+   "pref": "埼玉県",
+   "city": "東松山市",
+   "temple": "西照寺",
+   "title": "痕跡制度⑧",
+   "url": "http://www.saisyoji.jp/%E8%A5%BF%E7%85%A7%E5%AF%BA%e3%80%80%E6%B3%95%E8%A9%B1%E4%BC%9A/",
+   "desc": "仏教コラム「痕跡制度」シリーズの第8回",
+   "tid": "216"
+  },
+  {
+   "行": 200,
+   "cat": "houkoku",
+   "post_date": "2026-11-12",
+   "pref": "栃木県",
+   "city": "那須郡那珂川町",
+   "temple": "慈願寺",
+   "title": "中西直樹「高楠霜子のこと」（『龍谷大学論集』第506号、2026年10月）",
+   "url": "http://jiganji.exblog.jp/i3/",
+   "desc": "高楠霜子の半生と女性教化への願いを解説した中西直樹の論稿の紹介",
+   "tid": "200"
+  },
+  {
+   "行": 1016,
+   "cat": "houwa",
+   "post_date": "2026-11-12",
+   "pref": "鹿児島県",
+   "city": "薩摩川内市",
+   "temple": "願生寺",
+   "title": "地獄ってどんな世界？",
+   "url": "https://www.gwanshoji.com/",
+   "desc": "仏教における地獄の世界とはどのようなものかを解説する記事",
+   "tid": "1016"
+  },
   {
    "行": 551,
    "cat": "event",
@@ -114,6 +299,18 @@
    "url": "https://zenkoji-nagoya.com/",
    "desc": "人間が死後どうなるのかという問いを入口に、お浄土の教えを語るコラム",
    "tid": "271"
+  },
+  {
+   "行": 253,
+   "cat": "houkoku",
+   "post_date": "2026-11-11",
+   "pref": "静岡県",
+   "city": "静岡市葵区",
+   "temple": "教覚寺",
+   "title": "本山・ダイアモンド婚奉告・ダーナ活動・ジェシー師",
+   "url": "https://kyogakuji.jp/",
+   "desc": "",
+   "tid": "253"
   },
   {
    "行": 252,
@@ -248,6 +445,19 @@
    "url": "https://www.kakuouji.com/",
    "desc": "11月の「おてらおやつクラブ」として食品を梱包発送した活動報告",
    "tid": "1"
+  },
+  {
+   "行": 29,
+   "cat": "event",
+   "post_date": "2026-11-09",
+   "pref": "北海道",
+   "city": "江別市",
+   "temple": "真願寺",
+   "title": "門信徒追悼会",
+   "url": "https://singanji.com/archives/1687.html",
+   "desc": "11月14日に配信予定の門信徒追悼会の案内",
+   "event_date": "2026-11-14",
+   "tid": "29"
   },
   {
    "行": 386,
@@ -527,18 +737,6 @@
    "tid": "941"
   },
   {
-   "行": 646,
-   "cat": "houwa",
-   "post_date": "2026-11-06",
-   "pref": "島根県",
-   "city": "江津市",
-   "temple": "光善寺",
-   "title": "煮しめという料理",
-   "url": "https://kouzen-ji.com/",
-   "desc": "",
-   "tid": "646"
-  },
-  {
    "行": 200,
    "cat": "houkoku",
    "post_date": "2026-11-06",
@@ -561,6 +759,18 @@
    "url": "https://saifuku-ji.com/category/nichijousahanji/",
    "desc": "親鸞聖人のご法事である報恩講を機に、念仏との出遇いと感謝のいのちについて語る法話。",
    "tid": "616"
+  },
+  {
+   "行": 4,
+   "cat": "houkoku",
+   "post_date": "2026-11-05",
+   "pref": "北海道",
+   "city": "札幌市白石区",
+   "temple": "安楽寺",
+   "title": "11月の常例法座",
+   "url": "https://anrakuji.org/jihou-yasuragi",
+   "desc": "11月5日の常例法座に布教使が出向し法話を行った報告",
+   "tid": "4"
   },
   {
    "行": 1067,
@@ -661,6 +871,18 @@
    "tid": "332"
   },
   {
+   "行": 1060,
+   "cat": "houkoku",
+   "post_date": "2026-11-03",
+   "pref": "富山県",
+   "city": "高岡市",
+   "temple": "廣濟寺",
+   "title": "子ども報恩講",
+   "url": "https://kosaiji.net/",
+   "desc": "2026年11月3日に開催した子ども報恩講に40名近くが参加した報告",
+   "tid": "1060"
+  },
+  {
    "行": 973,
    "cat": "houwa",
    "post_date": "2026-11-02",
@@ -683,6 +905,18 @@
    "url": "http://namosquare.org/onstage/onstage.html",
    "desc": "寺報11月号。老いによる体の不調を嘆く日々のなかに、老いることの有り難さを見いだしていく随想を載せる。",
    "tid": "405"
+  },
+  {
+   "行": 372,
+   "cat": "houkoku",
+   "post_date": "2026-11-02",
+   "pref": "大阪府",
+   "city": "大阪市生野区",
+   "temple": "光明寺",
+   "title": "今日のヨガ",
+   "url": "https://komyog.com/",
+   "desc": "寺のヨガ教室に初参加の男性も加わった日の活動報告",
+   "tid": "372"
   },
   {
    "行": 272,
@@ -771,6 +1005,18 @@
    "tid": "476"
   },
   {
+   "行": 461,
+   "cat": "houwa",
+   "post_date": "2026-11-01",
+   "pref": "大阪府",
+   "city": "堺市北区",
+   "temple": "正覚寺",
+   "title": "麻田弘潤さんの消しゴムはんこワークショップ",
+   "url": "https://sakai-shogakuji.net/%e3%81%bf%e6%95%99%e3%81%88%e3%81%a8%e5%85%b1%e3%81%ab/",
+   "desc": "11月1日に行った消しゴムはんこワークショップの様子を伝える記事",
+   "tid": "461"
+  },
+  {
    "行": 449,
    "cat": "houkoku",
    "post_date": "2026-11-01",
@@ -844,6 +1090,18 @@
   },
   {
    "行": 1003,
+   "cat": "houkoku",
+   "post_date": "2026-11-01",
+   "pref": "鹿児島県",
+   "city": "鹿児島市",
+   "temple": "妙行寺",
+   "title": "出張除夜の鐘 申し込みご案内",
+   "url": "https://myogyoji.com/",
+   "desc": "除夜の鐘を出張で執り行うサービスへの申し込み案内",
+   "tid": "1003"
+  },
+  {
+   "行": 1003,
    "cat": "houwa",
    "post_date": "2026-11-01",
    "pref": "鹿児島県",
@@ -865,19 +1123,6 @@
    "url": "https://jyunkyouji.com/news1/",
    "desc": "11月29日に公民館で開く終活の勉強会。実家や田畑の行く末、相続、墓の管理など、家族の将来にかかわる心配を取り上げる。",
    "event_date": "2026-11-29",
-   "tid": "749"
-  },
-  {
-   "行": 749,
-   "cat": "event",
-   "post_date": "2026-10-31",
-   "pref": "広島県",
-   "city": "広島市安佐北区",
-   "temple": "順教寺",
-   "title": "お寺Yoga",
-   "url": "https://jyunkyouji.com/",
-   "desc": "11月13日午後に本堂で開くヨガの会。呼吸を意識しながら無理なく体を動かし、お茶の時間も設ける。",
-   "event_date": "2026-11-13",
    "tid": "749"
   },
   {
