@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T04:00:25",
+ "updated": "2026-11-16T04:00:33",
  "items": [
   {
    "行": 450,
@@ -61,18 +61,6 @@
    "url": "https://monjyoji.com/news/",
    "desc": "氷見で勤められた報恩講法要のご報告",
    "tid": "220"
-  },
-  {
-   "行": 200,
-   "cat": "houwa",
-   "post_date": "2026-11-14",
-   "pref": "栃木県",
-   "city": "那須郡那珂川町",
-   "temple": "慈願寺",
-   "title": "菊城淳真著『傘寿記念 「仏道を歩む」―虚しく往きて、実ちて帰る―』発行",
-   "url": "http://jiganji.exblog.jp/i3/",
-   "desc": "傘寿記念に刊行された法話集の発行案内",
-   "tid": "200"
   },
   {
    "行": 171,
@@ -272,19 +260,6 @@
    "desc": "1987年公開の映画「親鸞 白い道」を本堂で上映する映画会の案内",
    "event_date": "2026-11-25",
    "tid": "132"
-  },
-  {
-   "行": 1027,
-   "cat": "event",
-   "post_date": "2026-11-11",
-   "pref": "福井県",
-   "city": "福井市",
-   "temple": "千福寺",
-   "title": "日曜学校（キッズサンガ）",
-   "url": "https://senpukuji.net/",
-   "desc": "11月15日に開催する子ども向け日曜学習「キッズサンガ」の案内",
-   "event_date": "2026-11-15",
-   "tid": "1027"
   },
   {
    "行": 476,
@@ -507,20 +482,6 @@
    "tid": "1"
   },
   {
-   "行": 134,
-   "cat": "event",
-   "post_date": "2026-11-09",
-   "pref": "東京都",
-   "city": "八王子市",
-   "temple": "誓願寺",
-   "title": "令和8年11月・12月の行事予定",
-   "url": "https://seiganji.tokyo/event_cat/houyou",
-   "desc": "",
-   "event_date": "2026-11-14",
-   "event_until": "2026-12-31",
-   "tid": "134"
-  },
-  {
    "行": 773,
    "cat": "houkoku",
    "post_date": "2026-11-09",
@@ -543,18 +504,6 @@
    "url": "https://nara-saihouji.net/blog/",
    "desc": "秋に勤められた報恩講の開催を伝える報告記事",
    "tid": "512"
-  },
-  {
-   "行": 465,
-   "cat": "houwa",
-   "post_date": "2026-11-09",
-   "pref": "大阪府",
-   "city": "岸和田市",
-   "temple": "正源寺",
-   "title": "イバライド",
-   "url": "https://www.shogenji.com/%e5%a0%b1%e6%81%a9%e8%ac%9b%e4%b8%a6%e3%81%b3%e3%81%ab%e4%bd%8f%e8%81%b7%e7%b6%99%e8%81%b7%e6%b3%95%e8%a6%81%e3%80%80%e5%be%a1%e6%b3%95%e8%a9%b1%ef%bd%9e%e6%ad%a3%ef%bd%9e/",
-   "desc": "",
-   "tid": "465"
   },
   {
    "行": 448,
@@ -733,19 +682,6 @@
    "tid": "1027"
   },
   {
-   "行": 654,
-   "cat": "event",
-   "post_date": "2026-11-08",
-   "pref": "岡山県",
-   "city": "岡山市南区",
-   "temple": "教徳寺",
-   "title": "おしえて住職～仏事作法の会～",
-   "url": "https://kyoutokuji.jimdofree.com/",
-   "desc": "住職が仏事の作法について分かりやすく解説するイベント。法要の意味や参拝の仕方など基礎から学べる。",
-   "event_date": "2026-11-15",
-   "tid": "654"
-  },
-  {
    "行": 866,
    "cat": "houkoku",
    "post_date": "2026-11-08",
@@ -891,19 +827,6 @@
    "desc": "",
    "event_date": "2026-11-25",
    "tid": "710"
-  },
-  {
-   "行": 405,
-   "cat": "event",
-   "post_date": "2026-11-06",
-   "pref": "大阪府",
-   "city": "池田市",
-   "temple": "正福寺",
-   "title": "清掃奉仕会",
-   "url": "http://namosquare.org/shoufukuji-gyouji/shoufukuji-gyouji.html",
-   "desc": "",
-   "event_date": "2026-11-15",
-   "tid": "405"
   },
   {
    "行": 941,
@@ -1432,19 +1355,6 @@
    "desc": "11月30日午後に開くヨガ教室。マットの貸し出しがあり、体力や体の硬さを問わずだれでも参加できる。",
    "event_date": "2026-11-30",
    "tid": "350"
-  },
-  {
-   "行": 752,
-   "cat": "event",
-   "post_date": "2026-10-27",
-   "pref": "広島県",
-   "city": "東広島市",
-   "temple": "徳正寺",
-   "title": "仏教壮年会『仏教講座』",
-   "url": "https://tokushoji.org/",
-   "desc": "仏教壮年会が11月15日午後に開く講座で、念仏者としての生き方を講題に他寺の僧侶の話を聞く。会員以外も聴講できる。",
-   "event_date": "2026-11-15",
-   "tid": "752"
   },
   {
    "行": 984,
