@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T04:00:23",
+ "updated": "2026-11-25T04:00:23",
  "items": [
   {
    "行": 553,
@@ -171,18 +171,6 @@
    "url": "https://kouzen-ji.com/blog",
    "desc": "",
    "tid": "646"
-  },
-  {
-   "行": 622,
-   "cat": "houkoku",
-   "post_date": "2026-11-18",
-   "pref": "鳥取県",
-   "city": "倉吉市",
-   "temple": "妙寂寺",
-   "title": "清掃奉仕活動（令和8年）",
-   "url": "https://myojakuji.com/",
-   "desc": "報恩講法要を前に境内の落ち葉集めとお仏具の磨きの清掃奉仕活動が行われた",
-   "tid": "622"
   },
   {
    "行": 621,
@@ -635,18 +623,6 @@
    "url": "https://www.kakuouji.com/",
    "desc": "11月の「おてらおやつクラブ」として食品を梱包発送した活動報告",
    "tid": "1"
-  },
-  {
-   "行": 773,
-   "cat": "houkoku",
-   "post_date": "2026-11-09",
-   "pref": "山口県",
-   "city": "下関市",
-   "temple": "暁雲寺",
-   "title": "築地本願寺にお参りしてきました",
-   "url": "https://www.kyounji.com/お知らせ",
-   "desc": "築地本願寺へのお参りの様子を伝える活動報告",
-   "tid": "773"
   },
   {
    "行": 512,
@@ -1231,19 +1207,6 @@
    "pref": "大阪府",
    "city": "大阪市生野区",
    "temple": "幸教寺",
-   "title": "フェスティバルホール雅楽公演会",
-   "url": "https://koukyouji.online/blog/",
-   "desc": "フェスティバルホールでの雅楽公演会のご案内。伝統的な雅楽の演奏を間近で鑑賞できる機会。",
-   "event_date": "2026-11-24",
-   "tid": "374"
-  },
-  {
-   "行": 374,
-   "cat": "event",
-   "post_date": "2026-10-30",
-   "pref": "大阪府",
-   "city": "大阪市生野区",
-   "temple": "幸教寺",
    "title": "11月の行事日程について",
    "url": "https://koukyouji.online/blog/",
    "desc": "11月に予定されている行事の日程一覧。各法要・行事の日時と内容をまとめて案内。",
@@ -1328,18 +1291,6 @@
    "tid": "137"
   },
   {
-   "行": 829,
-   "cat": "houkoku",
-   "post_date": "2026-10-28",
-   "pref": "愛媛県",
-   "city": "今治市風早町",
-   "temple": "常高寺",
-   "title": "令和8年度世話人会",
-   "url": "https://jokoji.info/",
-   "desc": "",
-   "tid": "829"
-  },
-  {
    "行": 350,
    "cat": "event",
    "post_date": "2026-10-27",
@@ -1388,31 +1339,6 @@
    "url": "https://nyoraiji.or.jp/",
    "desc": "",
    "tid": "400"
-  },
-  {
-   "行": 451,
-   "cat": "houkoku",
-   "post_date": "2026-10-25",
-   "pref": "大阪",
-   "city": "柏原市",
-   "temple": "西法寺",
-   "title": "報恩講法要関連行事「初参り」お勤めの様子です",
-   "url": "http://saihou-ji.com/",
-   "desc": "",
-   "id": "d68eae98",
-   "tid": "451"
-  },
-  {
-   "行": 423,
-   "cat": "houkoku",
-   "post_date": "2026-10-25",
-   "pref": "大阪府",
-   "city": "高槻市",
-   "temple": "光専寺",
-   "title": "2026年度報恩講を勤修いたしました",
-   "url": "https://kousenji-takatsuki.com/",
-   "desc": "",
-   "tid": "423"
   },
   {
    "行": 272,
