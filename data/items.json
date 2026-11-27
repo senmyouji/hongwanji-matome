@@ -1,6 +1,215 @@
 {
- "updated": "2026-11-27T04:00:27",
+ "updated": "2026-11-28T04:00:29",
  "items": [
+  {
+   "行": 423,
+   "cat": "event",
+   "post_date": "2026-11-27",
+   "pref": "大阪府",
+   "city": "高槻市",
+   "temple": "光専寺",
+   "title": "寺ヨガ",
+   "url": "https://kousenji-takatsuki.com/",
+   "desc": "",
+   "event_date": "2027-01-10",
+   "tid": "423"
+  },
+  {
+   "行": 14,
+   "cat": "event",
+   "post_date": "2026-11-27",
+   "pref": "北海道",
+   "city": "伊達市",
+   "temple": "紋鼈寺",
+   "title": "2026→2027もんべつじ除夜の鐘撞きライトアップ",
+   "url": "https://www.xn--78jxa6d9azf.com/info",
+   "desc": "",
+   "event_date": "2026-12-31",
+   "tid": "14"
+  },
+  {
+   "行": 405,
+   "cat": "event",
+   "post_date": "2026-11-27",
+   "pref": "大阪府",
+   "city": "池田市",
+   "temple": "正福寺",
+   "title": "親鸞聖人の生きるツボ～正信念仏偈講座～",
+   "url": "http://namosquare.org/shoufukuji-gyouji/shoufukuji-gyouji.html",
+   "desc": "親鸞聖人の正信念仏偈を題材に学ぶ講座。毎回単独での参加も可能。",
+   "event_date": "2026-12-06",
+   "tid": "405"
+  },
+  {
+   "行": 143,
+   "cat": "event",
+   "post_date": "2026-11-27",
+   "pref": "",
+   "city": "川崎市宮前区",
+   "temple": "浄照寺",
+   "title": "第五回正信偈講座",
+   "url": "https://sankakuzan.com/news.html",
+   "desc": "正信偈の道綽禅師から善導大師の箇所を学ぶ第五回講座。毎回単独での受講も可。",
+   "event_date": "2026-12-06",
+   "tid": "143"
+  },
+  {
+   "行": 873,
+   "cat": "houwa",
+   "post_date": "2026-11-27",
+   "pref": "福岡県",
+   "city": "宗像市",
+   "temple": "西教寺",
+   "title": "手を合わせる道は、亡き方とともに生きる道【後編】",
+   "url": "https://munakata-saikyouji.jp/category/uncategorized/",
+   "desc": "",
+   "tid": "873"
+  },
+  {
+   "行": 236,
+   "cat": "houkoku",
+   "post_date": "2026-11-27",
+   "pref": "長野県",
+   "city": "松本市",
+   "temple": "安養寺",
+   "title": "報恩講",
+   "url": "http://www.samizo-anyouji.sakuraweb.com/",
+   "desc": "",
+   "tid": "236"
+  },
+  {
+   "行": 216,
+   "cat": "houwa",
+   "post_date": "2026-11-27",
+   "pref": "埼玉県",
+   "city": "東松山市",
+   "temple": "西照寺",
+   "title": "穴場感",
+   "url": "http://www.saisyoji.jp/%E8%A5%BF%E7%85%A7%E5%AF%BA%e3%80%80%E6%B3%95%E8%A9%B1%E4%BC%9A/",
+   "desc": "",
+   "tid": "216"
+  },
+  {
+   "行": 37,
+   "cat": "event",
+   "post_date": "2026-11-26",
+   "pref": "北海道",
+   "city": "上川郡鷹栖町",
+   "temple": "専証寺",
+   "title": "そば打ち、法要幕張り",
+   "url": "https://takasu-senshi-zi.com/",
+   "desc": "",
+   "event_date": "2026-12-30",
+   "tid": "37"
+  },
+  {
+   "行": 435,
+   "cat": "houkoku",
+   "post_date": "2026-11-26",
+   "pref": "大阪府",
+   "city": "枚方市",
+   "temple": "勝円寺",
+   "title": "ビエンナーレ 〜宗教とアートの出会い〜 ご来場有り難うございました！",
+   "url": "https://jyoudoshinshu-syouenji.jp/info",
+   "desc": "寺院の境内で三組のアーティストと地元フードコートも楽しめる芸術祭が開かれた報告。",
+   "tid": "435"
+  },
+  {
+   "行": 386,
+   "cat": "houkoku",
+   "post_date": "2026-11-26",
+   "pref": "大阪府",
+   "city": "大阪市福島区",
+   "temple": "円満寺",
+   "title": "此花組（このはなそ）念仏奉仕団’26のご報告",
+   "url": "https://fukusima-enmanji.org/?cat=2",
+   "desc": "",
+   "tid": "386"
+  },
+  {
+   "行": 36,
+   "cat": "houwa",
+   "post_date": "2026-11-26",
+   "pref": "鹿児島県",
+   "city": "肝属郡肝付町",
+   "temple": "西方寺",
+   "title": "亡くなっていかれた方々との関わり",
+   "url": "https://k-saihouji.or.jp/news/",
+   "desc": "亡くなった方との関わりは死で途切れないと問いかけ、お念仏のなかで続く縁を語る法話。",
+   "tid": "36"
+  },
+  {
+   "行": 332,
+   "cat": "houkoku",
+   "post_date": "2026-11-26",
+   "pref": "三重県",
+   "city": "津市",
+   "temple": "西方寺",
+   "title": "お寺で桂三発さんの落語を楽しみました",
+   "url": "https://saihouji.jp/news/",
+   "desc": "",
+   "tid": "332"
+  },
+  {
+   "行": 306,
+   "cat": "houkoku",
+   "post_date": "2026-11-26",
+   "pref": "岐阜県",
+   "city": "安八郡安八町",
+   "temple": "覚成寺(岐阜)",
+   "title": "覚成寺〝にじのとも〟合同追悼法要をおつとめしました",
+   "url": "https://www.kakushoji.com/fcblog",
+   "desc": "にじのともの合同追悼法要を本堂でおつとめした報告。",
+   "tid": "306"
+  },
+  {
+   "行": 253,
+   "cat": "houkoku",
+   "post_date": "2026-11-26",
+   "pref": "静岡県",
+   "city": "静岡市葵区",
+   "temple": "教覚寺",
+   "title": "福井と東京へ報恩講出講",
+   "url": "https://kyogakuji.jp/",
+   "desc": "福井県と東京の他寺にて報恩講法要の法話に三日間にわたり出講した報告。",
+   "tid": "253"
+  },
+  {
+   "行": 216,
+   "cat": "houwa",
+   "post_date": "2026-11-26",
+   "pref": "埼玉県",
+   "city": "東松山市",
+   "temple": "西照寺",
+   "title": "本物性の保証③",
+   "url": "http://www.saisyoji.jp/%E8%A5%BF%E7%85%A7%E5%AF%BA%e3%80%80%E6%B3%95%E8%A9%B1%E4%BC%9A/",
+   "desc": "",
+   "tid": "216"
+  },
+  {
+   "行": 185,
+   "cat": "houkoku",
+   "post_date": "2026-11-26",
+   "pref": "茨城県",
+   "city": "那珂市",
+   "temple": "上宮寺",
+   "title": "令和8年報恩講法要が営まれる",
+   "url": "https://jyouguji.org/news.html",
+   "desc": "11月25日と26日に報恩講法要を山口県からご講師を迎えて多くの門信徒とお勤めした報告。",
+   "tid": "185"
+  },
+  {
+   "行": 1067,
+   "cat": "houwa",
+   "post_date": "2026-11-26",
+   "pref": "富山県",
+   "city": "氷見市",
+   "temple": "乗福寺",
+   "title": "『浄土和讃』 「徳号列示」其の七",
+   "url": "https://joufukuji.jimdofree.com/ブログ/",
+   "desc": "浄土和讃で無称光・超日月光ほか七つの阿弥陀仏の光の名を現代語で解説する法話。",
+   "tid": "1067"
+  },
   {
    "行": 217,
    "cat": "event",
@@ -15,6 +224,32 @@
    "tid": "217"
   },
   {
+   "行": 821,
+   "cat": "event",
+   "post_date": "2026-11-25",
+   "pref": "高知県",
+   "city": "宿毛市",
+   "temple": "清宝寺",
+   "title": "2027年1月金曜メディテーション",
+   "url": "https://seihoji.com/news/",
+   "desc": "",
+   "event_date": "2027-01-01",
+   "tid": "821"
+  },
+  {
+   "行": 386,
+   "cat": "event",
+   "post_date": "2026-11-25",
+   "pref": "大阪府",
+   "city": "大阪市福島区",
+   "temple": "円満寺",
+   "title": "えんまんじcafe26’12月のご案内",
+   "url": "https://fukusima-enmanji.org/?cat=2",
+   "desc": "",
+   "event_date": "2026-12-01",
+   "tid": "386"
+  },
+  {
    "行": 876,
    "cat": "jihou",
    "post_date": "2026-11-25",
@@ -25,6 +260,18 @@
    "url": "https://otera.or.jp/jihou/",
    "desc": "",
    "tid": "876"
+  },
+  {
+   "行": 873,
+   "cat": "houkoku",
+   "post_date": "2026-11-25",
+   "pref": "福岡県",
+   "city": "宗像市",
+   "temple": "西教寺",
+   "title": "報恩講を前に、ご門徒のみなさまと準備の一日を過ごしました",
+   "url": "https://munakata-saikyouji.jp/",
+   "desc": "",
+   "tid": "873"
   },
   {
    "行": 665,
@@ -61,6 +308,18 @@
    "url": "https://joufukuji.jimdofree.com/ブログ/",
    "desc": "浄土和讃の大安慰・智慧光・不断光・難思光の四種の仏号の意味を現代語訳付きで解説する法話",
    "tid": "1067"
+  },
+  {
+   "行": 105,
+   "cat": "houkoku",
+   "post_date": "2026-11-25",
+   "pref": "東京都",
+   "city": "新宿区",
+   "temple": "浄音寺",
+   "title": "千葉県・西光寺様の報恩講にて節談説教をお勤めしました",
+   "url": "https://jouonji.org/post14/",
+   "desc": "",
+   "tid": "105"
   },
   {
    "行": 821,
@@ -295,6 +554,78 @@
    "url": "https://joufukuji.jimdofree.com/ブログ/",
    "desc": "乗福寺で初めての音楽会を開き、ピアノとクラリネットの共演に恩徳讃変奏曲も演奏された",
    "tid": "1067"
+  },
+  {
+   "行": 973,
+   "cat": "houwa",
+   "post_date": "2026-11-22",
+   "pref": "大分県",
+   "city": "大分市",
+   "temple": "円光寺",
+   "title": "いい夫婦",
+   "url": "https://j-enkouji.jp/files/rss/block75.xml?1785337868",
+   "desc": "夫婦の違いを受け入れ、ともにお念仏の道を歩む縁を仏法に聞かせていただく法話。",
+   "tid": "973"
+  },
+  {
+   "行": 324,
+   "cat": "houkoku",
+   "post_date": "2026-11-22",
+   "pref": "三重県",
+   "city": "員弁郡東員町",
+   "temple": "欣浄寺",
+   "title": "昨日から報恩講がつとまっております",
+   "url": "https://gonjouji.org/",
+   "desc": "報恩講法要の進行中に、ご法話の内容がとても心に響いたという中間報告。",
+   "tid": "324"
+  },
+  {
+   "行": 973,
+   "cat": "houwa",
+   "post_date": "2026-11-21",
+   "pref": "大分県",
+   "city": "大分市",
+   "temple": "円光寺",
+   "title": "あるがままの仏法",
+   "url": "https://j-enkouji.jp/files/rss/block75.xml?1785337868",
+   "desc": "NHKの番組を通じて釈尊の「如実知見」（ありのままに見ること）を仏教の要として語る法話。",
+   "tid": "973"
+  },
+  {
+   "行": 555,
+   "cat": "houkoku",
+   "post_date": "2026-11-21",
+   "pref": "兵庫県",
+   "city": "神戸市東灘区",
+   "temple": "西林寺",
+   "title": "子ども会遠足 in 和歌山",
+   "url": "https://www.sairinji.net/",
+   "desc": "",
+   "tid": "555"
+  },
+  {
+   "行": 973,
+   "cat": "houwa",
+   "post_date": "2026-11-20",
+   "pref": "大分県",
+   "city": "大分市",
+   "temple": "円光寺",
+   "title": "大国のふるまい",
+   "url": "https://j-enkouji.jp/files/rss/block75.xml?1785337868",
+   "desc": "米中外交での冷遇ぶりを題材に自利利他円満の仏法の道理を語る法話。",
+   "tid": "973"
+  },
+  {
+   "行": 386,
+   "cat": "houwa",
+   "post_date": "2026-11-20",
+   "pref": "大阪府",
+   "city": "大阪市福島区",
+   "temple": "円満寺",
+   "title": "11月の法話（『歓喜の歌』）",
+   "url": "https://fukusima-enmanji.org/?cat=3",
+   "desc": "",
+   "tid": "386"
   },
   {
    "行": 553,
@@ -931,18 +1262,6 @@
    "tid": "438"
   },
   {
-   "行": 386,
-   "cat": "houkoku",
-   "post_date": "2026-11-09",
-   "pref": "大阪府",
-   "city": "大阪市福島区",
-   "temple": "円満寺",
-   "title": "えんまんじcafe26’11月のご報告",
-   "url": "https://fukusima-enmanji.org/?cat=2",
-   "desc": "11月のえんまんじcafeの開催活動を報告した記事",
-   "tid": "386"
-  },
-  {
    "行": 164,
    "cat": "houkoku",
    "post_date": "2026-11-09",
@@ -1202,18 +1521,6 @@
    "desc": "",
    "event_date": "2026-11-30",
    "tid": "882"
-  },
-  {
-   "行": 973,
-   "cat": "houwa",
-   "post_date": "2026-11-03",
-   "pref": "大分県",
-   "city": "大分市",
-   "temple": "円光寺",
-   "title": "憲法公布80年",
-   "url": "https://j-enkouji.jp/files/rss/block75.xml?1785337868",
-   "desc": "憲法公布80年を機に仏法の大切さを伝える法話",
-   "tid": "973"
   },
   {
    "行": 749,
@@ -1485,6 +1792,19 @@
    "tid": "165"
   },
   {
+   "行": 386,
+   "cat": "houwa",
+   "post_date": "2026-10-29",
+   "pref": "福島",
+   "city": "大阪府大阪市",
+   "temple": "円満寺",
+   "title": "ほッとけ米プロジェクト２６’１０月のご報告",
+   "url": "https://fukusima-enmanji.org/?cat=2",
+   "desc": "",
+   "id": "c98dc291",
+   "tid": "386"
+  },
+  {
    "行": 310,
    "cat": "houkoku",
    "post_date": "2026-10-29",
@@ -1572,19 +1892,6 @@
    "desc": "",
    "id": "f23688f0",
    "tid": "62"
-  },
-  {
-   "行": 868,
-   "cat": "event",
-   "post_date": "2026-10-08",
-   "pref": "福岡県",
-   "city": "糟屋郡",
-   "temple": "信行寺",
-   "title": "報恩講法要　仏教落語＆法話",
-   "url": "https://shingyoji.jp/",
-   "desc": "",
-   "event_date": "2026-11-27",
-   "tid": "868"
   },
   {
    "行": 476,
